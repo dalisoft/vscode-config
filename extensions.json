@@ -81,16 +81,6 @@
   },
   {
     "metadata": {
-      "id": "d6f6cfea-4b6f-41f4-b571-6ad2ab7918da",
-      "publisherId": "golang.go",
-      "publisherDisplayName": "golang"
-    },
-    "name": "go",
-    "publisher": "golang",
-    "version": "0.20.2"
-  },
-  {
-    "metadata": {
       "id": "0ec558c9-f7f7-4df3-b2cf-a41ddcf292dd",
       "publisherId": "mkaufman.HTMLHint",
       "publisherDisplayName": "mkaufman"
