@@ -77,7 +77,7 @@
     },
     "name": "gather",
     "publisher": "ms-python",
-    "version": "2020.12.1"
+    "version": "2021.1.0"
   },
   {
     "metadata": {
@@ -107,7 +107,7 @@
     },
     "name": "LogFileHighlighter",
     "publisher": "emilast",
-    "version": "2.10.0"
+    "version": "2.11.0"
   },
   {
     "metadata": {
@@ -171,6 +171,16 @@
   },
   {
     "metadata": {
+      "id": "40d39ce9-c381-47a0-80c8-a6661f731eab",
+      "publisherId": "ms-vscode.powershell",
+      "publisherDisplayName": "ms-vscode"
+    },
+    "name": "powershell",
+    "publisher": "ms-vscode",
+    "version": "2020.6.0"
+  },
+  {
+    "metadata": {
       "id": "96fa4707-6983-4489-b7c5-d5ffdfdcce90",
       "publisherId": "esbenp.prettier-vscode",
       "publisherDisplayName": "esbenp"
@@ -187,7 +197,7 @@
     },
     "name": "python",
     "publisher": "ms-python",
-    "version": "2020.12.424452561"
+    "version": "2021.1.502429796"
   },
   {
     "metadata": {
@@ -267,7 +277,7 @@
     },
     "name": "vscode-pylance",
     "publisher": "ms-python",
-    "version": "2021.1.1"
+    "version": "2021.1.2"
   },
   {
     "metadata": {
