@@ -171,16 +171,6 @@
   },
   {
     "metadata": {
-      "id": "40d39ce9-c381-47a0-80c8-a6661f731eab",
-      "publisherId": "ms-vscode.powershell",
-      "publisherDisplayName": "ms-vscode"
-    },
-    "name": "powershell",
-    "publisher": "ms-vscode",
-    "version": "2020.6.0"
-  },
-  {
-    "metadata": {
       "id": "96fa4707-6983-4489-b7c5-d5ffdfdcce90",
       "publisherId": "esbenp.prettier-vscode",
       "publisherDisplayName": "esbenp"
@@ -207,7 +197,7 @@
     },
     "name": "rust-analyzer",
     "publisher": "matklad",
-    "version": "0.2.457"
+    "version": "0.2.465"
   },
   {
     "metadata": {

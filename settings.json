@@ -191,5 +191,5 @@
   "python.analysis.completeFunctionParens": true,
   "python.analysis.typeCheckingMode": "strict",
   "jupyter.enableCellCodeLens": true,
-  "cSpell.enabled": false,
+  "cSpell.enabled": false
 }
