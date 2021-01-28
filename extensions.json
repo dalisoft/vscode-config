@@ -211,6 +211,16 @@
   },
   {
     "metadata": {
+      "id": "085342db-9568-49b0-ad93-3223ac4c1baa",
+      "publisherId": "mrmlnc.vscode-apache",
+      "publisherDisplayName": "mrmlnc"
+    },
+    "name": "vscode-apache",
+    "publisher": "mrmlnc",
+    "version": "1.2.0"
+  },
+  {
+    "metadata": {
       "id": "583b2b34-2c1e-4634-8c0b-0b82e283ea3a",
       "publisherId": "dbaeumer.vscode-eslint",
       "publisherDisplayName": "dbaeumer"
