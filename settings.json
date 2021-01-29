@@ -35,7 +35,7 @@
   "editor.fontSize": 14,
   "editor.fontFamily": "Monaco, Fira Code",
   "editor.codeLensFontSize": 14,
-  "editor.codeLensFontFamily": "Monaco, Fira Code",
+  "editor.codeLensFontFamily": "Fira Code",
   "editor.tabCompletion": "on",
   "editor.wordWrap": "bounded",
   "editor.tabSize": 2,
