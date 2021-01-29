@@ -281,6 +281,16 @@
   },
   {
     "metadata": {
+      "id": "b35cd5b4-18db-46f9-ba9e-06096c3b22d3",
+      "publisherId": "msjsdiag.vscode-react-native",
+      "publisherDisplayName": "msjsdiag"
+    },
+    "name": "vscode-react-native",
+    "publisher": "msjsdiag",
+    "version": "1.3.0"
+  },
+  {
+    "metadata": {
       "id": "6f5d4f30-67aa-4151-80c0-1bbe8ca5f9db",
       "publisherId": "cssho.vscode-svgviewer",
       "publisherDisplayName": "cssho"
