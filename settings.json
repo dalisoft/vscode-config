@@ -55,7 +55,7 @@
   "terminal.external.osxExec": "iTerm.app",
   "timeline.showView": true,
   "breadcrumbs.enabled": true,
-  "extensions.ignoreRecommendations": false,
+  "extensions.ignoreRecommendations": true,
   "extensions.autoUpdate": true,
   "extensions.autoCheckUpdates": true,
   "telemetry.enableCrashReporter": false,
@@ -135,12 +135,12 @@
     "**/node_modules/**": true,
     "**/build": true,
     "**/dist": true,
-    "**/tmp": true,
+    "**/tmp": true
   },
   "files.exclude": {},
   "files.autoSave": "onWindowChange",
   "files.trimTrailingWhitespace": true,
-  "files.insertFinalNewline": true,
+  "files.insertFinalNewline": false,
   "files.associations": {
     "*.js": "javascriptreact",
     "*.ts": "typescript",
@@ -170,11 +170,7 @@
   "git.rebaseWhenSync": true,
   "git.followTagsWhenSync": false,
   "git.supportCancellation": false,
-  "git.checkoutType": [
-    "local",
-    "remote",
-    "tags"
-  ],
+  "git.checkoutType": ["local", "remote", "tags"],
   "scm.alwaysShowActions": true,
   "scm.alwaysShowRepositories": true,
   "scm.defaultViewMode": "tree",
@@ -190,7 +186,7 @@
     "**/tmp": true,
     "**/node_modules": true,
     "**/bower_packages": true,
-    "**/bower_components": true,
+    "**/bower_components": true
   },
   "search.searchOnType": false,
   "search.collapseResults": "alwaysCollapse",
