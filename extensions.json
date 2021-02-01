@@ -281,16 +281,6 @@
   },
   {
     "metadata": {
-      "id": "7865e561-1c83-410e-9b99-aabada597a7e",
-      "publisherId": "vscjava.vscode-java-dependency",
-      "publisherDisplayName": "vscjava"
-    },
-    "name": "vscode-java-dependency",
-    "publisher": "vscjava",
-    "version": "0.17.0"
-  },
-  {
-    "metadata": {
       "id": "96f11e1f-1a46-4592-b084-f025b2c2a81f",
       "publisherId": "vscjava.vscode-java-pack",
       "publisherDisplayName": "vscjava"
@@ -311,16 +301,6 @@
   },
   {
     "metadata": {
-      "id": "b0f06c6b-24fb-4d7b-bd79-bc5e2fa17312",
-      "publisherId": "vscjava.vscode-maven",
-      "publisherDisplayName": "vscjava"
-    },
-    "name": "vscode-maven",
-    "publisher": "vscjava",
-    "version": "0.27.1"
-  },
-  {
-    "metadata": {
       "id": "ae9e3eb0-3357-4cc0-90ee-598d2d384757",
       "publisherId": "eg2.vscode-npm-script",
       "publisherDisplayName": "eg2"
@@ -338,26 +318,6 @@
     "name": "vscode-pylance",
     "publisher": "ms-python",
     "version": "2021.1.3"
-  },
-  {
-    "metadata": {
-      "id": "b35cd5b4-18db-46f9-ba9e-06096c3b22d3",
-      "publisherId": "msjsdiag.vscode-react-native",
-      "publisherDisplayName": "msjsdiag"
-    },
-    "name": "vscode-react-native",
-    "publisher": "msjsdiag",
-    "version": "1.3.0"
-  },
-  {
-    "metadata": {
-      "id": "66b3d158-f3cc-4b1b-acce-237ab336fe65",
-      "publisherId": "planbcoding.vscode-react-refactor",
-      "publisherDisplayName": "planbcoding"
-    },
-    "name": "vscode-react-refactor",
-    "publisher": "planbcoding",
-    "version": "1.1.1"
   },
   {
     "metadata": {
