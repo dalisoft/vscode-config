@@ -81,6 +81,16 @@
   },
   {
     "metadata": {
+      "id": "d6f6cfea-4b6f-41f4-b571-6ad2ab7918da",
+      "publisherId": "golang.go",
+      "publisherDisplayName": "golang"
+    },
+    "name": "go",
+    "publisher": "golang",
+    "version": "0.22.0"
+  },
+  {
+    "metadata": {
       "id": "0ec558c9-f7f7-4df3-b2cf-a41ddcf292dd",
       "publisherId": "mkaufman.HTMLHint",
       "publisherDisplayName": "mkaufman"
@@ -88,6 +98,16 @@
     "name": "HTMLHint",
     "publisher": "mkaufman",
     "version": "0.10.0"
+  },
+  {
+    "metadata": {
+      "id": "198a707e-28af-4e84-8610-6e2f628dd12d",
+      "publisherId": "redhat.java",
+      "publisherDisplayName": "redhat"
+    },
+    "name": "java",
+    "publisher": "redhat",
+    "version": "0.74.0"
   },
   {
     "metadata": {
@@ -197,7 +217,7 @@
     },
     "name": "rust-analyzer",
     "publisher": "matklad",
-    "version": "0.2.465"
+    "version": "0.2.473"
   },
   {
     "metadata": {
@@ -208,6 +228,16 @@
     "name": "shell-format",
     "publisher": "foxundermoon",
     "version": "7.0.1"
+  },
+  {
+    "metadata": {
+      "id": "a7fa941e-bcda-486f-8141-8483a6286177",
+      "publisherId": "SonarSource.sonarlint-vscode",
+      "publisherDisplayName": "SonarSource"
+    },
+    "name": "sonarlint-vscode",
+    "publisher": "SonarSource",
+    "version": "1.19.0"
   },
   {
     "metadata": {
@@ -247,7 +277,27 @@
     },
     "name": "vscode-intelephense-client",
     "publisher": "bmewburn",
-    "version": "1.6.2"
+    "version": "1.6.3"
+  },
+  {
+    "metadata": {
+      "id": "7865e561-1c83-410e-9b99-aabada597a7e",
+      "publisherId": "vscjava.vscode-java-dependency",
+      "publisherDisplayName": "vscjava"
+    },
+    "name": "vscode-java-dependency",
+    "publisher": "vscjava",
+    "version": "0.17.0"
+  },
+  {
+    "metadata": {
+      "id": "96f11e1f-1a46-4592-b084-f025b2c2a81f",
+      "publisherId": "vscjava.vscode-java-pack",
+      "publisherDisplayName": "vscjava"
+    },
+    "name": "vscode-java-pack",
+    "publisher": "vscjava",
+    "version": "0.12.1"
   },
   {
     "metadata": {
@@ -258,6 +308,16 @@
     "name": "vscode-markdownlint",
     "publisher": "DavidAnson",
     "version": "0.38.0"
+  },
+  {
+    "metadata": {
+      "id": "b0f06c6b-24fb-4d7b-bd79-bc5e2fa17312",
+      "publisherId": "vscjava.vscode-maven",
+      "publisherDisplayName": "vscjava"
+    },
+    "name": "vscode-maven",
+    "publisher": "vscjava",
+    "version": "0.27.1"
   },
   {
     "metadata": {
@@ -278,6 +338,26 @@
     "name": "vscode-pylance",
     "publisher": "ms-python",
     "version": "2021.1.3"
+  },
+  {
+    "metadata": {
+      "id": "b35cd5b4-18db-46f9-ba9e-06096c3b22d3",
+      "publisherId": "msjsdiag.vscode-react-native",
+      "publisherDisplayName": "msjsdiag"
+    },
+    "name": "vscode-react-native",
+    "publisher": "msjsdiag",
+    "version": "1.3.0"
+  },
+  {
+    "metadata": {
+      "id": "66b3d158-f3cc-4b1b-acce-237ab336fe65",
+      "publisherId": "planbcoding.vscode-react-refactor",
+      "publisherDisplayName": "planbcoding"
+    },
+    "name": "vscode-react-refactor",
+    "publisher": "planbcoding",
+    "version": "1.1.1"
   },
   {
     "metadata": {
@@ -317,6 +397,6 @@
     },
     "name": "vscodeintellicode",
     "publisher": "VisualStudioExptTeam",
-    "version": "1.2.10"
+    "version": "1.2.11"
   }
 ]
