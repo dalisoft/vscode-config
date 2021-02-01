@@ -231,16 +231,6 @@
   },
   {
     "metadata": {
-      "id": "a7fa941e-bcda-486f-8141-8483a6286177",
-      "publisherId": "SonarSource.sonarlint-vscode",
-      "publisherDisplayName": "SonarSource"
-    },
-    "name": "sonarlint-vscode",
-    "publisher": "SonarSource",
-    "version": "1.19.0"
-  },
-  {
-    "metadata": {
       "id": "085342db-9568-49b0-ad93-3223ac4c1baa",
       "publisherId": "mrmlnc.vscode-apache",
       "publisherDisplayName": "mrmlnc"
@@ -278,16 +268,6 @@
     "name": "vscode-intelephense-client",
     "publisher": "bmewburn",
     "version": "1.6.3"
-  },
-  {
-    "metadata": {
-      "id": "96f11e1f-1a46-4592-b084-f025b2c2a81f",
-      "publisherId": "vscjava.vscode-java-pack",
-      "publisherDisplayName": "vscjava"
-    },
-    "name": "vscode-java-pack",
-    "publisher": "vscjava",
-    "version": "0.12.1"
   },
   {
     "metadata": {
