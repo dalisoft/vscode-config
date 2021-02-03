@@ -56,8 +56,8 @@
   "timeline.showView": true,
   "breadcrumbs.enabled": true,
   "extensions.ignoreRecommendations": true,
-  "extensions.autoUpdate": true,
-  "extensions.autoCheckUpdates": true,
+  "extensions.autoUpdate": false,
+  "extensions.autoCheckUpdates": false,
   "telemetry.enableCrashReporter": false,
   "telemetry.enableTelemetry": false,
   "code-runner.enableAppInsights": false,
@@ -207,5 +207,9 @@
   "python.analysis.completeFunctionParens": true,
   "python.analysis.typeCheckingMode": "strict",
   "jupyter.enableCellCodeLens": true,
-  "cSpell.enabled": false
+  "java.implementationsCodeLens.enabled": true,
+  "java.project.importHint": true,
+  "cSpell.enabled": false,
+  "npm.fetchOnlinePackageInfo": false,
+  "settingsSync.keybindingsPerPlatform": false,
 }
