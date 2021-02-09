@@ -112,6 +112,7 @@
   "typescript.validate.enable": true,
   "typescript.format.enable": false,
   "typescript.tsserver.useSeparateSyntaxServer": true,
+  "typescript.tsserver.experimental.enableProjectDiagnostics": true,
   "typescript.disableAutomaticTypeAcquisition": true,
   "typescript.surveys.enabled": false,
   "typescript.suggest.paths": true,
@@ -194,6 +195,7 @@
   "task.quickOpen.detail": true,
   "npm.autoDetect": "on",
   "npm.packageManager": "auto",
+  "npm.fetchOnlinePackageInfo": false,
   "go.gopath": "~/go",
   "go.toolsGopath": "~/go/bin",
   "go.formatTool": "goimports",
@@ -210,6 +212,5 @@
   "java.implementationsCodeLens.enabled": true,
   "java.project.importHint": true,
   "cSpell.enabled": false,
-  "npm.fetchOnlinePackageInfo": false,
-  "settingsSync.keybindingsPerPlatform": false,
+  "settingsSync.keybindingsPerPlatform": false
 }

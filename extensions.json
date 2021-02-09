@@ -37,7 +37,7 @@
     },
     "name": "cpptools",
     "publisher": "ms-vscode",
-    "version": "1.1.3"
+    "version": "1.2.0"
   },
   {
     "metadata": {
@@ -87,7 +87,7 @@
     },
     "name": "go",
     "publisher": "golang",
-    "version": "0.22.0"
+    "version": "0.22.1"
   },
   {
     "metadata": {
@@ -98,6 +98,16 @@
     "name": "HTMLHint",
     "publisher": "mkaufman",
     "version": "0.10.0"
+  },
+  {
+    "metadata": {
+      "id": "198a707e-28af-4e84-8610-6e2f628dd12d",
+      "publisherId": "redhat.java",
+      "publisherDisplayName": "redhat"
+    },
+    "name": "java",
+    "publisher": "redhat",
+    "version": "0.74.0"
   },
   {
     "metadata": {
@@ -207,7 +217,7 @@
     },
     "name": "rust-analyzer",
     "publisher": "matklad",
-    "version": "0.2.473"
+    "version": "0.2.481"
   },
   {
     "metadata": {
@@ -287,7 +297,7 @@
     },
     "name": "vscode-pylance",
     "publisher": "ms-python",
-    "version": "2021.1.3"
+    "version": "2021.2.0"
   },
   {
     "metadata": {
