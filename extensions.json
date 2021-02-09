@@ -328,15 +328,5 @@
     "name": "vscode-yaml",
     "publisher": "redhat",
     "version": "0.14.0"
-  },
-  {
-    "metadata": {
-      "id": "876e8f93-74d0-4f4f-91b7-34a09f19f444",
-      "publisherId": "VisualStudioExptTeam.vscodeintellicode",
-      "publisherDisplayName": "VisualStudioExptTeam"
-    },
-    "name": "vscodeintellicode",
-    "publisher": "VisualStudioExptTeam",
-    "version": "1.2.11"
   }
 ]
