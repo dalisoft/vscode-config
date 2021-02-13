@@ -55,7 +55,6 @@
   "terminal.integrated.experimentalUseTitleEvent": true,
   "terminal.integrated.experimentalLinkProvider": true,
   "terminal.explorerKind": "external",
-  "terminal.external.osxExec": "iTerm.app",
   "timeline.showView": true,
   "breadcrumbs.enabled": true,
   "extensions.ignoreRecommendations": false,

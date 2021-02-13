@@ -107,7 +107,7 @@
     },
     "name": "java",
     "publisher": "redhat",
-    "version": "0.74.0"
+    "version": "0.75.0"
   },
   {
     "metadata": {
@@ -197,7 +197,7 @@
     },
     "name": "prettier-vscode",
     "publisher": "esbenp",
-    "version": "5.8.0"
+    "version": "5.9.2"
   },
   {
     "metadata": {
@@ -287,7 +287,7 @@
     },
     "name": "vscode-npm-script",
     "publisher": "eg2",
-    "version": "0.3.13"
+    "version": "0.3.15"
   },
   {
     "metadata": {
@@ -297,7 +297,7 @@
     },
     "name": "vscode-pylance",
     "publisher": "ms-python",
-    "version": "2021.2.0"
+    "version": "2021.2.2"
   },
   {
     "metadata": {
@@ -327,7 +327,7 @@
     },
     "name": "vscode-yaml",
     "publisher": "redhat",
-    "version": "0.14.0"
+    "version": "0.15.0"
   },
   {
     "metadata": {
