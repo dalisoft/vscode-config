@@ -172,13 +172,14 @@
   "emmet.showSuggestionsAsSnippets": true,
   "html.autoClosingTags": true,
   "git.openAfterClone": "prompt",
-  "git.enableSmartCommit": true,
+  "git.enableSmartCommit": false,
   "git.useCommitInputAsStashMessage": true,
   "git.autofetch": "all",
   "git.pruneOnFetch": true,
   "git.confirmSync": false,
   "git.rebaseWhenSync": true,
   "git.followTagsWhenSync": false,
+  "git.pullTags": false,
   "git.supportCancellation": false,
   "git.checkoutType": ["local", "remote", "tags"],
   "scm.alwaysShowActions": true,
@@ -226,5 +227,5 @@
   "java.project.importHint": true,
   "cSpell.enabled": false,
   "settingsSync.keybindingsPerPlatform": false,
-  "timeline.excludeSources": []
+  "timeline.excludeSources": [],
 }
