@@ -221,16 +221,6 @@
   },
   {
     "metadata": {
-      "id": "657a6acf-c705-4c3a-bcec-f0cc838cc88a",
-      "publisherId": "dannymcgee.scss-grammar-extended",
-      "publisherDisplayName": "dannymcgee"
-    },
-    "name": "scss-grammar-extended",
-    "publisher": "dannymcgee",
-    "version": "1.0.0"
-  },
-  {
-    "metadata": {
       "id": "5fb19573-2183-4cf2-b53d-0fb869dae7ae",
       "publisherId": "foxundermoon.shell-format",
       "publisherDisplayName": "foxundermoon"
