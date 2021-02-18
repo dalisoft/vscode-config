@@ -221,6 +221,16 @@
   },
   {
     "metadata": {
+      "id": "657a6acf-c705-4c3a-bcec-f0cc838cc88a",
+      "publisherId": "dannymcgee.scss-grammar-extended",
+      "publisherDisplayName": "dannymcgee"
+    },
+    "name": "scss-grammar-extended",
+    "publisher": "dannymcgee",
+    "version": "1.0.0"
+  },
+  {
+    "metadata": {
       "id": "5fb19573-2183-4cf2-b53d-0fb869dae7ae",
       "publisherId": "foxundermoon.shell-format",
       "publisherDisplayName": "foxundermoon"
@@ -238,6 +248,16 @@
     "name": "vscode-apache",
     "publisher": "mrmlnc",
     "version": "1.2.0"
+  },
+  {
+    "metadata": {
+      "id": "5f362e62-15b7-4fd3-a839-3a240d18c49d",
+      "publisherId": "clinyong.vscode-css-modules",
+      "publisherDisplayName": "clinyong"
+    },
+    "name": "vscode-css-modules",
+    "publisher": "clinyong",
+    "version": "0.2.3"
   },
   {
     "metadata": {
@@ -298,6 +318,16 @@
     "name": "vscode-pylance",
     "publisher": "ms-python",
     "version": "2021.2.3"
+  },
+  {
+    "metadata": {
+      "id": "beb68b20-7c55-471c-9b63-3486f9423566",
+      "publisherId": "mrmlnc.vscode-scss",
+      "publisherDisplayName": "mrmlnc"
+    },
+    "name": "vscode-scss",
+    "publisher": "mrmlnc",
+    "version": "0.9.0"
   },
   {
     "metadata": {
