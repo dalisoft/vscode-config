@@ -117,7 +117,7 @@
     },
     "name": "jupyter",
     "publisher": "ms-toolsai",
-    "version": "2020.12.414227025"
+    "version": "2021.2.576440691"
   },
   {
     "metadata": {
@@ -207,7 +207,7 @@
     },
     "name": "python",
     "publisher": "ms-python",
-    "version": "2021.1.502429796"
+    "version": "2021.2.576481509"
   },
   {
     "metadata": {
@@ -287,7 +287,7 @@
     },
     "name": "vscode-npm-script",
     "publisher": "eg2",
-    "version": "0.3.15"
+    "version": "0.3.16"
   },
   {
     "metadata": {
@@ -297,7 +297,17 @@
     },
     "name": "vscode-pylance",
     "publisher": "ms-python",
-    "version": "2021.2.2"
+    "version": "2021.2.3"
+  },
+  {
+    "metadata": {
+      "id": "ec35b5a3-9802-4c68-b5ff-e85f19ec0977",
+      "publisherId": "stylelint.vscode-stylelint",
+      "publisherDisplayName": "stylelint"
+    },
+    "name": "vscode-stylelint",
+    "publisher": "stylelint",
+    "version": "0.86.0"
   },
   {
     "metadata": {
