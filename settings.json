@@ -90,7 +90,6 @@
   "diffEditor.ignoreTrimWhitespace": false,
   "diffEditor.codeLens": true,
   "vsintellicode.modify.editor.suggestSelection": "choseToUpdateConfiguration",
-  "window.zoomLevel": 0,
   "window.title": "${dirty} ${activeEditorMedium}${separator}${rootName}",
   "window.nativeTabs": true,
   "window.titleBarStyle": "custom",
@@ -153,8 +152,7 @@
   "files.insertFinalNewline": false,
   "files.associations": {
     "*.js": "javascriptreact",
-    "*.ts": "typescript",
-    "*.css": "postcss"
+    "*.ts": "typescript"
   },
   "files.saveConflictResolution": "askUser",
   "files.restoreUndoStack": true,
