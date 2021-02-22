@@ -207,7 +207,7 @@
     },
     "name": "python",
     "publisher": "ms-python",
-    "version": "2021.2.576481509"
+    "version": "2021.2.582707922"
   },
   {
     "metadata": {
@@ -228,6 +228,16 @@
     "name": "shell-format",
     "publisher": "foxundermoon",
     "version": "7.0.1"
+  },
+  {
+    "metadata": {
+      "id": "25a2f566-0604-415c-bcc2-c01ef826d21e",
+      "publisherId": "1000ch.svgo",
+      "publisherDisplayName": "1000ch"
+    },
+    "name": "svgo",
+    "publisher": "1000ch",
+    "version": "1.7.0"
   },
   {
     "metadata": {

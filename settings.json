@@ -69,6 +69,7 @@
   "workbench.commandPalette.preserveInput": true,
   "workbench.enableExperiments": false,
   "workbench.sideBar.location": "left",
+  "workbench.tree.expandMode": "singleClick",
   "workbench.startupEditor": "welcomePage",
   "workbench.editor.pinnedTabSizing": "compact",
   "workbench.editor.limit.enabled": true,
