@@ -37,7 +37,7 @@
     },
     "name": "cpptools",
     "publisher": "ms-vscode",
-    "version": "1.2.1"
+    "version": "1.2.2"
   },
   {
     "metadata": {
@@ -117,7 +117,7 @@
     },
     "name": "jupyter",
     "publisher": "ms-toolsai",
-    "version": "2021.2.576440691"
+    "version": "2021.3.593162453"
   },
   {
     "metadata": {
@@ -317,7 +317,7 @@
     },
     "name": "vscode-pylance",
     "publisher": "ms-python",
-    "version": "2021.2.3"
+    "version": "2021.2.4"
   },
   {
     "metadata": {
