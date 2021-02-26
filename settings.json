@@ -74,7 +74,7 @@
   "workbench.editor.pinnedTabSizing": "compact",
   "workbench.editor.limit.enabled": true,
   "workbench.editor.limit.perEditorGroup": true,
-  "workbench.editor.limit.value": 8,
+  "workbench.editor.limit.value": 25,
   "workbench.editor.highlightModifiedTabs": true,
   "workbench.editor.enablePreviewFromQuickOpen": true,
   "workbench.editor.enablePreviewFromCodeNavigation": true,
