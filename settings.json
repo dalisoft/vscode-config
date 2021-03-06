@@ -99,6 +99,7 @@
   "window.nativeFullScreen": true,
   "window.restoreFullscreen": true,
   "window.restoreWindows": "all",
+  "window.newWindowDimensions": "offset",
   "javascript.referencesCodeLens.enabled": true,
   "javascript.referencesCodeLens.showOnAllFunctions": true,
   "javascript.implementationsCodeLens.enabled": true,
