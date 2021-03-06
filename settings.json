@@ -58,7 +58,7 @@
   "terminal.integrated.enablePersistentSessions": true,
   "timeline.showView": false,
   "breadcrumbs.enabled": false,
-  "extensions.ignoreRecommendations": false,
+  "extensions.ignoreRecommendations": true,
   "extensions.autoUpdate": true,
   "extensions.autoCheckUpdates": true,
   "telemetry.enableCrashReporter": false,
