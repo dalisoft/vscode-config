@@ -127,7 +127,7 @@
   "typescript.tsserver.experimental.enableProjectDiagnostics": false,
   "typescript.tsserver.maxTsServerMemory": 2048,
   "typescript.tsserver.log": "off",
-  "typescript.disableAutomaticTypeAcquisition": false,
+  "typescript.disableAutomaticTypeAcquisition": true,
   "typescript.surveys.enabled": false,
   "js/ts.implicitProjectConfig.checkJs": true,
   "js/ts.implicitProjectConfig.experimentalDecorators": true,
