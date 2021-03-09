@@ -37,7 +37,7 @@
     },
     "name": "cpptools",
     "publisher": "ms-vscode",
-    "version": "1.2.1"
+    "version": "1.2.2"
   },
   {
     "metadata": {
@@ -77,7 +77,7 @@
     },
     "name": "gather",
     "publisher": "ms-python",
-    "version": "2021.1.0"
+    "version": "2021.3.0"
   },
   {
     "metadata": {
@@ -87,7 +87,7 @@
     },
     "name": "go",
     "publisher": "golang",
-    "version": "0.22.1"
+    "version": "0.23.0"
   },
   {
     "metadata": {
@@ -107,7 +107,7 @@
     },
     "name": "java",
     "publisher": "redhat",
-    "version": "0.75.0"
+    "version": "0.76.0"
   },
   {
     "metadata": {
@@ -117,7 +117,7 @@
     },
     "name": "jupyter",
     "publisher": "ms-toolsai",
-    "version": "2021.2.576440691"
+    "version": "2021.3.619093157"
   },
   {
     "metadata": {
@@ -207,7 +207,7 @@
     },
     "name": "python",
     "publisher": "ms-python",
-    "version": "2021.2.582707922"
+    "version": "2021.2.633441544"
   },
   {
     "metadata": {
@@ -217,7 +217,7 @@
     },
     "name": "rust-analyzer",
     "publisher": "matklad",
-    "version": "0.2.497"
+    "version": "0.2.513"
   },
   {
     "metadata": {
@@ -317,7 +317,7 @@
     },
     "name": "vscode-pylance",
     "publisher": "ms-python",
-    "version": "2021.2.3"
+    "version": "2021.3.0"
   },
   {
     "metadata": {
@@ -367,7 +367,7 @@
     },
     "name": "vscode-yaml",
     "publisher": "redhat",
-    "version": "0.15.0"
+    "version": "0.16.0"
   },
   {
     "metadata": {

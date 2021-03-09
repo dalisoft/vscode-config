@@ -96,10 +96,10 @@
   "window.nativeTabs": true,
   "window.titleBarStyle": "custom",
   "window.menuBarVisibility": "compact",
-  "window.nativeFullScreen": true,
-  "window.restoreFullscreen": true,
+  "window.nativeFullScreen": false,
+  "window.restoreFullscreen": false,
   "window.restoreWindows": "all",
-  "window.newWindowDimensions": "offset",
+  "window.newWindowDimensions": "default",
   "javascript.referencesCodeLens.enabled": true,
   "javascript.referencesCodeLens.showOnAllFunctions": true,
   "javascript.implementationsCodeLens.enabled": true,
@@ -223,7 +223,7 @@
   "rust-analyzer.updates.askBeforeDownload": true,
   "rust-analyzer.lens.methodReferences": true,
   "docker.images.label": "Tag",
-  "python.languageServer": "Pylance",
+  "python.languageServer": "Jedi",
   "python.analysis.completeFunctionParens": true,
   "python.analysis.typeCheckingMode": "strict",
   "jupyter.enableCellCodeLens": true,
@@ -256,5 +256,11 @@
     "vue-postcss",
     "xml",
     "xsl"
+  ],
+  "workbench.editorAssociations": [
+    {
+      "viewType": "jupyter.notebook.ipynb",
+      "filenamePattern": "*.ipynb"
+    }
   ]
 }
