@@ -207,7 +207,7 @@
     },
     "name": "python",
     "publisher": "ms-python",
-    "version": "2021.2.633441544"
+    "version": "2021.2.636928669"
   },
   {
     "metadata": {
@@ -267,7 +267,7 @@
     },
     "name": "vscode-eslint",
     "publisher": "dbaeumer",
-    "version": "2.1.14"
+    "version": "2.1.16"
   },
   {
     "metadata": {
@@ -307,7 +307,7 @@
     },
     "name": "vscode-npm-script",
     "publisher": "eg2",
-    "version": "0.3.16"
+    "version": "0.3.17"
   },
   {
     "metadata": {
