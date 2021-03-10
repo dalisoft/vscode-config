@@ -221,7 +221,7 @@
   "rust-analyzer.updates.askBeforeDownload": true,
   "rust-analyzer.lens.methodReferences": true,
   "docker.images.label": "Tag",
-  "python.jediEnabled": true,
+  "python.jediEnabled": false,
   "python.linting.pylamaEnabled": true,
   "python.languageServer": "Pylance",
   "python.analysis.completeFunctionParens": true,
