@@ -57,7 +57,7 @@
     },
     "name": "dprint",
     "publisher": "dprint",
-    "version": "0.3.0"
+    "version": "0.4.0"
   },
   {
     "metadata": {
@@ -87,7 +87,7 @@
     },
     "name": "go",
     "publisher": "golang",
-    "version": "0.23.0"
+    "version": "0.23.2"
   },
   {
     "metadata": {
@@ -137,7 +137,7 @@
     },
     "name": "material-icon-theme",
     "publisher": "PKief",
-    "version": "4.5.0"
+    "version": "4.6.0"
   },
   {
     "metadata": {
@@ -197,7 +197,7 @@
     },
     "name": "prettier-vscode",
     "publisher": "esbenp",
-    "version": "5.9.2"
+    "version": "6.3.1"
   },
   {
     "metadata": {
@@ -207,7 +207,7 @@
     },
     "name": "python",
     "publisher": "ms-python",
-    "version": "2021.2.636928669"
+    "version": "2021.3.658691958"
   },
   {
     "metadata": {
@@ -217,7 +217,7 @@
     },
     "name": "rust-analyzer",
     "publisher": "matklad",
-    "version": "0.2.513"
+    "version": "0.2.521"
   },
   {
     "metadata": {
@@ -237,7 +237,7 @@
     },
     "name": "svgo",
     "publisher": "1000ch",
-    "version": "1.7.0"
+    "version": "2.0.1"
   },
   {
     "metadata": {
@@ -267,7 +267,7 @@
     },
     "name": "vscode-eslint",
     "publisher": "dbaeumer",
-    "version": "2.1.16"
+    "version": "2.1.19"
   },
   {
     "metadata": {
@@ -317,7 +317,7 @@
     },
     "name": "vscode-pylance",
     "publisher": "ms-python",
-    "version": "2021.3.0"
+    "version": "2021.3.2"
   },
   {
     "metadata": {
@@ -377,6 +377,6 @@
     },
     "name": "vscodeintellicode",
     "publisher": "VisualStudioExptTeam",
-    "version": "1.2.11"
+    "version": "1.2.12"
   }
 ]
