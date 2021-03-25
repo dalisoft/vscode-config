@@ -54,8 +54,8 @@
   "terminal.integrated.experimentalRefreshOnResume": true,
   "terminal.integrated.experimentalUseTitleEvent": true,
   "terminal.integrated.experimentalLinkProvider": true,
-  "terminal.explorerKind": "integrated",
-  "terminal.integrated.enablePersistentSessions": true,
+  "terminal.integrated.enablePersistentSessions": false,
+  "terminal.explorerKind": "external",
   "timeline.showView": false,
   "breadcrumbs.enabled": false,
   "extensions.ignoreRecommendations": true,
@@ -157,7 +157,7 @@
   "files.trimTrailingWhitespace": true,
   "files.insertFinalNewline": false,
   "files.associations": {
-    "*.js": "javascriptreact",
+    "*.js": "javascript",
     "*.ts": "typescript"
   },
   "files.saveConflictResolution": "askUser",
@@ -262,5 +262,6 @@
       "viewType": "jupyter.notebook.ipynb",
       "filenamePattern": "*.ipynb"
     }
-  ]
+  ],
+  "go.toolsManagement.autoUpdate": true
 }

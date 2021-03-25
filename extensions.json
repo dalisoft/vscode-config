@@ -57,7 +57,7 @@
     },
     "name": "dprint",
     "publisher": "dprint",
-    "version": "0.4.0"
+    "version": "0.5.0"
   },
   {
     "metadata": {
@@ -87,7 +87,7 @@
     },
     "name": "go",
     "publisher": "golang",
-    "version": "0.23.2"
+    "version": "0.23.3"
   },
   {
     "metadata": {
@@ -117,7 +117,7 @@
     },
     "name": "jupyter",
     "publisher": "ms-toolsai",
-    "version": "2021.3.619093157"
+    "version": "2021.3.684299474"
   },
   {
     "metadata": {
@@ -207,7 +207,7 @@
     },
     "name": "python",
     "publisher": "ms-python",
-    "version": "2021.3.658691958"
+    "version": "2021.3.680753044"
   },
   {
     "metadata": {
@@ -217,7 +217,7 @@
     },
     "name": "rust-analyzer",
     "publisher": "matklad",
-    "version": "0.2.521"
+    "version": "0.2.529"
   },
   {
     "metadata": {
@@ -317,7 +317,7 @@
     },
     "name": "vscode-pylance",
     "publisher": "ms-python",
-    "version": "2021.3.2"
+    "version": "2021.3.3"
   },
   {
     "metadata": {
