@@ -12,7 +12,7 @@
   "editor.detectIndentation": true,
   "editor.renderIndentGuides": true,
   "editor.cursorBlinking": "phase",
-  "editor.cursorSmoothCaretAnimation": false,
+  "editor.cursorSmoothCaretAnimation": true,
   "editor.formatOnPaste": false,
   "editor.formatOnType": false,
   "editor.formatOnSave": true,
@@ -217,6 +217,7 @@
   "go.formatTool": "goimports",
   "go.useLanguageServer": true,
   "go.languageServerFlags": ["serve", "-rpc.trace", "--debug=localhost:6060"],
+  "go.toolsManagement.autoUpdate": true,
   "reason_language_server.location": "/usr/local/bin/reason-language-server",
   "rust-analyzer.updates.askBeforeDownload": true,
   "rust-analyzer.lens.methodReferences": true,
@@ -262,6 +263,5 @@
       "viewType": "jupyter.notebook.ipynb",
       "filenamePattern": "*.ipynb"
     }
-  ],
-  "go.toolsManagement.autoUpdate": true
+  ]
 }
