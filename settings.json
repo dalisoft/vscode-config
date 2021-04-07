@@ -4,6 +4,7 @@
     "editor.defaultFormatter": "foxundermoon.shell-format"
   },
   "prettier.requireConfig": true,
+  "debug.terminal.clearBeforeReusing": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.scrollBeyondLastLine": false,
   "editor.scrollBeyondLastColumn": 0,
@@ -22,7 +23,7 @@
   "editor.minimap.renderCharacters": false,
   "editor.minimap.maxColumn": 80,
   "editor.minimap.showSlider": "always",
-  "editor.smoothScrolling": false,
+  "editor.smoothScrolling": true,
   "editor.quickSuggestions": true,
   "editor.quickSuggestionsDelay": 100,
   "editor.acceptSuggestionOnEnter": "smart",
@@ -56,6 +57,7 @@
   "terminal.integrated.experimentalLinkProvider": true,
   "terminal.integrated.enablePersistentSessions": false,
   "terminal.explorerKind": "external",
+  "terminal.external.osxExec": "iTerm.app",
   "timeline.showView": false,
   "breadcrumbs.enabled": false,
   "extensions.ignoreRecommendations": true,
@@ -75,7 +77,7 @@
   "workbench.editor.pinnedTabSizing": "compact",
   "workbench.editor.limit.enabled": true,
   "workbench.editor.limit.perEditorGroup": true,
-  "workbench.editor.limit.value": 25,
+  "workbench.editor.limit.value": 8,
   "workbench.editor.highlightModifiedTabs": true,
   "workbench.editor.enablePreviewFromQuickOpen": true,
   "workbench.editor.enablePreviewFromCodeNavigation": true,
@@ -88,6 +90,12 @@
   "workbench.settings.enableNaturalLanguageSearch": false,
   "workbench.iconTheme": "material-icon-theme",
   "workbench.colorTheme": "Monokai",
+  "workbench.editorAssociations": [
+    {
+      "viewType": "jupyter.notebook.ipynb",
+      "filenamePattern": "*.ipynb"
+    }
+  ],
   "material-icon-theme.showWelcomeMessage": false,
   "diffEditor.ignoreTrimWhitespace": false,
   "diffEditor.codeLens": true,
@@ -126,7 +134,7 @@
   "typescript.format.enable": false,
   "typescript.tsserver.useSeparateSyntaxServer": true,
   "typescript.tsserver.experimental.enableProjectDiagnostics": false,
-  "typescript.tsserver.maxTsServerMemory": 2048,
+  "typescript.tsserver.maxTsServerMemory": 4096,
   "typescript.tsserver.log": "off",
   "typescript.disableAutomaticTypeAcquisition": true,
   "typescript.surveys.enabled": false,
@@ -257,11 +265,5 @@
     "vue-postcss",
     "xml",
     "xsl"
-  ],
-  "workbench.editorAssociations": [
-    {
-      "viewType": "jupyter.notebook.ipynb",
-      "filenamePattern": "*.ipynb"
-    }
   ]
 }

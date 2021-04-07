@@ -87,7 +87,7 @@
     },
     "name": "go",
     "publisher": "golang",
-    "version": "0.23.3"
+    "version": "0.24.0"
   },
   {
     "metadata": {
@@ -197,7 +197,7 @@
     },
     "name": "prettier-vscode",
     "publisher": "esbenp",
-    "version": "6.3.1"
+    "version": "6.3.2"
   },
   {
     "metadata": {
@@ -217,7 +217,7 @@
     },
     "name": "rust-analyzer",
     "publisher": "matklad",
-    "version": "0.2.538"
+    "version": "0.2.546"
   },
   {
     "metadata": {
@@ -307,7 +307,7 @@
     },
     "name": "vscode-npm-script",
     "publisher": "eg2",
-    "version": "0.3.18"
+    "version": "0.3.19"
   },
   {
     "metadata": {
