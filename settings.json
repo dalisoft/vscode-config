@@ -75,6 +75,7 @@
   "workbench.tree.expandMode": "singleClick",
   "workbench.startupEditor": "welcomePage",
   "workbench.editor.pinnedTabSizing": "compact",
+  "workbench.editor.revealIfOpen": true,
   "workbench.editor.limit.enabled": true,
   "workbench.editor.limit.perEditorGroup": true,
   "workbench.editor.limit.value": 8,

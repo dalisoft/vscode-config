@@ -217,7 +217,7 @@
     },
     "name": "rust-analyzer",
     "publisher": "matklad",
-    "version": "0.2.546"
+    "version": "0.2.554"
   },
   {
     "metadata": {
@@ -227,7 +227,7 @@
     },
     "name": "shell-format",
     "publisher": "foxundermoon",
-    "version": "7.0.1"
+    "version": "7.1.0"
   },
   {
     "metadata": {
@@ -297,7 +297,7 @@
     },
     "name": "vscode-markdownlint",
     "publisher": "DavidAnson",
-    "version": "0.40.1"
+    "version": "0.40.3"
   },
   {
     "metadata": {
@@ -317,7 +317,7 @@
     },
     "name": "vscode-pylance",
     "publisher": "ms-python",
-    "version": "2021.3.4"
+    "version": "2021.4.0"
   },
   {
     "metadata": {
