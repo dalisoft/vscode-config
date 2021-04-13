@@ -57,7 +57,6 @@
   "terminal.integrated.experimentalLinkProvider": true,
   "terminal.integrated.enablePersistentSessions": false,
   "terminal.explorerKind": "external",
-  "terminal.external.osxExec": "iTerm.app",
   "timeline.showView": false,
   "breadcrumbs.enabled": false,
   "extensions.ignoreRecommendations": true,
