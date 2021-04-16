@@ -89,7 +89,7 @@
   "workbench.editor.decorations.colors": true,
   "workbench.settings.enableNaturalLanguageSearch": false,
   "workbench.iconTheme": "material-icon-theme",
-  "workbench.colorTheme": "Monokai",
+  "workbench.colorTheme": "Quiet Light",
   "workbench.editorAssociations": [
     {
       "viewType": "jupyter.notebook.ipynb",
