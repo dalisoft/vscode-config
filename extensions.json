@@ -27,7 +27,7 @@
     },
     "name": "code-spell-checker-russian",
     "publisher": "streetsidesoftware",
-    "version": "0.2.9"
+    "version": "0.2.10"
   },
   {
     "metadata": {
@@ -37,7 +37,7 @@
     },
     "name": "cpptools",
     "publisher": "ms-vscode",
-    "version": "1.3.0"
+    "version": "1.4.1"
   },
   {
     "metadata": {
@@ -57,7 +57,7 @@
     },
     "name": "dprint",
     "publisher": "dprint",
-    "version": "0.5.0"
+    "version": "0.6.0"
   },
   {
     "metadata": {
@@ -77,7 +77,27 @@
     },
     "name": "gather",
     "publisher": "ms-python",
-    "version": "2021.4.0"
+    "version": "2021.6.0"
+  },
+  {
+    "metadata": {
+      "id": "438221f8-1107-4ccd-a6fe-f3b7fe0856b7",
+      "publisherId": "mhutchie.git-graph",
+      "publisherDisplayName": "mhutchie"
+    },
+    "name": "git-graph",
+    "publisher": "mhutchie",
+    "version": "1.30.0"
+  },
+  {
+    "metadata": {
+      "id": "3e891cf9-53cb-49a3-8d01-8f0b1f0afb29",
+      "publisherId": "codezombiech.gitignore",
+      "publisherDisplayName": "codezombiech"
+    },
+    "name": "gitignore",
+    "publisher": "codezombiech",
+    "version": "0.7.0"
   },
   {
     "metadata": {
@@ -87,7 +107,7 @@
     },
     "name": "go",
     "publisher": "golang",
-    "version": "0.24.0"
+    "version": "0.25.1"
   },
   {
     "metadata": {
@@ -107,7 +127,7 @@
     },
     "name": "java",
     "publisher": "redhat",
-    "version": "0.76.0"
+    "version": "0.79.2"
   },
   {
     "metadata": {
@@ -117,7 +137,7 @@
     },
     "name": "jupyter",
     "publisher": "ms-toolsai",
-    "version": "2021.5.745244803"
+    "version": "2021.6.999230701"
   },
   {
     "metadata": {
@@ -137,7 +157,7 @@
     },
     "name": "material-icon-theme",
     "publisher": "PKief",
-    "version": "4.6.0"
+    "version": "4.7.0"
   },
   {
     "metadata": {
@@ -197,7 +217,17 @@
     },
     "name": "prettier-vscode",
     "publisher": "esbenp",
-    "version": "6.3.2"
+    "version": "6.4.0"
+  },
+  {
+    "metadata": {
+      "id": "30bcbe00-bac0-497a-838a-eda8e45d1864",
+      "publisherId": "peterj.proto",
+      "publisherDisplayName": "peterj"
+    },
+    "name": "proto",
+    "publisher": "peterj",
+    "version": "0.0.2"
   },
   {
     "metadata": {
@@ -207,7 +237,57 @@
     },
     "name": "python",
     "publisher": "ms-python",
-    "version": "2021.3.680753044"
+    "version": "2021.5.926500501"
+  },
+  {
+    "metadata": {
+      "id": "93ce222b-5f6f-49b7-9ab1-a0463c6238df",
+      "publisherId": "ms-vscode-remote.remote-containers",
+      "publisherDisplayName": "ms-vscode-remote"
+    },
+    "name": "remote-containers",
+    "publisher": "ms-vscode-remote",
+    "version": "0.183.0"
+  },
+  {
+    "metadata": {
+      "id": "607fd052-be03-4363-b657-2bd62b83d28a",
+      "publisherId": "ms-vscode-remote.remote-ssh",
+      "publisherDisplayName": "ms-vscode-remote"
+    },
+    "name": "remote-ssh",
+    "publisher": "ms-vscode-remote",
+    "version": "0.65.7"
+  },
+  {
+    "metadata": {
+      "id": "bfeaf631-bcff-4908-93ed-fda4ef9a0c5c",
+      "publisherId": "ms-vscode-remote.remote-ssh-edit",
+      "publisherDisplayName": "ms-vscode-remote"
+    },
+    "name": "remote-ssh-edit",
+    "publisher": "ms-vscode-remote",
+    "version": "0.65.7"
+  },
+  {
+    "metadata": {
+      "id": "f0c5397b-d357-4197-99f0-cb4202f22818",
+      "publisherId": "ms-vscode-remote.remote-wsl",
+      "publisherDisplayName": "ms-vscode-remote"
+    },
+    "name": "remote-wsl",
+    "publisher": "ms-vscode-remote",
+    "version": "0.56.5"
+  },
+  {
+    "metadata": {
+      "id": "fc7d7e85-2e58-4c1c-97a3-2172ed9a77cd",
+      "publisherId": "GitHub.remotehub",
+      "publisherDisplayName": "GitHub"
+    },
+    "name": "remotehub",
+    "publisher": "GitHub",
+    "version": "0.10.1"
   },
   {
     "metadata": {
@@ -217,7 +297,17 @@
     },
     "name": "rust-analyzer",
     "publisher": "matklad",
-    "version": "0.2.554"
+    "version": "0.2.629"
+  },
+  {
+    "metadata": {
+      "id": "ed3575fb-5812-4a43-9efb-c19649137420",
+      "publisherId": "liximomo.sftp",
+      "publisherDisplayName": "liximomo"
+    },
+    "name": "sftp",
+    "publisher": "liximomo",
+    "version": "1.12.9"
   },
   {
     "metadata": {
@@ -251,6 +341,16 @@
   },
   {
     "metadata": {
+      "id": "2f0eaac2-070b-4dc7-9b23-8dd4c970c11c",
+      "publisherId": "redhat.vscode-commons",
+      "publisherDisplayName": "redhat"
+    },
+    "name": "vscode-commons",
+    "publisher": "redhat",
+    "version": "0.0.6"
+  },
+  {
+    "metadata": {
       "id": "5f362e62-15b7-4fd3-a839-3a240d18c49d",
       "publisherId": "clinyong.vscode-css-modules",
       "publisherDisplayName": "clinyong"
@@ -261,13 +361,23 @@
   },
   {
     "metadata": {
+      "id": "0479fc1c-3d67-49f9-b087-fb9069afe48f",
+      "publisherId": "ms-azuretools.vscode-docker",
+      "publisherDisplayName": "ms-azuretools"
+    },
+    "name": "vscode-docker",
+    "publisher": "ms-azuretools",
+    "version": "1.13.0"
+  },
+  {
+    "metadata": {
       "id": "583b2b34-2c1e-4634-8c0b-0b82e283ea3a",
       "publisherId": "dbaeumer.vscode-eslint",
       "publisherDisplayName": "dbaeumer"
     },
     "name": "vscode-eslint",
     "publisher": "dbaeumer",
-    "version": "2.1.20"
+    "version": "2.1.22"
   },
   {
     "metadata": {
@@ -277,7 +387,7 @@
     },
     "name": "vscode-fish",
     "publisher": "bmalehorn",
-    "version": "1.0.20"
+    "version": "1.0.22"
   },
   {
     "metadata": {
@@ -287,7 +397,7 @@
     },
     "name": "vscode-intelephense-client",
     "publisher": "bmewburn",
-    "version": "1.6.3"
+    "version": "1.7.1"
   },
   {
     "metadata": {
@@ -297,7 +407,7 @@
     },
     "name": "vscode-markdownlint",
     "publisher": "DavidAnson",
-    "version": "0.40.3"
+    "version": "0.42.1"
   },
   {
     "metadata": {
@@ -307,7 +417,27 @@
     },
     "name": "vscode-npm-script",
     "publisher": "eg2",
-    "version": "0.3.20"
+    "version": "0.3.22"
+  },
+  {
+    "metadata": {
+      "id": "1d4d80c9-0d33-48a1-88a8-19ff80bc8e2a",
+      "publisherId": "ziyasal.vscode-open-in-github",
+      "publisherDisplayName": "ziyasal"
+    },
+    "name": "vscode-open-in-github",
+    "publisher": "ziyasal",
+    "version": "1.3.6"
+  },
+  {
+    "metadata": {
+      "id": "8130e01f-ac60-4803-ab86-f05469dd7b4d",
+      "publisherId": "kokororin.vscode-phpfmt",
+      "publisherDisplayName": "kokororin"
+    },
+    "name": "vscode-phpfmt",
+    "publisher": "kokororin",
+    "version": "1.0.30"
   },
   {
     "metadata": {
@@ -317,7 +447,7 @@
     },
     "name": "vscode-pylance",
     "publisher": "ms-python",
-    "version": "2021.4.0"
+    "version": "2021.6.1"
   },
   {
     "metadata": {
@@ -327,7 +457,7 @@
     },
     "name": "vscode-scss",
     "publisher": "mrmlnc",
-    "version": "0.9.0"
+    "version": "0.10.0"
   },
   {
     "metadata": {
@@ -367,7 +497,7 @@
     },
     "name": "vscode-yaml",
     "publisher": "redhat",
-    "version": "0.17.0"
+    "version": "0.19.2"
   },
   {
     "metadata": {
@@ -377,6 +507,6 @@
     },
     "name": "vscodeintellicode",
     "publisher": "VisualStudioExptTeam",
-    "version": "1.2.12"
+    "version": "1.2.14"
   }
 ]
