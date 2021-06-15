@@ -71,16 +71,6 @@
   },
   {
     "metadata": {
-      "id": "438221f8-1107-4ccd-a6fe-f3b7fe0856b7",
-      "publisherId": "mhutchie.git-graph",
-      "publisherDisplayName": "mhutchie"
-    },
-    "name": "git-graph",
-    "publisher": "mhutchie",
-    "version": "1.30.0"
-  },
-  {
-    "metadata": {
       "id": "3e891cf9-53cb-49a3-8d01-8f0b1f0afb29",
       "publisherId": "codezombiech.gitignore",
       "publisherDisplayName": "codezombiech"
@@ -237,7 +227,7 @@
     },
     "name": "rust-analyzer",
     "publisher": "matklad",
-    "version": "0.2.629"
+    "version": "0.2.637"
   },
   {
     "metadata": {
@@ -301,23 +291,13 @@
   },
   {
     "metadata": {
-      "id": "0479fc1c-3d67-49f9-b087-fb9069afe48f",
-      "publisherId": "ms-azuretools.vscode-docker",
-      "publisherDisplayName": "ms-azuretools"
-    },
-    "name": "vscode-docker",
-    "publisher": "ms-azuretools",
-    "version": "1.13.0"
-  },
-  {
-    "metadata": {
       "id": "583b2b34-2c1e-4634-8c0b-0b82e283ea3a",
       "publisherId": "dbaeumer.vscode-eslint",
       "publisherDisplayName": "dbaeumer"
     },
     "name": "vscode-eslint",
     "publisher": "dbaeumer",
-    "version": "2.1.22"
+    "version": "2.1.23"
   },
   {
     "metadata": {
@@ -398,16 +378,6 @@
     "name": "vscode-scss",
     "publisher": "mrmlnc",
     "version": "0.10.0"
-  },
-  {
-    "metadata": {
-      "id": "ec35b5a3-9802-4c68-b5ff-e85f19ec0977",
-      "publisherId": "stylelint.vscode-stylelint",
-      "publisherDisplayName": "stylelint"
-    },
-    "name": "vscode-stylelint",
-    "publisher": "stylelint",
-    "version": "0.86.0"
   },
   {
     "metadata": {
