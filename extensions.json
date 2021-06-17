@@ -71,6 +71,16 @@
   },
   {
     "metadata": {
+      "id": "438221f8-1107-4ccd-a6fe-f3b7fe0856b7",
+      "publisherId": "mhutchie.git-graph",
+      "publisherDisplayName": "mhutchie"
+    },
+    "name": "git-graph",
+    "publisher": "mhutchie",
+    "version": "1.30.0"
+  },
+  {
+    "metadata": {
       "id": "3e891cf9-53cb-49a3-8d01-8f0b1f0afb29",
       "publisherId": "codezombiech.gitignore",
       "publisherDisplayName": "codezombiech"
@@ -78,6 +88,16 @@
     "name": "gitignore",
     "publisher": "codezombiech",
     "version": "0.7.0"
+  },
+  {
+    "metadata": {
+      "id": "4de763bd-505d-4978-9575-2b7696ecf94e",
+      "publisherId": "eamodio.gitlens",
+      "publisherDisplayName": "eamodio"
+    },
+    "name": "gitlens",
+    "publisher": "eamodio",
+    "version": "11.5.1"
   },
   {
     "metadata": {
@@ -117,7 +137,7 @@
     },
     "name": "jupyter",
     "publisher": "ms-toolsai",
-    "version": "2021.6.999230701"
+    "version": "2021.6.999406279"
   },
   {
     "metadata": {
@@ -158,6 +178,16 @@
     "name": "open-in-browser",
     "publisher": "techer",
     "version": "2.0.0"
+  },
+  {
+    "metadata": {
+      "id": "7fd5f373-10e9-45ae-8a88-a7dd234dd5a3",
+      "publisherId": "DominicVonk.parameter-hints",
+      "publisherDisplayName": "DominicVonk"
+    },
+    "name": "parameter-hints",
+    "publisher": "DominicVonk",
+    "version": "0.2.7"
   },
   {
     "metadata": {
@@ -217,7 +247,7 @@
     },
     "name": "python",
     "publisher": "ms-python",
-    "version": "2021.5.926500501"
+    "version": "2021.6.944021595"
   },
   {
     "metadata": {
@@ -291,6 +321,16 @@
   },
   {
     "metadata": {
+      "id": "0479fc1c-3d67-49f9-b087-fb9069afe48f",
+      "publisherId": "ms-azuretools.vscode-docker",
+      "publisherDisplayName": "ms-azuretools"
+    },
+    "name": "vscode-docker",
+    "publisher": "ms-azuretools",
+    "version": "1.13.0"
+  },
+  {
+    "metadata": {
       "id": "583b2b34-2c1e-4634-8c0b-0b82e283ea3a",
       "publisherId": "dbaeumer.vscode-eslint",
       "publisherDisplayName": "dbaeumer"
@@ -331,6 +371,16 @@
   },
   {
     "metadata": {
+      "id": "414b2873-c80e-4dc6-9031-bd185cfb3944",
+      "publisherId": "william-voyek.vscode-nginx",
+      "publisherDisplayName": "william-voyek"
+    },
+    "name": "vscode-nginx",
+    "publisher": "william-voyek",
+    "version": "0.7.2"
+  },
+  {
+    "metadata": {
       "id": "ae9e3eb0-3357-4cc0-90ee-598d2d384757",
       "publisherId": "eg2.vscode-npm-script",
       "publisherDisplayName": "eg2"
@@ -367,7 +417,7 @@
     },
     "name": "vscode-pylance",
     "publisher": "ms-python",
-    "version": "2021.6.1"
+    "version": "2021.6.2"
   },
   {
     "metadata": {
@@ -378,6 +428,16 @@
     "name": "vscode-scss",
     "publisher": "mrmlnc",
     "version": "0.10.0"
+  },
+  {
+    "metadata": {
+      "id": "ec35b5a3-9802-4c68-b5ff-e85f19ec0977",
+      "publisherId": "stylelint.vscode-stylelint",
+      "publisherDisplayName": "stylelint"
+    },
+    "name": "vscode-stylelint",
+    "publisher": "stylelint",
+    "version": "0.86.0"
   },
   {
     "metadata": {
@@ -407,7 +467,7 @@
     },
     "name": "vscode-yaml",
     "publisher": "redhat",
-    "version": "0.19.2"
+    "version": "0.20.0"
   },
   {
     "metadata": {
