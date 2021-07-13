@@ -212,6 +212,9 @@
   "git-graph.repository.commits.showSignatureStatus": true,
   "git-graph.repository.sign.tags": true,
   "git-graph.repository.sign.commits": true,
+  "git-graph.repository.fetchAndPrune": true,
+  "git-graph.repository.fetchAndPruneTags": true,
+  "git-graph.repository.useMailmap": true,
   "scm.alwaysShowActions": true,
   "scm.alwaysShowRepositories": true,
   "scm.defaultViewMode": "tree",
@@ -291,5 +294,5 @@
     "php",
     "typescript",
     "typescriptreact"
-  ],
+  ]
 }
