@@ -97,7 +97,7 @@
     },
     "name": "gitlens",
     "publisher": "eamodio",
-    "version": "11.5.1"
+    "version": "11.6.0"
   },
   {
     "metadata": {
@@ -257,7 +257,7 @@
     },
     "name": "rust-analyzer",
     "publisher": "matklad",
-    "version": "0.2.662"
+    "version": "0.2.670"
   },
   {
     "metadata": {
@@ -278,6 +278,16 @@
     "name": "shell-format",
     "publisher": "foxundermoon",
     "version": "7.1.0"
+  },
+  {
+    "metadata": {
+      "id": "d19291a7-3a53-485a-a4d4-a2e55ae239e0",
+      "publisherId": "stoplight.spectral",
+      "publisherDisplayName": "stoplight"
+    },
+    "name": "spectral",
+    "publisher": "stoplight",
+    "version": "0.2.5"
   },
   {
     "metadata": {

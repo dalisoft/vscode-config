@@ -192,7 +192,7 @@
   "emmet.showExpandedAbbreviation": "never",
   "emmet.showSuggestionsAsSnippets": true,
   "html.autoClosingTags": true,
-  "git.enableCommitSigning": true,
+  "git.enableCommitSigning": false,
   "git.openAfterClone": "prompt",
   "git.enableSmartCommit": false,
   "git.useCommitInputAsStashMessage": true,
