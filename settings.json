@@ -89,7 +89,7 @@
   "workbench.experimental.useCustomHover": true,
   "workbench.sideBar.location": "left",
   "workbench.tree.expandMode": "singleClick",
-  "workbench.startupEditor": "gettingStarted",
+  "workbench.startupEditor": "welcomePage",
   "workbench.editor.pinnedTabSizing": "compact",
   "workbench.editor.revealIfOpen": true,
   "workbench.editor.limit.enabled": true,
