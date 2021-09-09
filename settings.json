@@ -123,7 +123,7 @@
   "window.dialogStyle": "custom",
   "window.titleBarStyle": "custom",
   "window.menuBarVisibility": "compact",
-  "window.nativeFullScreen": true,
+  "window.nativeFullScreen": false,
   "window.restoreFullscreen": true,
   "window.restoreWindows": "all",
   "window.newWindowDimensions": "default",
