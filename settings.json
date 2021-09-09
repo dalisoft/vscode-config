@@ -69,6 +69,7 @@
   "terminal.integrated.tabs.location": "right",
   "terminal.integrated.tabs.showActiveTerminal": "singleTerminalOrNarrow",
   "terminal.integrated.titleMode": "sequence",
+  "terminal.integrated.defaultProfile.osx": "fish",
   "terminal.explorerKind": "integrated",
   "timeline.showView": false,
   "timeline.excludeSources": [],
@@ -107,6 +108,8 @@
   "workbench.settings.enableNaturalLanguageSearch": false,
   "workbench.iconTheme": "material-icon-theme",
   "workbench.colorTheme": "Quiet Light",
+  "workbench.preferredDarkColorTheme": "Monokai",
+  "window.autoDetectColorScheme": true,
   "workbench.editorAssociations": {
     "*.ipynb": "jupyter.notebook.ipynb"
   },

@@ -67,7 +67,7 @@
     },
     "name": "gather",
     "publisher": "ms-python",
-    "version": "2021.6.0"
+    "version": "2021.9.0"
   },
   {
     "metadata": {
@@ -137,7 +137,7 @@
     },
     "name": "jupyter",
     "publisher": "ms-toolsai",
-    "version": "2021.8.2031190714"
+    "version": "2021.8.2041215044"
   },
   {
     "metadata": {
@@ -257,7 +257,7 @@
     },
     "name": "rust-analyzer",
     "publisher": "matklad",
-    "version": "0.2.727"
+    "version": "0.2.735"
   },
   {
     "metadata": {
@@ -347,7 +347,7 @@
     },
     "name": "vscode-eslint",
     "publisher": "dbaeumer",
-    "version": "2.1.23"
+    "version": "2.1.25"
   },
   {
     "metadata": {
@@ -427,7 +427,7 @@
     },
     "name": "vscode-pylance",
     "publisher": "ms-python",
-    "version": "2021.9.0"
+    "version": "2021.9.1"
   },
   {
     "metadata": {
