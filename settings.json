@@ -323,7 +323,7 @@
     "markdown": false
   },
   "local-history.enabled": 2,
-  "local-history.daysLimit": 0,
+  "local-history.daysLimit": 2000,
   "local-history.maxDisplay": 30,
   "local-history.saveDelay": 1000,
   "local-history.treeLocation": "localHistory",
