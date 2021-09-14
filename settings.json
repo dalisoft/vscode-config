@@ -20,6 +20,7 @@
   "editor.formatOnPaste": false,
   "editor.formatOnType": false,
   "editor.formatOnSave": true,
+  "editor.formatOnSaveMode": "modificationsIfAvailable",
   "editor.linkedEditing": true,
   "editor.codeActionsOnSave": ["source.fixAll", "source.organizeImports"],
   "editor.minimap.enabled": false,
@@ -320,5 +321,28 @@
     "yaml": false,
     "plaintext": true,
     "markdown": false
-  }
+  },
+  "local-history.enabled": 2,
+  "local-history.daysLimit": 0,
+  "local-history.maxDisplay": 30,
+  "local-history.saveDelay": 1000,
+  "local-history.treeLocation": "localHistory",
+  "local-history.exclude": [
+    "**/.history/**",
+    "**/.vscode/**",
+    "**/.cache/**",
+    "**/.git/**",
+    "**/.out/**",
+    "**/.idea/**",
+    "**/.webpack/**",
+    "**/node_modules/**",
+    "**/bower_packages/**",
+    "**/bower_components/**",
+    "**/typings/**",
+    "**/out/**",
+    "**/build/**",
+    "**/tmp/**",
+    "**/dist/**",
+    "**/Code/User/**"
+  ],
 }
