@@ -301,6 +301,16 @@
   },
   {
     "metadata": {
+      "id": "261cac81-cd7b-4555-bb41-0c2d2bcd3e70",
+      "publisherId": "Gruntfuggly.todo-tree",
+      "publisherDisplayName": "Gruntfuggly"
+    },
+    "name": "todo-tree",
+    "publisher": "Gruntfuggly",
+    "version": "0.0.214"
+  },
+  {
+    "metadata": {
       "id": "ecc7bbf7-9d61-46c8-b47e-a2a27c38b38d",
       "publisherId": "XadillaX.viml",
       "publisherDisplayName": "XadillaX"
@@ -468,16 +478,6 @@
     "name": "vscode-svgviewer",
     "publisher": "cssho",
     "version": "2.0.0"
-  },
-  {
-    "metadata": {
-      "id": "97a08c5f-6667-4242-a5c5-045dfb6bd4b9",
-      "publisherId": "wayou.vscode-todo-highlight",
-      "publisherDisplayName": "wayou"
-    },
-    "name": "vscode-todo-highlight",
-    "publisher": "wayou",
-    "version": "1.0.4"
   },
   {
     "metadata": {
