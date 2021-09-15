@@ -181,12 +181,13 @@
   "explorer.confirmDragAndDrop": false,
   "explorer.openEditors.visible": 0,
   "files.watcherExclude": {
-    "**/.git/**": true,
-    "**/.cache/**": true,
-    "**/.webpack/**": true,
-    "**/.idea/**": true,
-    "**/node_modules/**": true,
-    "**/public/**": true,
+    "**/.history": true,
+    "**/.git": true,
+    "**/.cache": true,
+    "**/.webpack": true,
+    "**/.idea": true,
+    "**/node_modules": true,
+    "**/public": true,
     "**/build": true,
     "**/dist": true,
     "**/tmp": true
@@ -243,6 +244,7 @@
   "scm.diffDecorationsGutterAction": "diff",
   "merge-conflict.codeLens.enabled": true,
   "search.exclude": {
+    "**/.history": true,
     "**/.cache": true,
     "**/.git": true,
     "**/.out": true,
