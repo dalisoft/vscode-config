@@ -20,7 +20,7 @@
   "editor.formatOnPaste": false,
   "editor.formatOnType": false,
   "editor.formatOnSave": true,
-  "editor.formatOnSaveMode": "modificationsIfAvailable",
+  "editor.formatOnSaveMode": "file",
   "editor.linkedEditing": true,
   "editor.codeActionsOnSave": ["source.fixAll", "source.organizeImports"],
   "editor.minimap.enabled": false,

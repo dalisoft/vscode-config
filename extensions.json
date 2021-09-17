@@ -17,7 +17,7 @@
     },
     "name": "code-spell-checker",
     "publisher": "streetsidesoftware",
-    "version": "2.0.5"
+    "version": "2.0.4"
   },
   {
     "metadata": {
@@ -27,7 +27,7 @@
     },
     "name": "code-spell-checker-russian",
     "publisher": "streetsidesoftware",
-    "version": "2.0.1"
+    "version": "0.2.11"
   },
   {
     "metadata": {
@@ -127,7 +127,7 @@
     },
     "name": "java",
     "publisher": "redhat",
-    "version": "0.82.0"
+    "version": "0.81.0"
   },
   {
     "metadata": {
@@ -447,7 +447,7 @@
     },
     "name": "vscode-pylance",
     "publisher": "ms-python",
-    "version": "2021.9.2"
+    "version": "2021.9.1"
   },
   {
     "metadata": {
