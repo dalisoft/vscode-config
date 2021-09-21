@@ -308,16 +308,9 @@
     "xml",
     "xsl"
   ],
-  "yaml.customTags": [
-    "!encrypted/pkcs1-oaep scalar",
-    "!vault scalar"
-  ],
+  "yaml.customTags": ["!encrypted/pkcs1-oaep scalar", "!vault scalar"],
   "markdown.preview.breaks": true,
-  "parameterHints.languages": [
-    "php",
-    "typescript",
-    "typescriptreact"
-  ],
+  "parameterHints.languages": ["php", "typescript", "typescriptreact"],
   "github.copilot.enable": {
     "*": true,
     "yaml": false,
@@ -328,7 +321,7 @@
   "local-history.daysLimit": 2000,
   "local-history.maxDisplay": 30,
   "local-history.saveDelay": 1,
-  "local-history.treeLocation": "localHistory",
+  "local-history.treeLocation": "explorer",
   "local-history.exclude": [
     "**/.history/**",
     "**/.vscode/**",
@@ -347,4 +340,5 @@
     "**/dist/**",
     "**/Code/User/**"
   ],
+  "todo-tree.general.statusBar": "total"
 }
