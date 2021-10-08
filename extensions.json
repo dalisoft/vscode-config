@@ -97,7 +97,7 @@
     },
     "name": "gitlens",
     "publisher": "eamodio",
-    "version": "11.6.0"
+    "version": "11.6.1"
   },
   {
     "metadata": {
@@ -137,7 +137,7 @@
     },
     "name": "jupyter",
     "publisher": "ms-toolsai",
-    "version": "2021.8.2041215044"
+    "version": "2021.9.1001312534"
   },
   {
     "metadata": {
@@ -148,6 +148,16 @@
     "name": "jupyter-keymap",
     "publisher": "ms-toolsai",
     "version": "1.0.0"
+  },
+  {
+    "metadata": {
+      "id": "b15c72f8-d5fe-421a-a4f7-27ed9f6addbf",
+      "publisherId": "ms-toolsai.jupyter-renderers",
+      "publisherDisplayName": "ms-toolsai"
+    },
+    "name": "jupyter-renderers",
+    "publisher": "ms-toolsai",
+    "version": "1.0.3"
   },
   {
     "metadata": {
@@ -167,7 +177,7 @@
     },
     "name": "LogFileHighlighter",
     "publisher": "emilast",
-    "version": "2.11.0"
+    "version": "2.12.0"
   },
   {
     "metadata": {
@@ -257,7 +267,7 @@
     },
     "name": "python",
     "publisher": "ms-python",
-    "version": "2021.9.1246542782"
+    "version": "2021.10.1317843341"
   },
   {
     "metadata": {
@@ -437,7 +447,7 @@
     },
     "name": "vscode-pull-request-github",
     "publisher": "GitHub",
-    "version": "0.30.0"
+    "version": "0.31.0"
   },
   {
     "metadata": {
