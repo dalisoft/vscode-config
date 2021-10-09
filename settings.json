@@ -6,6 +6,12 @@
   "[php]": {
     "editor.defaultFormatter": "kokororin.vscode-phpfmt"
   },
+  "[dotenv]": {
+    "editor.defaultFormatter": null
+  },
+  "[properties]": {
+    "editor.defaultFormatter": null
+  },
   "prettier.requireConfig": true,
   "debug.terminal.clearBeforeReusing": true,
   "security.workspace.trust.banner": "never",
