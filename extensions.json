@@ -17,7 +17,7 @@
     },
     "name": "code-spell-checker",
     "publisher": "streetsidesoftware",
-    "version": "2.0.9"
+    "version": "2.0.10"
   },
   {
     "metadata": {
@@ -28,6 +28,16 @@
     "name": "code-spell-checker-russian",
     "publisher": "streetsidesoftware",
     "version": "2.0.1"
+  },
+  {
+    "metadata": {
+      "id": "121396ad-85a1-45ec-9fd1-d95028a847f5",
+      "publisherId": "naumovs.color-highlight",
+      "publisherDisplayName": "naumovs"
+    },
+    "name": "color-highlight",
+    "publisher": "naumovs",
+    "version": "2.5.0"
   },
   {
     "metadata": {
