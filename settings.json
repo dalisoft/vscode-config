@@ -60,6 +60,7 @@
   "editor.codeLensFontFamily": "Fira Code",
   "editor.tabCompletion": "on",
   "editor.wordWrap": "bounded",
+  "editor.wordWrapColumn": 80,
   "editor.tabSize": 2,
   "editor.stickyTabStops": true,
   "editor.codeLens": true,
