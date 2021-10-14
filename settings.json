@@ -121,7 +121,7 @@
   "workbench.editor.decorations.colors": true,
   "workbench.settings.enableNaturalLanguageSearch": false,
   "workbench.iconTheme": "material-icon-theme",
-  "workbench.colorTheme": "Monokai",
+  "workbench.colorTheme": "Quiet Light",
   "window.autoDetectColorScheme": true,
   "workbench.preferredLightColorTheme": "Quiet Light",
   "workbench.preferredDarkColorTheme": "Monokai",
