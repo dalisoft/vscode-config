@@ -47,7 +47,7 @@
     },
     "name": "cpptools",
     "publisher": "ms-vscode",
-    "version": "1.6.0"
+    "version": "1.7.0"
   },
   {
     "metadata": {
@@ -147,7 +147,7 @@
     },
     "name": "jupyter",
     "publisher": "ms-toolsai",
-    "version": "2021.8.2041215044"
+    "version": "2021.9.1101343141"
   },
   {
     "metadata": {
@@ -187,7 +187,7 @@
     },
     "name": "LogFileHighlighter",
     "publisher": "emilast",
-    "version": "2.12.0"
+    "version": "2.13.0"
   },
   {
     "metadata": {
@@ -277,7 +277,7 @@
     },
     "name": "python",
     "publisher": "ms-python",
-    "version": "2021.10.1317843341"
+    "version": "2021.10.1336267007"
   },
   {
     "metadata": {
@@ -287,7 +287,7 @@
     },
     "name": "rust-analyzer",
     "publisher": "matklad",
-    "version": "0.2.768"
+    "version": "0.2.776"
   },
   {
     "metadata": {
@@ -307,7 +307,7 @@
     },
     "name": "shell-format",
     "publisher": "foxundermoon",
-    "version": "7.1.0"
+    "version": "7.1.1"
   },
   {
     "metadata": {
@@ -467,7 +467,7 @@
     },
     "name": "vscode-pylance",
     "publisher": "ms-python",
-    "version": "2021.10.0"
+    "version": "2021.10.1"
   },
   {
     "metadata": {

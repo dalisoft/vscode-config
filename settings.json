@@ -12,6 +12,9 @@
   "[properties]": {
     "editor.defaultFormatter": null
   },
+  "[ignore]": {
+    "editor.defaultFormatter": null
+  },
   "prettier.requireConfig": true,
   "debug.terminal.clearBeforeReusing": true,
   "security.workspace.trust.banner": "never",
