@@ -230,6 +230,7 @@
   "emmet.showExpandedAbbreviation": "never",
   "emmet.showSuggestionsAsSnippets": true,
   "html.autoClosingTags": true,
+  "git.detectSubmodulesLimit": 50,
   "git.showUnpublishedCommitsButton": "whenEmpty",
   "git.statusLimit": 5000,
   "git.enableCommitSigning": false,
