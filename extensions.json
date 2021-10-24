@@ -91,6 +91,16 @@
   },
   {
     "metadata": {
+      "id": "b75c12ec-9a82-45e7-aac2-1687e509a76b",
+      "publisherId": "sidneys1.gitconfig",
+      "publisherDisplayName": "sidneys1"
+    },
+    "name": "gitconfig",
+    "publisher": "sidneys1",
+    "version": "2.0.1"
+  },
+  {
+    "metadata": {
       "id": "3e891cf9-53cb-49a3-8d01-8f0b1f0afb29",
       "publisherId": "codezombiech.gitignore",
       "publisherDisplayName": "codezombiech"

@@ -1,19 +1,19 @@
 {
   "sync.gist": "376c3dfc48eae5a95d15cfc87639f6cf",
-  "[shellscript]": {
-    "editor.defaultFormatter": "foxundermoon.shell-format"
-  },
   "[php]": {
     "editor.defaultFormatter": "kokororin.vscode-phpfmt"
   },
+  "[shellscript]": {
+    "editor.defaultFormatter": "foxundermoon.shell-format"
+  },
   "[dotenv]": {
-    "editor.defaultFormatter": null
+    "editor.defaultFormatter": "foxundermoon.shell-format"
   },
   "[properties]": {
-    "editor.defaultFormatter": null
+    "editor.defaultFormatter": "foxundermoon.shell-format"
   },
   "[ignore]": {
-    "editor.defaultFormatter": null
+    "editor.defaultFormatter": "foxundermoon.shell-format"
   },
   "prettier.requireConfig": true,
   "debug.terminal.clearBeforeReusing": true,
@@ -212,6 +212,7 @@
   "files.trimTrailingWhitespace": true,
   "files.insertFinalNewline": false,
   "files.associations": {
+    ".gitmodules": "gitmodules",
     "*.js": "javascript",
     "*.ts": "typescript"
   },
