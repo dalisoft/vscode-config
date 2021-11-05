@@ -157,7 +157,7 @@
     },
     "name": "jupyter",
     "publisher": "ms-toolsai",
-    "version": "2021.9.1101343141"
+    "version": "2021.10.1001414422"
   },
   {
     "metadata": {
@@ -237,7 +237,7 @@
     },
     "name": "path-intellisense",
     "publisher": "christian-kohler",
-    "version": "2.4.1"
+    "version": "2.4.2"
   },
   {
     "metadata": {
@@ -287,7 +287,17 @@
     },
     "name": "python",
     "publisher": "ms-python",
-    "version": "2021.10.1365161279"
+    "version": "2021.11.1422169775"
+  },
+  {
+    "metadata": {
+      "id": "fc7d7e85-2e58-4c1c-97a3-2172ed9a77cd",
+      "publisherId": "GitHub.remotehub",
+      "publisherDisplayName": "GitHub"
+    },
+    "name": "remotehub",
+    "publisher": "GitHub",
+    "version": "0.18.0"
   },
   {
     "metadata": {
