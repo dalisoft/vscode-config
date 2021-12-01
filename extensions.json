@@ -147,7 +147,7 @@
     },
     "name": "java",
     "publisher": "redhat",
-    "version": "1.0.0"
+    "version": "1.1.0"
   },
   {
     "metadata": {
@@ -207,7 +207,7 @@
     },
     "name": "material-icon-theme",
     "publisher": "PKief",
-    "version": "4.10.0"
+    "version": "4.11.0"
   },
   {
     "metadata": {
@@ -237,7 +237,7 @@
     },
     "name": "path-intellisense",
     "publisher": "christian-kohler",
-    "version": "2.4.2"
+    "version": "2.6.0"
   },
   {
     "metadata": {
@@ -337,7 +337,7 @@
     },
     "name": "rust-analyzer",
     "publisher": "matklad",
-    "version": "0.2.826"
+    "version": "0.2.834"
   },
   {
     "metadata": {
@@ -417,7 +417,7 @@
     },
     "name": "vscode-css-modules",
     "publisher": "clinyong",
-    "version": "0.4.0"
+    "version": "0.4.1"
   },
   {
     "metadata": {
@@ -587,7 +587,7 @@
     },
     "name": "vscode-yaml",
     "publisher": "redhat",
-    "version": "1.2.0"
+    "version": "1.2.2"
   },
   {
     "metadata": {
