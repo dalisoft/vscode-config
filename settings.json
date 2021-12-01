@@ -155,7 +155,7 @@
   "typescript.implementationsCodeLens.showAllFunctions": true,
   "typescript.format.insertSpaceAfterSemicolonInForStatements": false,
   "typescript.suggest.autoImports": true,
-  "typescript.suggest.paths": false,
+  "typescript.suggest.paths": true,
   "typescript.suggest.includeAutomaticOptionalChainCompletions": true,
   "typescript.suggestionActions.enabled": true,
   "typescript.updateImportsOnFileMove.enabled": "always",
