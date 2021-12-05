@@ -41,6 +41,16 @@
   },
   {
     "metadata": {
+      "id": "690b692e-e8a9-493f-b802-8089d50ac1b2",
+      "publisherId": "ms-vscode.cpptools",
+      "publisherDisplayName": "ms-vscode"
+    },
+    "name": "cpptools",
+    "publisher": "ms-vscode",
+    "version": "1.7.1"
+  },
+  {
+    "metadata": {
       "id": "532533c9-a894-4a58-9eee-bbfbe7c06f71",
       "publisherId": "mikestead.dotenv",
       "publisherDisplayName": "mikestead"
@@ -167,7 +177,7 @@
     },
     "name": "jupyter-renderers",
     "publisher": "ms-toolsai",
-    "version": "1.0.3"
+    "version": "1.0.4"
   },
   {
     "metadata": {
@@ -201,6 +211,16 @@
   },
   {
     "metadata": {
+      "id": "d80b9a94-f4a6-4e39-bc42-62212e365682",
+      "publisherId": "pnp.polacode",
+      "publisherDisplayName": "pnp"
+    },
+    "name": "polacode",
+    "publisher": "pnp",
+    "version": "0.3.4"
+  },
+  {
+    "metadata": {
       "id": "04a962b1-1f76-484a-adcb-28119ea5ae1f",
       "publisherId": "ricard.postcss",
       "publisherDisplayName": "ricard"
@@ -221,6 +241,16 @@
   },
   {
     "metadata": {
+      "id": "30bcbe00-bac0-497a-838a-eda8e45d1864",
+      "publisherId": "peterj.proto",
+      "publisherDisplayName": "peterj"
+    },
+    "name": "proto",
+    "publisher": "peterj",
+    "version": "0.0.2"
+  },
+  {
+    "metadata": {
       "id": "f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5",
       "publisherId": "ms-python.python",
       "publisherDisplayName": "ms-python"
@@ -228,6 +258,56 @@
     "name": "python",
     "publisher": "ms-python",
     "version": "2021.11.1422169775"
+  },
+  {
+    "metadata": {
+      "id": "93ce222b-5f6f-49b7-9ab1-a0463c6238df",
+      "publisherId": "ms-vscode-remote.remote-containers",
+      "publisherDisplayName": "ms-vscode-remote"
+    },
+    "name": "remote-containers",
+    "publisher": "ms-vscode-remote",
+    "version": "0.205.2"
+  },
+  {
+    "metadata": {
+      "id": "607fd052-be03-4363-b657-2bd62b83d28a",
+      "publisherId": "ms-vscode-remote.remote-ssh",
+      "publisherDisplayName": "ms-vscode-remote"
+    },
+    "name": "remote-ssh",
+    "publisher": "ms-vscode-remote",
+    "version": "0.66.1"
+  },
+  {
+    "metadata": {
+      "id": "bfeaf631-bcff-4908-93ed-fda4ef9a0c5c",
+      "publisherId": "ms-vscode-remote.remote-ssh-edit",
+      "publisherDisplayName": "ms-vscode-remote"
+    },
+    "name": "remote-ssh-edit",
+    "publisher": "ms-vscode-remote",
+    "version": "0.66.1"
+  },
+  {
+    "metadata": {
+      "id": "f0c5397b-d357-4197-99f0-cb4202f22818",
+      "publisherId": "ms-vscode-remote.remote-wsl",
+      "publisherDisplayName": "ms-vscode-remote"
+    },
+    "name": "remote-wsl",
+    "publisher": "ms-vscode-remote",
+    "version": "0.58.5"
+  },
+  {
+    "metadata": {
+      "id": "fc7d7e85-2e58-4c1c-97a3-2172ed9a77cd",
+      "publisherId": "GitHub.remotehub",
+      "publisherDisplayName": "GitHub"
+    },
+    "name": "remotehub",
+    "publisher": "GitHub",
+    "version": "0.18.0"
   },
   {
     "metadata": {
@@ -311,6 +391,16 @@
   },
   {
     "metadata": {
+      "id": "0479fc1c-3d67-49f9-b087-fb9069afe48f",
+      "publisherId": "ms-azuretools.vscode-docker",
+      "publisherDisplayName": "ms-azuretools"
+    },
+    "name": "vscode-docker",
+    "publisher": "ms-azuretools",
+    "version": "1.18.0"
+  },
+  {
+    "metadata": {
       "id": "583b2b34-2c1e-4634-8c0b-0b82e283ea3a",
       "publisherId": "dbaeumer.vscode-eslint",
       "publisherDisplayName": "dbaeumer"
@@ -328,6 +418,26 @@
     "name": "vscode-fish",
     "publisher": "bmalehorn",
     "version": "1.0.24"
+  },
+  {
+    "metadata": {
+      "id": "ffda6552-0ad5-431b-a4fa-0905a7e4f3f0",
+      "publisherId": "bmewburn.vscode-intelephense-client",
+      "publisherDisplayName": "bmewburn"
+    },
+    "name": "vscode-intelephense-client",
+    "publisher": "bmewburn",
+    "version": "1.7.1"
+  },
+  {
+    "metadata": {
+      "id": "dd5a2c83-ad8c-4839-a529-0644e5acb646",
+      "publisherId": "mgmcdermott.vscode-language-babel",
+      "publisherDisplayName": "mgmcdermott"
+    },
+    "name": "vscode-language-babel",
+    "publisher": "mgmcdermott",
+    "version": "0.0.35"
   },
   {
     "metadata": {
@@ -351,13 +461,43 @@
   },
   {
     "metadata": {
+      "id": "8130e01f-ac60-4803-ab86-f05469dd7b4d",
+      "publisherId": "kokororin.vscode-phpfmt",
+      "publisherDisplayName": "kokororin"
+    },
+    "name": "vscode-phpfmt",
+    "publisher": "kokororin",
+    "version": "1.0.30"
+  },
+  {
+    "metadata": {
+      "id": "69ddd764-339a-4ecc-97c1-9c4ece58e36d",
+      "publisherId": "GitHub.vscode-pull-request-github",
+      "publisherDisplayName": "GitHub"
+    },
+    "name": "vscode-pull-request-github",
+    "publisher": "GitHub",
+    "version": "0.32.0"
+  },
+  {
+    "metadata": {
       "id": "364d2426-116a-433a-a5d8-a5098dc3afbd",
       "publisherId": "ms-python.vscode-pylance",
       "publisherDisplayName": "ms-python"
     },
     "name": "vscode-pylance",
     "publisher": "ms-python",
-    "version": "2021.11.2"
+    "version": "2021.12.0"
+  },
+  {
+    "metadata": {
+      "id": "23d72dfc-8dd1-4e30-926e-8783b4378f13",
+      "publisherId": "ms-vscode-remote.vscode-remote-extensionpack",
+      "publisherDisplayName": "ms-vscode-remote"
+    },
+    "name": "vscode-remote-extensionpack",
+    "publisher": "ms-vscode-remote",
+    "version": "0.21.0"
   },
   {
     "metadata": {
@@ -378,6 +518,16 @@
     "name": "vscode-sql-lit",
     "publisher": "thebearingedge",
     "version": "0.4.0"
+  },
+  {
+    "metadata": {
+      "id": "06cc3e44-aedb-41b8-a4ea-29ebf3c491fd",
+      "publisherId": "jpoissonnier.vscode-styled-components",
+      "publisherDisplayName": "jpoissonnier"
+    },
+    "name": "vscode-styled-components",
+    "publisher": "jpoissonnier",
+    "version": "1.6.6"
   },
   {
     "metadata": {
