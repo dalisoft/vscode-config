@@ -1,7 +1,26 @@
 {
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
   "sync.gist": "376c3dfc48eae5a95d15cfc87639f6cf",
   "prettier.requireConfig": true,
   "debug.terminal.clearBeforeReusing": true,
+  "vscode-edge-devtools.mirrorEdits": true,
   "security.workspace.trust.banner": "never",
   "editor.scrollBeyondLastLine": false,
   "editor.scrollBeyondLastColumn": 0,
@@ -22,7 +41,10 @@
   "editor.formatOnSave": true,
   "editor.formatOnSaveMode": "file",
   "editor.linkedEditing": true,
-  "editor.codeActionsOnSave": ["source.fixAll", "source.organizeImports"],
+  "editor.codeActionsOnSave": [
+    "source.fixAll",
+    "source.organizeImports"
+  ],
   "editor.minimap.enabled": false,
   "editor.minimap.renderCharacters": false,
   "editor.minimap.maxColumn": 80,
@@ -234,7 +256,11 @@
   "git.followTagsWhenSync": false,
   "git.pullTags": false,
   "git.supportCancellation": false,
-  "git.checkoutType": ["local", "remote", "tags"],
+  "git.checkoutType": [
+    "local",
+    "remote",
+    "tags"
+  ],
   "gitlens.codeLens.enabled": false,
   "gitlens.integrations.enabled": true,
   "gitlens.mode.active": "review",
@@ -275,9 +301,20 @@
   "npm.autoDetect": "on",
   "npm.packageManager": "auto",
   "npm.fetchOnlinePackageInfo": true,
+  "npm-intellisense.importES6": true,
+  "npm-intellisense.importQuotes": "'",
+  "npm-intellisense.importLinebreak": ";\r\n",
+  "npm-intellisense.importDeclarationType": "const",
+  "npm-intellisense.packageSubfoldersIntellisense": true,
+  "npm-intellisense.recursivePackageJsonLookup": true,
+  "npm-intellisense.scanDevDependencies": true,
   "go.formatTool": "goimports",
   "go.useLanguageServer": true,
-  "go.languageServerFlags": ["serve", "-rpc.trace", "--debug=localhost:6060"],
+  "go.languageServerFlags": [
+    "serve",
+    "-rpc.trace",
+    "--debug=localhost:6060"
+  ],
   "go.toolsManagement.autoUpdate": true,
   "reason_language_server.location": "/usr/local/bin/reason-language-server",
   "rust-analyzer.updates.askBeforeDownload": true,
@@ -319,9 +356,16 @@
     "xml",
     "xsl"
   ],
-  "yaml.customTags": ["!encrypted/pkcs1-oaep scalar", "!vault scalar"],
+  "yaml.customTags": [
+    "!encrypted/pkcs1-oaep scalar",
+    "!vault scalar"
+  ],
   "markdown.preview.breaks": true,
-  "parameterHints.languages": ["php", "typescript", "typescriptreact"],
+  "parameterHints.languages": [
+    "php",
+    "typescript",
+    "typescriptreact"
+  ],
   "github.copilot.enable": {
     "*": true,
     "yaml": false,

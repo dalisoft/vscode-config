@@ -211,6 +211,16 @@
   },
   {
     "metadata": {
+      "id": "dff6b801-247e-40e9-82e8-8c9b1d19d1b8",
+      "publisherId": "christian-kohler.npm-intellisense",
+      "publisherDisplayName": "christian-kohler"
+    },
+    "name": "npm-intellisense",
+    "publisher": "christian-kohler",
+    "version": "1.4.0"
+  },
+  {
+    "metadata": {
       "id": "d80b9a94-f4a6-4e39-bc42-62212e365682",
       "publisherId": "pnp.polacode",
       "publisherDisplayName": "pnp"
@@ -401,6 +411,16 @@
   },
   {
     "metadata": {
+      "id": "11cb120c-f665-45bc-a21e-6de8a5685850",
+      "publisherId": "ms-edgedevtools.vscode-edge-devtools",
+      "publisherDisplayName": "ms-edgedevtools"
+    },
+    "name": "vscode-edge-devtools",
+    "publisher": "ms-edgedevtools",
+    "version": "1.4.2"
+  },
+  {
+    "metadata": {
       "id": "583b2b34-2c1e-4634-8c0b-0b82e283ea3a",
       "publisherId": "dbaeumer.vscode-eslint",
       "publisherDisplayName": "dbaeumer"
@@ -458,6 +478,16 @@
     "name": "vscode-nginx",
     "publisher": "william-voyek",
     "version": "0.7.2"
+  },
+  {
+    "metadata": {
+      "id": "ae9e3eb0-3357-4cc0-90ee-598d2d384757",
+      "publisherId": "eg2.vscode-npm-script",
+      "publisherDisplayName": "eg2"
+    },
+    "name": "vscode-npm-script",
+    "publisher": "eg2",
+    "version": "0.3.23"
   },
   {
     "metadata": {
