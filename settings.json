@@ -65,6 +65,7 @@
   "editor.tabCompletion": "on",
   "editor.wordWrap": "bounded",
   "editor.wordWrapColumn": 80,
+  "editor.wrappingIndent": "indent",
   "editor.tabSize": 2,
   "editor.stickyTabStops": true,
   "editor.codeLens": true,
@@ -107,6 +108,7 @@
   "workbench.experimental.useCustomHover": true,
   "workbench.sideBar.location": "left",
   "workbench.tree.expandMode": "singleClick",
+  "workbench.tree.renderIndentGuides": "always",
   "workbench.startupEditor": "welcomePage",
   "workbench.editor.pinnedTabSizing": "compact",
   "workbench.editor.revealIfOpen": true,
@@ -392,5 +394,5 @@
     "**/dist/**",
     "**/Code/User/**"
   ],
-  "todo-tree.general.statusBar": "total"
+  "todo-tree.general.statusBar": "total",
 }
