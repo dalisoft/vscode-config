@@ -157,7 +157,7 @@
     },
     "name": "jupyter",
     "publisher": "ms-toolsai",
-    "version": "2021.10.1101450599"
+    "version": "2021.11.1001550889"
   },
   {
     "metadata": {
@@ -277,7 +277,7 @@
     },
     "name": "remote-containers",
     "publisher": "ms-vscode-remote",
-    "version": "0.205.2"
+    "version": "0.209.3"
   },
   {
     "metadata": {
@@ -287,7 +287,7 @@
     },
     "name": "remote-ssh",
     "publisher": "ms-vscode-remote",
-    "version": "0.66.1"
+    "version": "0.68.0"
   },
   {
     "metadata": {
@@ -297,7 +297,7 @@
     },
     "name": "remote-ssh-edit",
     "publisher": "ms-vscode-remote",
-    "version": "0.66.1"
+    "version": "0.68.0"
   },
   {
     "metadata": {
@@ -307,7 +307,7 @@
     },
     "name": "remote-wsl",
     "publisher": "ms-vscode-remote",
-    "version": "0.58.5"
+    "version": "0.63.4"
   },
   {
     "metadata": {
@@ -317,7 +317,7 @@
     },
     "name": "remotehub",
     "publisher": "GitHub",
-    "version": "0.18.0"
+    "version": "0.19.0"
   },
   {
     "metadata": {
@@ -327,7 +327,7 @@
     },
     "name": "rust-analyzer",
     "publisher": "matklad",
-    "version": "0.2.834"
+    "version": "0.2.842"
   },
   {
     "metadata": {
@@ -447,7 +447,7 @@
     },
     "name": "vscode-intelephense-client",
     "publisher": "bmewburn",
-    "version": "1.7.1"
+    "version": "1.8.0"
   },
   {
     "metadata": {

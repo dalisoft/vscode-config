@@ -1,20 +1,11 @@
 {
-  "[javascript]": {
+  "[javascript][javascriptreact]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "[javascriptreact]": {
+  "[typescript][typescriptreact]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "[typescript]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "[typescriptreact]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "[json]": {
-    "editor.defaultFormatter": "vscode.json-language-features"
-  },
-  "[jsonc]": {
+  "[json][jsonc]": {
     "editor.defaultFormatter": "vscode.json-language-features"
   },
   "sync.gist": "376c3dfc48eae5a95d15cfc87639f6cf",
@@ -134,12 +125,13 @@
   "workbench.editor.decorations.colors": true,
   "workbench.settings.enableNaturalLanguageSearch": false,
   "workbench.iconTheme": "material-icon-theme",
-  "workbench.colorTheme": "Monokai",
+  "workbench.colorTheme": "Quiet Light",
   "window.autoDetectColorScheme": true,
   "workbench.preferredLightColorTheme": "Quiet Light",
   "workbench.preferredDarkColorTheme": "Monokai",
   "workbench.editorAssociations": {
-    "*.ipynb": "jupyter.notebook.ipynb"
+    "*.ipynb": "jupyter.notebook.ipynb",
+    "*.md": "vscode.markdown.preview.editor"
   },
   "material-icon-theme.showWelcomeMessage": false,
   "diffEditor.ignoreTrimWhitespace": false,
@@ -162,8 +154,10 @@
   "javascript.suggest.autoImports": true,
   "javascript.suggest.includeAutomaticOptionalChainCompletions": true,
   "javascript.suggestionActions.enabled": true,
+  "javascript.suggest.classMemberSnippets.enabled": true,
   "javascript.updateImportsOnFileMove.enabled": "always",
   "javascript.autoClosingTags": true,
+  "javascript.preferences.jsxAttributeCompletionStyle": "auto",
   "javascript.inlayHints.parameterNames.enabled": "none",
   "javascript.inlayHints.variableTypes.enabled": false,
   "javascript.inlayHints.propertyDeclarationTypes.enabled": false,
@@ -180,8 +174,10 @@
   "typescript.suggest.paths": true,
   "typescript.suggest.includeAutomaticOptionalChainCompletions": true,
   "typescript.suggestionActions.enabled": true,
+  "typescript.suggest.classMemberSnippets.enabled": true,
   "typescript.updateImportsOnFileMove.enabled": "always",
   "typescript.autoClosingTags": true,
+  "typescript.preferences.jsxAttributeCompletionStyle": "auto",
   "typescript.inlayHints.parameterNames.enabled": "none",
   "typescript.inlayHints.variableTypes.enabled": false,
   "typescript.inlayHints.propertyDeclarationTypes.enabled": false,
@@ -277,6 +273,7 @@
   "scm.defaultViewMode": "tree",
   "scm.providerCountBadge": "auto",
   "scm.diffDecorationsGutterAction": "diff",
+  "scm.diffDecorationsIgnoreTrimWhitespace": false,
   "scm.showActionButton": true,
   "scm.countBadge": "all",
   "merge-conflict.codeLens.enabled": true,
