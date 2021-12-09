@@ -320,7 +320,7 @@
   "docker.showStartPage": false,
   "python.jediEnabled": true,
   "python.linting.pylamaEnabled": true,
-  "python.languageServer": "Jedi",
+  "python.languageServer": "Pylance",
   "python.analysis.completeFunctionParens": true,
   "python.analysis.typeCheckingMode": "strict",
   "python.showStartPage": false,
