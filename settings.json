@@ -309,6 +309,7 @@
   "npm-intellisense.packageSubfoldersIntellisense": true,
   "npm-intellisense.recursivePackageJsonLookup": true,
   "npm-intellisense.scanDevDependencies": true,
+  "json.maxItemsComputed": 1000,
   "go.formatTool": "goimports",
   "go.useLanguageServer": true,
   "go.languageServerFlags": [
