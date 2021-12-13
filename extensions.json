@@ -111,16 +111,6 @@
   },
   {
     "metadata": {
-      "id": "4de763bd-505d-4978-9575-2b7696ecf94e",
-      "publisherId": "eamodio.gitlens",
-      "publisherDisplayName": "eamodio"
-    },
-    "name": "gitlens",
-    "publisher": "eamodio",
-    "version": "11.7.0"
-  },
-  {
-    "metadata": {
       "id": "d6f6cfea-4b6f-41f4-b571-6ad2ab7918da",
       "publisherId": "golang.go",
       "publisherDisplayName": "golang"
@@ -267,57 +257,7 @@
     },
     "name": "python",
     "publisher": "ms-python",
-    "version": "2021.11.1422169775"
-  },
-  {
-    "metadata": {
-      "id": "93ce222b-5f6f-49b7-9ab1-a0463c6238df",
-      "publisherId": "ms-vscode-remote.remote-containers",
-      "publisherDisplayName": "ms-vscode-remote"
-    },
-    "name": "remote-containers",
-    "publisher": "ms-vscode-remote",
-    "version": "0.209.3"
-  },
-  {
-    "metadata": {
-      "id": "607fd052-be03-4363-b657-2bd62b83d28a",
-      "publisherId": "ms-vscode-remote.remote-ssh",
-      "publisherDisplayName": "ms-vscode-remote"
-    },
-    "name": "remote-ssh",
-    "publisher": "ms-vscode-remote",
-    "version": "0.68.0"
-  },
-  {
-    "metadata": {
-      "id": "bfeaf631-bcff-4908-93ed-fda4ef9a0c5c",
-      "publisherId": "ms-vscode-remote.remote-ssh-edit",
-      "publisherDisplayName": "ms-vscode-remote"
-    },
-    "name": "remote-ssh-edit",
-    "publisher": "ms-vscode-remote",
-    "version": "0.68.0"
-  },
-  {
-    "metadata": {
-      "id": "f0c5397b-d357-4197-99f0-cb4202f22818",
-      "publisherId": "ms-vscode-remote.remote-wsl",
-      "publisherDisplayName": "ms-vscode-remote"
-    },
-    "name": "remote-wsl",
-    "publisher": "ms-vscode-remote",
-    "version": "0.63.4"
-  },
-  {
-    "metadata": {
-      "id": "fc7d7e85-2e58-4c1c-97a3-2172ed9a77cd",
-      "publisherId": "GitHub.remotehub",
-      "publisherDisplayName": "GitHub"
-    },
-    "name": "remotehub",
-    "publisher": "GitHub",
-    "version": "0.19.0"
+    "version": "2021.12.1559732655"
   },
   {
     "metadata": {
@@ -401,26 +341,6 @@
   },
   {
     "metadata": {
-      "id": "0479fc1c-3d67-49f9-b087-fb9069afe48f",
-      "publisherId": "ms-azuretools.vscode-docker",
-      "publisherDisplayName": "ms-azuretools"
-    },
-    "name": "vscode-docker",
-    "publisher": "ms-azuretools",
-    "version": "1.18.0"
-  },
-  {
-    "metadata": {
-      "id": "11cb120c-f665-45bc-a21e-6de8a5685850",
-      "publisherId": "ms-edgedevtools.vscode-edge-devtools",
-      "publisherDisplayName": "ms-edgedevtools"
-    },
-    "name": "vscode-edge-devtools",
-    "publisher": "ms-edgedevtools",
-    "version": "1.4.2"
-  },
-  {
-    "metadata": {
       "id": "583b2b34-2c1e-4634-8c0b-0b82e283ea3a",
       "publisherId": "dbaeumer.vscode-eslint",
       "publisherDisplayName": "dbaeumer"
@@ -501,33 +421,13 @@
   },
   {
     "metadata": {
-      "id": "69ddd764-339a-4ecc-97c1-9c4ece58e36d",
-      "publisherId": "GitHub.vscode-pull-request-github",
-      "publisherDisplayName": "GitHub"
-    },
-    "name": "vscode-pull-request-github",
-    "publisher": "GitHub",
-    "version": "0.32.0"
-  },
-  {
-    "metadata": {
       "id": "364d2426-116a-433a-a5d8-a5098dc3afbd",
       "publisherId": "ms-python.vscode-pylance",
       "publisherDisplayName": "ms-python"
     },
     "name": "vscode-pylance",
     "publisher": "ms-python",
-    "version": "2021.12.0"
-  },
-  {
-    "metadata": {
-      "id": "23d72dfc-8dd1-4e30-926e-8783b4378f13",
-      "publisherId": "ms-vscode-remote.vscode-remote-extensionpack",
-      "publisherDisplayName": "ms-vscode-remote"
-    },
-    "name": "vscode-remote-extensionpack",
-    "publisher": "ms-vscode-remote",
-    "version": "0.21.0"
+    "version": "2021.12.1"
   },
   {
     "metadata": {
@@ -557,7 +457,7 @@
     },
     "name": "vscode-styled-components",
     "publisher": "jpoissonnier",
-    "version": "1.6.6"
+    "version": "1.7.0"
   },
   {
     "metadata": {
@@ -578,16 +478,6 @@
     "name": "vscode-svgviewer",
     "publisher": "cssho",
     "version": "2.0.0"
-  },
-  {
-    "metadata": {
-      "id": "2fd56207-78ef-49d4-95d2-9b801eee4dbf",
-      "publisherId": "rangav.vscode-thunder-client",
-      "publisherDisplayName": "rangav"
-    },
-    "name": "vscode-thunder-client",
-    "publisher": "rangav",
-    "version": "1.9.1"
   },
   {
     "metadata": {
