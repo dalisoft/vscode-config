@@ -541,13 +541,13 @@
   },
   {
     "metadata": {
-      "id": "06cc3e44-aedb-41b8-a4ea-29ebf3c491fd",
-      "publisherId": "jpoissonnier.vscode-styled-components",
-      "publisherDisplayName": "jpoissonnier"
+      "id": "22a740c5-ec07-4bf0-a58f-1a38aabea310",
+      "publisherId": "styled-components.vscode-styled-components",
+      "publisherDisplayName": "styled-components"
     },
     "name": "vscode-styled-components",
-    "publisher": "jpoissonnier",
-    "version": "1.7.0"
+    "publisher": "styled-components",
+    "version": "1.7.2"
   },
   {
     "metadata": {
