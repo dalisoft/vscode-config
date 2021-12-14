@@ -451,16 +451,6 @@
   },
   {
     "metadata": {
-      "id": "06cc3e44-aedb-41b8-a4ea-29ebf3c491fd",
-      "publisherId": "jpoissonnier.vscode-styled-components",
-      "publisherDisplayName": "jpoissonnier"
-    },
-    "name": "vscode-styled-components",
-    "publisher": "jpoissonnier",
-    "version": "1.7.0"
-  },
-  {
-    "metadata": {
       "id": "ec35b5a3-9802-4c68-b5ff-e85f19ec0977",
       "publisherId": "stylelint.vscode-stylelint",
       "publisherDisplayName": "stylelint"
