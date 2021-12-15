@@ -43,7 +43,7 @@
   "editor.smoothScrolling": true,
   "editor.quickSuggestions": true,
   "editor.quickSuggestionsDelay": 50,
-  "editor.acceptSuggestionOnEnter": "on",
+  "editor.acceptSuggestionOnEnter": "smart",
   "editor.suggestSelection": "recentlyUsedByPrefix",
   "editor.suggestOnTriggerCharacters": true,
   "editor.suggest.showInlineDetails": true,
