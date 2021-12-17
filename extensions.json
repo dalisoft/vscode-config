@@ -127,7 +127,7 @@
     },
     "name": "go",
     "publisher": "golang",
-    "version": "0.29.0"
+    "version": "0.30.0"
   },
   {
     "metadata": {
@@ -147,7 +147,7 @@
     },
     "name": "java",
     "publisher": "redhat",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "metadata": {
@@ -317,7 +317,7 @@
     },
     "name": "remote-wsl",
     "publisher": "ms-vscode-remote",
-    "version": "0.63.11"
+    "version": "0.63.13"
   },
   {
     "metadata": {

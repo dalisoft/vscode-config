@@ -65,6 +65,10 @@
   "editor.tabCompletion": "on",
   "editor.wordWrap": "bounded",
   "editor.wordWrapColumn": 80,
+  "editor.rulers": [
+    80,
+    100
+  ],
   "editor.wrappingIndent": "indent",
   "editor.tabSize": 2,
   "editor.stickyTabStops": true,
@@ -124,6 +128,7 @@
   "workbench.editor.splitInGroupLayout": "horizontal",
   "workbench.editor.restoreViewState": true,
   "workbench.editor.closeOnFileDelete": true,
+  "workbench.editor.showTabs": true,
   "workbench.editor.tabSizing": "shrink",
   "workbench.editor.decorations.badges": true,
   "workbench.editor.decorations.colors": true,
@@ -202,7 +207,9 @@
   "css.validate": false,
   "less.validate": false,
   "scss.validate": false,
+  "eslint.alwaysShowStatus": true,
   "stylelint.enable": true,
+  "explorer.compactFolders": true,
   "explorer.confirmDelete": false,
   "explorer.confirmDragAndDrop": false,
   "explorer.openEditors.visible": 0,
