@@ -139,8 +139,7 @@
   "workbench.preferredLightColorTheme": "Quiet Light",
   "workbench.preferredDarkColorTheme": "Monokai",
   "workbench.editorAssociations": {
-    "*.ipynb": "jupyter.notebook.ipynb",
-    "*.md": "vscode.markdown.preview.editor"
+    "*.ipynb": "jupyter.notebook.ipynb"
   },
   "material-icon-theme.showWelcomeMessage": false,
   "diffEditor.ignoreTrimWhitespace": false,
