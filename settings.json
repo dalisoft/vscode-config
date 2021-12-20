@@ -165,6 +165,7 @@
   "javascript.suggest.classMemberSnippets.enabled": true,
   "javascript.updateImportsOnFileMove.enabled": "always",
   "javascript.autoClosingTags": true,
+  "javascript.preferences.importModuleSpecifier": "project-relative",
   "javascript.preferences.jsxAttributeCompletionStyle": "auto",
   "javascript.inlayHints.parameterNames.enabled": "none",
   "javascript.inlayHints.variableTypes.enabled": false,
@@ -185,6 +186,7 @@
   "typescript.suggest.classMemberSnippets.enabled": true,
   "typescript.updateImportsOnFileMove.enabled": "always",
   "typescript.autoClosingTags": true,
+  "typescript.preferences.importModuleSpecifier": "project-relative",
   "typescript.preferences.jsxAttributeCompletionStyle": "auto",
   "typescript.inlayHints.parameterNames.enabled": "none",
   "typescript.inlayHints.variableTypes.enabled": false,
@@ -404,4 +406,5 @@
     "**/Code/User/**"
   ],
   "todo-tree.general.statusBar": "total",
+  "editor.unicodeHighlight.invisibleCharacters": false,
 }
