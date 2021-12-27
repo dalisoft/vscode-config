@@ -57,7 +57,7 @@
   "editor.wordBasedSuggestionsMode": "allDocuments",
   "editor.acceptSuggestionOnCommitCharacter": true,
   "editor.parameterHints.enabled": true,
-  "editor.snippetSuggestions": "top",
+  "editor.snippetSuggestions": "bottom",
   "editor.definitionLinkOpensInPeek": true,
   "editor.fontSize": 13,
   "editor.fontFamily": "Monaco, Fira Code",
