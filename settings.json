@@ -287,7 +287,7 @@
   "scm.defaultViewMode": "tree",
   "scm.providerCountBadge": "auto",
   "scm.diffDecorationsGutterAction": "diff",
-  "scm.diffDecorationsIgnoreTrimWhitespace": false,
+  "scm.diffDecorationsIgnoreTrimWhitespace": "false",
   "scm.showActionButton": true,
   "scm.countBadge": "all",
   "merge-conflict.codeLens.enabled": true,
