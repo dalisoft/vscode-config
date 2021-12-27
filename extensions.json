@@ -17,7 +17,7 @@
     },
     "name": "code-spell-checker",
     "publisher": "streetsidesoftware",
-    "version": "2.0.13"
+    "version": "2.0.14"
   },
   {
     "metadata": {
@@ -337,7 +337,7 @@
     },
     "name": "rust-analyzer",
     "publisher": "matklad",
-    "version": "0.2.853"
+    "version": "0.2.867"
   },
   {
     "metadata": {
@@ -517,7 +517,7 @@
     },
     "name": "vscode-pull-request-github",
     "publisher": "GitHub",
-    "version": "0.34.1"
+    "version": "0.34.2"
   },
   {
     "metadata": {
