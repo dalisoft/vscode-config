@@ -441,6 +441,16 @@
   },
   {
     "metadata": {
+      "id": "50134257-3dbb-4e6d-a67f-a7fd3632d86b",
+      "publisherId": "funkyremi.vscode-google-translate",
+      "publisherDisplayName": "funkyremi"
+    },
+    "name": "vscode-google-translate",
+    "publisher": "funkyremi",
+    "version": "1.4.13"
+  },
+  {
+    "metadata": {
       "id": "ffda6552-0ad5-431b-a4fa-0905a7e4f3f0",
       "publisherId": "bmewburn.vscode-intelephense-client",
       "publisherDisplayName": "bmewburn"

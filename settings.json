@@ -64,7 +64,7 @@
   "editor.codeLensFontSize": 14,
   "editor.codeLensFontFamily": "Fira Code",
   "editor.tabCompletion": "on",
-  "editor.wordWrap": "bounded",
+  "editor.wordWrap": "on",
   "editor.wordWrapColumn": 80,
   "editor.rulers": [
     80,
@@ -135,7 +135,7 @@
   "workbench.editor.decorations.colors": true,
   "workbench.settings.enableNaturalLanguageSearch": false,
   "workbench.iconTheme": "material-icon-theme",
-  "workbench.colorTheme": "Quiet Light",
+  "workbench.colorTheme": "Monokai",
   "window.autoDetectColorScheme": true,
   "workbench.preferredLightColorTheme": "Quiet Light",
   "workbench.preferredDarkColorTheme": "Monokai",
@@ -145,6 +145,7 @@
   "material-icon-theme.showWelcomeMessage": false,
   "diffEditor.ignoreTrimWhitespace": false,
   "diffEditor.codeLens": true,
+  "diffEditor.wordWrap": "on",
   "vsintellicode.modify.editor.suggestSelection": "choseToUpdateConfiguration",
   "window.title": "${rootName}",
   "window.nativeTabs": true,
@@ -408,4 +409,5 @@
     "**/Code/User/**"
   ],
   "todo-tree.general.statusBar": "total",
+  "vscodeGoogleTranslate.preferredLanguage": "German",
 }
