@@ -221,6 +221,16 @@
   },
   {
     "metadata": {
+      "id": "a41c1549-4053-44d4-bf30-60fc809b4a86",
+      "publisherId": "christian-kohler.path-intellisense",
+      "publisherDisplayName": "christian-kohler"
+    },
+    "name": "path-intellisense",
+    "publisher": "christian-kohler",
+    "version": "2.6.0"
+  },
+  {
+    "metadata": {
       "id": "d80b9a94-f4a6-4e39-bc42-62212e365682",
       "publisherId": "pnp.polacode",
       "publisherDisplayName": "pnp"
