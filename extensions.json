@@ -181,16 +181,6 @@
   },
   {
     "metadata": {
-      "id": "25adc849-5c3a-4dca-95b3-55a6461077ee",
-      "publisherId": "xyz.local-history",
-      "publisherDisplayName": "xyz"
-    },
-    "name": "local-history",
-    "publisher": "xyz",
-    "version": "1.8.1"
-  },
-  {
-    "metadata": {
       "id": "e8b488af-fccf-4adf-b60c-fc7455bea107",
       "publisherId": "emilast.LogFileHighlighter",
       "publisherDisplayName": "emilast"
