@@ -134,10 +134,10 @@
   "workbench.editor.decorations.colors": true,
   "workbench.settings.enableNaturalLanguageSearch": false,
   "workbench.iconTheme": "material-icon-theme",
-  "workbench.colorTheme": "Quiet Light",
-  "window.autoDetectColorScheme": true,
+  "workbench.colorTheme": "Monokai",
   "workbench.preferredLightColorTheme": "Quiet Light",
   "workbench.preferredDarkColorTheme": "Monokai",
+  "window.autoDetectColorScheme": true,
   "workbench.editorAssociations": {
     "*.ipynb": "jupyter.notebook.ipynb"
   },
@@ -408,5 +408,5 @@
     "**/Code/User/**"
   ],
   "todo-tree.general.statusBar": "total",
-  "vscodeGoogleTranslate.preferredLanguage": "German",
+  "vscodeGoogleTranslate.preferredLanguage": "German"
 }
