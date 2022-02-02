@@ -187,7 +187,7 @@
     },
     "name": "LogFileHighlighter",
     "publisher": "emilast",
-    "version": "2.13.0"
+    "version": "2.14.0"
   },
   {
     "metadata": {
@@ -237,7 +237,7 @@
     },
     "name": "prettier-vscode",
     "publisher": "esbenp",
-    "version": "9.1.0"
+    "version": "9.2.0"
   },
   {
     "metadata": {
@@ -447,7 +447,7 @@
     },
     "name": "vscode-language-babel",
     "publisher": "mgmcdermott",
-    "version": "0.0.35"
+    "version": "0.0.36"
   },
   {
     "metadata": {
@@ -457,7 +457,7 @@
     },
     "name": "vscode-markdownlint",
     "publisher": "DavidAnson",
-    "version": "0.45.0"
+    "version": "0.46.0"
   },
   {
     "metadata": {
