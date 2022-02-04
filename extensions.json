@@ -47,7 +47,7 @@
     },
     "name": "cpptools",
     "publisher": "ms-vscode",
-    "version": "1.8.2"
+    "version": "1.7.1"
   },
   {
     "metadata": {
@@ -157,7 +157,7 @@
     },
     "name": "jupyter",
     "publisher": "ms-toolsai",
-    "version": "2022.1.1001775990"
+    "version": "2021.11.1001550889"
   },
   {
     "metadata": {
@@ -177,7 +177,7 @@
     },
     "name": "jupyter-renderers",
     "publisher": "ms-toolsai",
-    "version": "1.0.6"
+    "version": "1.0.4"
   },
   {
     "metadata": {
@@ -257,7 +257,7 @@
     },
     "name": "python",
     "publisher": "ms-python",
-    "version": "2022.0.1786462952"
+    "version": "2021.12.1559732655"
   },
   {
     "metadata": {
@@ -267,7 +267,7 @@
     },
     "name": "remote-containers",
     "publisher": "ms-vscode-remote",
-    "version": "0.217.1"
+    "version": "0.209.6"
   },
   {
     "metadata": {
@@ -297,7 +297,7 @@
     },
     "name": "remote-wsl",
     "publisher": "ms-vscode-remote",
-    "version": "0.64.2"
+    "version": "0.63.13"
   },
   {
     "metadata": {
@@ -317,7 +317,7 @@
     },
     "name": "rust-analyzer",
     "publisher": "matklad",
-    "version": "0.2.924"
+    "version": "0.2.867"
   },
   {
     "metadata": {
@@ -507,7 +507,7 @@
     },
     "name": "vscode-pull-request-github",
     "publisher": "GitHub",
-    "version": "0.36.0"
+    "version": "0.34.3"
   },
   {
     "metadata": {
@@ -517,7 +517,7 @@
     },
     "name": "vscode-pylance",
     "publisher": "ms-python",
-    "version": "2022.2.0"
+    "version": "2022.1.5"
   },
   {
     "metadata": {
