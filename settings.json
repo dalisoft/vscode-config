@@ -109,7 +109,7 @@
   "redhat.telemetry.enabled": false,
   "intelephense.telemetry.enabled": false,
   "code-runner.enableAppInsights": false,
-  "update.mode": "manual",
+  "update.mode": "none",
   "update.showReleaseNotes": false,
   "workbench.welcomePage.experimental.extensionContributions": true,
   "workbench.quickOpen.preserveInput": true,
