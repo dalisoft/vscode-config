@@ -257,7 +257,7 @@
     },
     "name": "python",
     "publisher": "ms-python",
-    "version": "2021.12.1559732655"
+    "version": "2022.0.1786462952"
   },
   {
     "metadata": {
@@ -517,7 +517,7 @@
     },
     "name": "vscode-pylance",
     "publisher": "ms-python",
-    "version": "2022.1.5"
+    "version": "2022.2.0"
   },
   {
     "metadata": {
