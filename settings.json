@@ -203,7 +203,7 @@
   "typescript.format.enable": false,
   "typescript.tsserver.useSyntaxServer": "auto",
   "typescript.tsserver.experimental.enableProjectDiagnostics": false,
-  "typescript.tsserver.maxTsServerMemory": 4096,
+  "typescript.tsserver.maxTsServerMemory": 3072,
   "typescript.tsserver.log": "off",
   "typescript.disableAutomaticTypeAcquisition": false,
   "typescript.surveys.enabled": false,
