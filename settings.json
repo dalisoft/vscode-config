@@ -359,7 +359,7 @@
   "notebook.outline.showCodeCells": true,
   "java.implementationsCodeLens.enabled": true,
   "java.project.importHint": true,
-  "cSpell.enabled": false,
+  "cSpell.enabled": true,
   "stylelint.packageManager": "yarn",
   "stylelint.validate": [
     "css",
