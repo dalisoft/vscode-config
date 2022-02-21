@@ -17,7 +17,7 @@
     },
     "name": "code-spell-checker",
     "publisher": "streetsidesoftware",
-    "version": "2.1.6"
+    "version": "2.1.7"
   },
   {
     "metadata": {
@@ -157,7 +157,7 @@
     },
     "name": "jupyter",
     "publisher": "ms-toolsai",
-    "version": "2022.1.1201831736"
+    "version": "2022.1.1301854968"
   },
   {
     "metadata": {
@@ -267,7 +267,7 @@
     },
     "name": "rust-analyzer",
     "publisher": "matklad",
-    "version": "0.2.932"
+    "version": "0.2.940"
   },
   {
     "metadata": {
@@ -457,7 +457,7 @@
     },
     "name": "vscode-pull-request-github",
     "publisher": "GitHub",
-    "version": "0.36.1"
+    "version": "0.36.2"
   },
   {
     "metadata": {
@@ -467,7 +467,7 @@
     },
     "name": "vscode-pylance",
     "publisher": "ms-python",
-    "version": "2022.2.1"
+    "version": "2022.2.3"
   },
   {
     "metadata": {
