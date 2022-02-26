@@ -237,7 +237,7 @@
     },
     "name": "prettier-vscode",
     "publisher": "esbenp",
-    "version": "9.2.0"
+    "version": "9.3.0"
   },
   {
     "metadata": {
@@ -267,7 +267,7 @@
     },
     "name": "rust-analyzer",
     "publisher": "matklad",
-    "version": "0.2.940"
+    "version": "0.2.948"
   },
   {
     "metadata": {
@@ -387,7 +387,7 @@
     },
     "name": "vscode-intelephense-client",
     "publisher": "bmewburn",
-    "version": "1.8.1"
+    "version": "1.8.2"
   },
   {
     "metadata": {
@@ -467,7 +467,7 @@
     },
     "name": "vscode-pylance",
     "publisher": "ms-python",
-    "version": "2022.2.3"
+    "version": "2022.2.4"
   },
   {
     "metadata": {

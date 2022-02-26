@@ -67,12 +67,11 @@
   "editor.codeLensFontSize": 14,
   "editor.codeLensFontFamily": "Fira Code",
   "editor.tabCompletion": "on",
-  "editor.wordWrap": "on",
+  "editor.wordWrap": "wordWrapColumn",
   "editor.wordWrapColumn": 80,
   "editor.rulers": [
     80,
-    100,
-    120
+    100
   ],
   "editor.wrappingIndent": "indent",
   "editor.tabSize": 2,
