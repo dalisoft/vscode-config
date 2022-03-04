@@ -135,6 +135,7 @@
   "workbench.editor.tabSizing": "shrink",
   "workbench.editor.decorations.badges": true,
   "workbench.editor.decorations.colors": true,
+  "workbench.editor.navigationScope": "editorGroup",
   "workbench.settings.enableNaturalLanguageSearch": false,
   "workbench.iconTheme": "material-icon-theme",
   "workbench.colorTheme": "Quiet Light",
