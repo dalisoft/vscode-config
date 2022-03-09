@@ -127,7 +127,7 @@
     },
     "name": "go",
     "publisher": "golang",
-    "version": "0.31.1"
+    "version": "0.32.0"
   },
   {
     "metadata": {
@@ -147,7 +147,7 @@
     },
     "name": "java",
     "publisher": "redhat",
-    "version": "1.3.0"
+    "version": "1.4.0"
   },
   {
     "metadata": {
@@ -157,7 +157,7 @@
     },
     "name": "jupyter",
     "publisher": "ms-toolsai",
-    "version": "2022.2.1020642448"
+    "version": "2022.2.1030672458"
   },
   {
     "metadata": {
@@ -197,7 +197,7 @@
     },
     "name": "material-icon-theme",
     "publisher": "PKief",
-    "version": "4.13.0"
+    "version": "4.14.1"
   },
   {
     "metadata": {
@@ -267,7 +267,7 @@
     },
     "name": "rust-analyzer",
     "publisher": "matklad",
-    "version": "0.2.956"
+    "version": "0.2.964"
   },
   {
     "metadata": {
@@ -348,6 +348,16 @@
     "name": "vscode-css-modules",
     "publisher": "clinyong",
     "version": "0.4.1"
+  },
+  {
+    "metadata": {
+      "id": "91881318-cfd0-4905-adb7-f4e431ca1ead",
+      "publisherId": "denoland.vscode-deno",
+      "publisherDisplayName": "denoland"
+    },
+    "name": "vscode-deno",
+    "publisher": "denoland",
+    "version": "3.10.1"
   },
   {
     "metadata": {
@@ -457,7 +467,7 @@
     },
     "name": "vscode-pull-request-github",
     "publisher": "GitHub",
-    "version": "0.36.2"
+    "version": "0.38.0"
   },
   {
     "metadata": {
@@ -527,7 +537,7 @@
     },
     "name": "vscode-yaml",
     "publisher": "redhat",
-    "version": "1.4.0"
+    "version": "1.5.1"
   },
   {
     "metadata": {
