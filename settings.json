@@ -71,8 +71,7 @@
   "editor.wordWrap": "wordWrapColumn",
   "editor.wordWrapColumn": 80,
   "editor.rulers": [
-    80,
-    100
+    80
   ],
   "editor.wrappingIndent": "indent",
   "editor.tabSize": 2,

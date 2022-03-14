@@ -117,7 +117,7 @@
     },
     "name": "gitlens",
     "publisher": "eamodio",
-    "version": "12.0.1"
+    "version": "12.0.4"
   },
   {
     "metadata": {
@@ -317,7 +317,7 @@
     },
     "name": "viml",
     "publisher": "XadillaX",
-    "version": "1.0.1"
+    "version": "2.1.0"
   },
   {
     "metadata": {
@@ -467,7 +467,7 @@
     },
     "name": "vscode-pull-request-github",
     "publisher": "GitHub",
-    "version": "0.38.0"
+    "version": "0.38.1"
   },
   {
     "metadata": {
@@ -477,7 +477,7 @@
     },
     "name": "vscode-pylance",
     "publisher": "ms-python",
-    "version": "2022.3.0"
+    "version": "2022.3.1"
   },
   {
     "metadata": {
@@ -507,7 +507,7 @@
     },
     "name": "vscode-styled-components",
     "publisher": "styled-components",
-    "version": "1.7.2"
+    "version": "1.7.3"
   },
   {
     "metadata": {
