@@ -39,7 +39,8 @@
   "editor.linkedEditing": true,
   "editor.codeActionsOnSave": [
     "source.fixAll",
-    "source.organizeImports"
+    "source.removeUnused",
+    "source.organizeImports",
   ],
   "editor.minimap.enabled": false,
   "editor.minimap.renderCharacters": false,

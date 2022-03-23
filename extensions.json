@@ -117,7 +117,7 @@
     },
     "name": "gitlens",
     "publisher": "eamodio",
-    "version": "12.0.4"
+    "version": "12.0.5"
   },
   {
     "metadata": {
@@ -267,7 +267,7 @@
     },
     "name": "rust-analyzer",
     "publisher": "matklad",
-    "version": "0.2.964"
+    "version": "0.2.985"
   },
   {
     "metadata": {
@@ -357,7 +357,7 @@
     },
     "name": "vscode-deno",
     "publisher": "denoland",
-    "version": "3.10.1"
+    "version": "3.11.0"
   },
   {
     "metadata": {
@@ -477,7 +477,7 @@
     },
     "name": "vscode-pylance",
     "publisher": "ms-python",
-    "version": "2022.3.1"
+    "version": "2022.3.2"
   },
   {
     "metadata": {
