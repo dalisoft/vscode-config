@@ -47,7 +47,7 @@
     },
     "name": "cpptools",
     "publisher": "ms-vscode",
-    "version": "1.8.4"
+    "version": "1.9.7"
   },
   {
     "metadata": {
@@ -477,7 +477,7 @@
     },
     "name": "vscode-pylance",
     "publisher": "ms-python",
-    "version": "2022.3.2"
+    "version": "2022.3.3"
   },
   {
     "metadata": {
