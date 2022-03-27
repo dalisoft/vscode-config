@@ -237,7 +237,7 @@
     },
     "name": "prettier-vscode",
     "publisher": "esbenp",
-    "version": "9.3.0"
+    "version": "9.4.0"
   },
   {
     "metadata": {
@@ -507,7 +507,7 @@
     },
     "name": "vscode-styled-components",
     "publisher": "styled-components",
-    "version": "1.7.3"
+    "version": "1.7.4"
   },
   {
     "metadata": {
