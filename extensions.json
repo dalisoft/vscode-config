@@ -17,7 +17,7 @@
     },
     "name": "code-spell-checker",
     "publisher": "streetsidesoftware",
-    "version": "2.1.7"
+    "version": "2.1.11"
   },
   {
     "metadata": {
@@ -197,7 +197,7 @@
     },
     "name": "material-icon-theme",
     "publisher": "PKief",
-    "version": "4.14.1"
+    "version": "4.15.0"
   },
   {
     "metadata": {
@@ -237,7 +237,7 @@
     },
     "name": "prettier-vscode",
     "publisher": "esbenp",
-    "version": "9.4.0"
+    "version": "9.5.0"
   },
   {
     "metadata": {
@@ -267,7 +267,7 @@
     },
     "name": "rust-analyzer",
     "publisher": "matklad",
-    "version": "0.2.985"
+    "version": "0.2.993"
   },
   {
     "metadata": {
@@ -357,7 +357,7 @@
     },
     "name": "vscode-deno",
     "publisher": "denoland",
-    "version": "3.11.0"
+    "version": "3.12.0"
   },
   {
     "metadata": {
@@ -537,7 +537,7 @@
     },
     "name": "vscode-yaml",
     "publisher": "redhat",
-    "version": "1.5.1"
+    "version": "1.6.0"
   },
   {
     "metadata": {

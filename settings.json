@@ -283,6 +283,7 @@
   "git.openAfterClone": "prompt",
   "git.enableSmartCommit": false,
   "git.useCommitInputAsStashMessage": true,
+  "git.fetchOnPull": true,
   "git.autofetch": true,
   "git.autofetchPeriod": 360,
   "git.closeDiffOnOperation": true,
@@ -290,7 +291,7 @@
   "git.confirmSync": false,
   "git.rebaseWhenSync": true,
   "git.followTagsWhenSync": false,
-  "git.pullTags": false,
+  "git.pullTags": true,
   "git.supportCancellation": false,
   "git.checkoutType": [
     "local",
