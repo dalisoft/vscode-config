@@ -157,7 +157,7 @@
     },
     "name": "jupyter",
     "publisher": "ms-toolsai",
-    "version": "2022.2.1030672458"
+    "version": "2022.3.1000901801"
   },
   {
     "metadata": {
@@ -257,7 +257,17 @@
     },
     "name": "python",
     "publisher": "ms-python",
-    "version": "2022.2.1924087327"
+    "version": "2022.4.1"
+  },
+  {
+    "metadata": {
+      "id": "4dfff9f4-ff9b-47bb-b0d1-c54e18d8febb",
+      "publisherId": "Ikuyadeu.r",
+      "publisherDisplayName": "Ikuyadeu"
+    },
+    "name": "r",
+    "publisher": "Ikuyadeu",
+    "version": "2.4.0"
   },
   {
     "metadata": {
@@ -267,7 +277,7 @@
     },
     "name": "rust-analyzer",
     "publisher": "matklad",
-    "version": "0.2.993"
+    "version": "0.2.1002"
   },
   {
     "metadata": {
@@ -317,7 +327,7 @@
     },
     "name": "viml",
     "publisher": "XadillaX",
-    "version": "2.1.0"
+    "version": "2.1.1"
   },
   {
     "metadata": {
@@ -417,7 +427,7 @@
     },
     "name": "vscode-markdownlint",
     "publisher": "DavidAnson",
-    "version": "0.46.0"
+    "version": "0.47.0"
   },
   {
     "metadata": {
@@ -467,7 +477,7 @@
     },
     "name": "vscode-pull-request-github",
     "publisher": "GitHub",
-    "version": "0.38.1"
+    "version": "0.40.0"
   },
   {
     "metadata": {
@@ -477,7 +487,7 @@
     },
     "name": "vscode-pylance",
     "publisher": "ms-python",
-    "version": "2022.3.3"
+    "version": "2022.4.0"
   },
   {
     "metadata": {
@@ -547,6 +557,6 @@
     },
     "name": "vscodeintellicode",
     "publisher": "VisualStudioExptTeam",
-    "version": "1.2.17"
+    "version": "1.2.18"
   }
 ]
