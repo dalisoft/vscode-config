@@ -156,7 +156,7 @@
   "workbench.preferredDarkColorTheme": "Monokai",
   "window.autoDetectColorScheme": true,
   "workbench.editorAssociations": {
-    "*.ipynb": "jupyter.notebook.ipynb"
+    "*.ipynb": "jupyter-notebook"
   },
   "audioCues.volume": 50,
   "material-icon-theme.showWelcomeMessage": false,
@@ -348,7 +348,7 @@
   "search.collapseResults": "alwaysCollapse",
   "search.mode": "reuseEditor",
   "search.experimental.searchInOpenEditors": true,
-  "task.autoDetect": "off",
+  "task.autoDetect": "on",
   "task.quickOpen.detail": true,
   "npm.autoDetect": "on",
   "npm.packageManager": "auto",
