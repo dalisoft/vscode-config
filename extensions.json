@@ -277,7 +277,7 @@
     },
     "name": "rust-analyzer",
     "publisher": "matklad",
-    "version": "0.2.1002"
+    "version": "0.2.1010"
   },
   {
     "metadata": {
