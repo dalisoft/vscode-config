@@ -12,6 +12,12 @@
   "prettier.requireConfig": true,
   "debug.terminal.clearBeforeReusing": true,
   "debug.javascript.suggestPrettyPrinting": true,
+  "debug.javascript.autoAttachFilter": "smart",
+  "debug.javascript.codelens.npmScripts": "all",
+  "debug.console.historySuggestions": true,
+  "debug.console.closeOnEnd": true,
+  "debug.showInStatusBar": "always",
+  "debug.showBreakpointsInOverviewRuler": true,
   "vscode-edge-devtools.mirrorEdits": true,
   "security.workspace.trust.banner": "never",
   "editor.scrollBeyondLastLine": false,
@@ -20,7 +26,7 @@
   "editor.renderWhitespace": "all",
   "editor.detectIndentation": true,
   "editor.guides.indentation": true,
-  "editor.guides.bracketPairs": true,
+  "editor.guides.bracketPairs": "active",
   "editor.bracketPairColorization.enabled": true,
   "editor.bracketPairColorization.independentColorPoolPerBracketType": false,
   "editor.guides.bracketPairsHorizontal": "active",
@@ -449,5 +455,5 @@
     "**/Code/User/**"
   ],
   "todo-tree.general.statusBar": "total",
-  "vscodeGoogleTranslate.preferredLanguage": "German"
+  "vscodeGoogleTranslate.preferredLanguage": "German",
 }

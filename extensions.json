@@ -121,6 +121,16 @@
   },
   {
     "metadata": {
+      "id": "6fdfb72c-12e3-4a3d-99c7-39840e4f83c2",
+      "publisherId": "gitpod.gitpod-desktop",
+      "publisherDisplayName": "gitpod"
+    },
+    "name": "gitpod-desktop",
+    "publisher": "gitpod",
+    "version": "0.0.29"
+  },
+  {
+    "metadata": {
       "id": "d6f6cfea-4b6f-41f4-b571-6ad2ab7918da",
       "publisherId": "golang.go",
       "publisherDisplayName": "golang"
@@ -147,7 +157,7 @@
     },
     "name": "java",
     "publisher": "redhat",
-    "version": "1.4.0"
+    "version": "1.5.0"
   },
   {
     "metadata": {
@@ -197,7 +207,7 @@
     },
     "name": "material-icon-theme",
     "publisher": "PKief",
-    "version": "4.15.0"
+    "version": "4.16.0"
   },
   {
     "metadata": {
@@ -271,13 +281,33 @@
   },
   {
     "metadata": {
+      "id": "607fd052-be03-4363-b657-2bd62b83d28a",
+      "publisherId": "ms-vscode-remote.remote-ssh",
+      "publisherDisplayName": "ms-vscode-remote"
+    },
+    "name": "remote-ssh",
+    "publisher": "ms-vscode-remote",
+    "version": "0.78.0"
+  },
+  {
+    "metadata": {
+      "id": "bfeaf631-bcff-4908-93ed-fda4ef9a0c5c",
+      "publisherId": "ms-vscode-remote.remote-ssh-edit",
+      "publisherDisplayName": "ms-vscode-remote"
+    },
+    "name": "remote-ssh-edit",
+    "publisher": "ms-vscode-remote",
+    "version": "0.80.0"
+  },
+  {
+    "metadata": {
       "id": "06574cb4-e5dc-4631-8174-a543a4533621",
       "publisherId": "matklad.rust-analyzer",
       "publisherDisplayName": "matklad"
     },
     "name": "rust-analyzer",
     "publisher": "matklad",
-    "version": "0.2.1010"
+    "version": "0.2.1022"
   },
   {
     "metadata": {
@@ -387,7 +417,7 @@
     },
     "name": "vscode-fish",
     "publisher": "bmalehorn",
-    "version": "1.0.27"
+    "version": "1.0.29"
   },
   {
     "metadata": {
@@ -487,7 +517,7 @@
     },
     "name": "vscode-pylance",
     "publisher": "ms-python",
-    "version": "2022.4.0"
+    "version": "2022.4.1"
   },
   {
     "metadata": {
@@ -557,6 +587,6 @@
     },
     "name": "vscodeintellicode",
     "publisher": "VisualStudioExptTeam",
-    "version": "1.2.18"
+    "version": "1.2.19"
   }
 ]
