@@ -15,6 +15,11 @@
   "debug.javascript.suggestPrettyPrinting": true,
   "debug.javascript.autoAttachFilter": "onlyWithFlag",
   "debug.javascript.codelens.npmScripts": "all",
+  "debug.javascript.pickAndAttachOptions": {
+    "skipFiles": [
+      "<node_internals>/**"
+    ]
+  },
   "debug.javascript.terminalOptions": {
     "skipFiles": [
       "<node_internals>/**"
