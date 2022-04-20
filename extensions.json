@@ -621,16 +621,6 @@
   },
   {
     "metadata": {
-      "id": "2fd56207-78ef-49d4-95d2-9b801eee4dbf",
-      "publisherId": "rangav.vscode-thunder-client",
-      "publisherDisplayName": "rangav"
-    },
-    "name": "vscode-thunder-client",
-    "publisher": "rangav",
-    "version": "1.16.2"
-  },
-  {
-    "metadata": {
       "id": "2061917f-f76a-458a-8da9-f162de22b97e",
       "publisherId": "redhat.vscode-yaml",
       "publisherDisplayName": "redhat"
