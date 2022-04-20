@@ -12,7 +12,7 @@
   "prettier.requireConfig": true,
   "debug.terminal.clearBeforeReusing": true,
   "debug.javascript.suggestPrettyPrinting": true,
-  "debug.javascript.autoAttachFilter": "onlyWithFlag",
+  "debug.javascript.autoAttachFilter": "smart",
   "debug.javascript.codelens.npmScripts": "all",
   "debug.console.historySuggestions": true,
   "debug.console.closeOnEnd": true,
