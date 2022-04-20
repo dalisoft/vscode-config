@@ -11,9 +11,15 @@
   "sync.gist": "376c3dfc48eae5a95d15cfc87639f6cf",
   "prettier.requireConfig": true,
   "debug.terminal.clearBeforeReusing": true,
+  "debug.internalConsoleOptions": "neverOpen",
   "debug.javascript.suggestPrettyPrinting": true,
   "debug.javascript.autoAttachFilter": "onlyWithFlag",
   "debug.javascript.codelens.npmScripts": "all",
+  "debug.javascript.terminalOptions": {
+    "skipFiles": [
+      "<node_internals>/**"
+    ]
+  },
   "debug.console.historySuggestions": true,
   "debug.console.closeOnEnd": true,
   "debug.showInStatusBar": "always",
@@ -156,7 +162,7 @@
   "workbench.localHistory.mergeWindow": 10,
   "workbench.settings.enableNaturalLanguageSearch": false,
   "workbench.iconTheme": "material-icon-theme",
-  "workbench.colorTheme": "Monokai",
+  "workbench.colorTheme": "Quiet Light",
   "workbench.preferredLightColorTheme": "Quiet Light",
   "workbench.preferredDarkColorTheme": "Monokai",
   "window.autoDetectColorScheme": true,
