@@ -207,7 +207,7 @@
     },
     "name": "material-icon-theme",
     "publisher": "PKief",
-    "version": "4.16.0"
+    "version": "4.15.0"
   },
   {
     "metadata": {
@@ -347,7 +347,7 @@
     },
     "name": "rust-analyzer",
     "publisher": "matklad",
-    "version": "0.2.1022"
+    "version": "0.2.1010"
   },
   {
     "metadata": {
@@ -457,7 +457,7 @@
     },
     "name": "vscode-fish",
     "publisher": "bmalehorn",
-    "version": "1.0.29"
+    "version": "1.0.27"
   },
   {
     "metadata": {
