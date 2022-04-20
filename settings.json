@@ -46,7 +46,7 @@
   "editor.codeActionsOnSave": [
     "source.fixAll",
     "source.removeUnused",
-    "source.organizeImports",
+    "source.organizeImports"
   ],
   "editor.minimap.enabled": false,
   "editor.minimap.renderCharacters": false,
@@ -78,9 +78,7 @@
   "editor.tabCompletion": "on",
   "editor.wordWrap": "wordWrapColumn",
   "editor.wordWrapColumn": 80,
-  "editor.rulers": [
-    80
-  ],
+  "editor.rulers": [80],
   "editor.wrappingIndent": "indent",
   "editor.tabSize": 2,
   "editor.stickyTabStops": true,
@@ -292,9 +290,7 @@
   "git.detectSubmodulesLimit": 20,
   "git.showUnpublishedCommitsButton": "whenEmpty",
   "git.repositoryScanMaxDepth": 2,
-  "git.repositoryScanIgnoredFolders": [
-    "node_modules"
-  ],
+  "git.repositoryScanIgnoredFolders": ["node_modules"],
   "git.terminalAuthentication": false,
   "git.statusLimit": 5000,
   "git.enableCommitSigning": false,
@@ -311,11 +307,7 @@
   "git.followTagsWhenSync": false,
   "git.pullTags": true,
   "git.supportCancellation": false,
-  "git.checkoutType": [
-    "local",
-    "remote",
-    "tags"
-  ],
+  "git.checkoutType": ["local", "remote", "tags"],
   "gitlens.codeLens.enabled": false,
   "gitlens.integrations.enabled": true,
   "gitlens.mode.active": "review",
@@ -368,11 +360,7 @@
   "json.maxItemsComputed": 1000,
   "go.formatTool": "goimports",
   "go.useLanguageServer": true,
-  "go.languageServerFlags": [
-    "serve",
-    "-rpc.trace",
-    "--debug=localhost:6060"
-  ],
+  "go.languageServerFlags": ["serve", "-rpc.trace", "--debug=localhost:6060"],
   "go.toolsManagement.autoUpdate": true,
   "reason_language_server.location": "/usr/local/bin/reason-language-server",
   "rust-analyzer.updates.askBeforeDownload": true,
@@ -414,16 +402,9 @@
     "xml",
     "xsl"
   ],
-  "yaml.customTags": [
-    "!encrypted/pkcs1-oaep scalar",
-    "!vault scalar"
-  ],
+  "yaml.customTags": ["!encrypted/pkcs1-oaep scalar", "!vault scalar"],
   "markdown.preview.breaks": true,
-  "parameterHints.languages": [
-    "php",
-    "typescript",
-    "typescriptreact"
-  ],
+  "parameterHints.languages": ["php", "typescript", "typescriptreact"],
   "github.gitAuthentication": false,
   "github.copilot.enable": {
     "*": true,
@@ -455,5 +436,5 @@
     "**/Code/User/**"
   ],
   "todo-tree.general.statusBar": "total",
-  "vscodeGoogleTranslate.preferredLanguage": "German",
+  "vscodeGoogleTranslate.preferredLanguage": "German"
 }
