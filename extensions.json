@@ -272,11 +272,11 @@
   {
     "metadata": {
       "id": "4dfff9f4-ff9b-47bb-b0d1-c54e18d8febb",
-      "publisherId": "Ikuyadeu.r",
-      "publisherDisplayName": "Ikuyadeu"
+      "publisherId": "REditorSupport.r",
+      "publisherDisplayName": "REditorSupport"
     },
     "name": "r",
-    "publisher": "Ikuyadeu",
+    "publisher": "REditorSupport",
     "version": "2.4.0"
   },
   {
