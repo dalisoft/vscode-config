@@ -167,7 +167,7 @@
     },
     "name": "jupyter",
     "publisher": "ms-toolsai",
-    "version": "2022.3.1000901801"
+    "version": "2022.4.1011282140"
   },
   {
     "metadata": {
@@ -207,7 +207,7 @@
     },
     "name": "material-icon-theme",
     "publisher": "PKief",
-    "version": "4.16.0"
+    "version": "4.17.0"
   },
   {
     "metadata": {
@@ -267,16 +267,16 @@
     },
     "name": "python",
     "publisher": "ms-python",
-    "version": "2022.4.1"
+    "version": "2022.6.1"
   },
   {
     "metadata": {
       "id": "4dfff9f4-ff9b-47bb-b0d1-c54e18d8febb",
-      "publisherId": "REditorSupport.r",
-      "publisherDisplayName": "REditorSupport"
+      "publisherId": "Ikuyadeu.r",
+      "publisherDisplayName": "Ikuyadeu"
     },
     "name": "r",
-    "publisher": "REditorSupport",
+    "publisher": "Ikuyadeu",
     "version": "2.4.0"
   },
   {
@@ -307,7 +307,7 @@
     },
     "name": "remote-repositories",
     "publisher": "ms-vscode",
-    "version": "0.4.0"
+    "version": "0.8.0"
   },
   {
     "metadata": {
@@ -317,7 +317,7 @@
     },
     "name": "remote-ssh",
     "publisher": "ms-vscode-remote",
-    "version": "0.78.0"
+    "version": "0.80.0"
   },
   {
     "metadata": {
@@ -347,7 +347,7 @@
     },
     "name": "remotehub",
     "publisher": "GitHub",
-    "version": "0.30.0"
+    "version": "0.32.0"
   },
   {
     "metadata": {
@@ -357,7 +357,7 @@
     },
     "name": "rust-analyzer",
     "publisher": "matklad",
-    "version": "0.2.1040"
+    "version": "0.2.1048"
   },
   {
     "metadata": {
@@ -557,7 +557,7 @@
     },
     "name": "vscode-pull-request-github",
     "publisher": "GitHub",
-    "version": "0.40.0"
+    "version": "0.42.0"
   },
   {
     "metadata": {
