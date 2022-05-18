@@ -98,6 +98,7 @@
   "editor.tabSize": 2,
   "editor.stickyTabStops": true,
   "editor.codeLens": true,
+  "editor.accessibilitySupport": "auto",
   "zenMode.restore": true,
   "terminal.integrated.minimumContrastRatio": 4.5,
   "terminal.integrated.fontFamily": "Fira Code",
@@ -486,5 +487,5 @@
     "**/Code/User/**"
   ],
   "todo-tree.general.statusBar": "total",
-  "vscodeGoogleTranslate.preferredLanguage": "German",
+  "vscodeGoogleTranslate.preferredLanguage": "German"
 }
