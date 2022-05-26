@@ -17,7 +17,7 @@
     },
     "name": "code-spell-checker",
     "publisher": "streetsidesoftware",
-    "version": "2.1.11"
+    "version": "2.2.0"
   },
   {
     "metadata": {
@@ -117,7 +117,7 @@
     },
     "name": "gitlens",
     "publisher": "eamodio",
-    "version": "12.0.6"
+    "version": "12.0.7"
   },
   {
     "metadata": {
@@ -127,7 +127,7 @@
     },
     "name": "gitpod-desktop",
     "publisher": "gitpod",
-    "version": "0.0.33"
+    "version": "0.0.37"
   },
   {
     "metadata": {
@@ -137,7 +137,7 @@
     },
     "name": "go",
     "publisher": "golang",
-    "version": "0.33.0"
+    "version": "0.33.1"
   },
   {
     "metadata": {
@@ -167,7 +167,7 @@
     },
     "name": "jupyter",
     "publisher": "ms-toolsai",
-    "version": "2022.4.1011282140"
+    "version": "2022.4.1021342353"
   },
   {
     "metadata": {
@@ -267,17 +267,17 @@
     },
     "name": "python",
     "publisher": "ms-python",
-    "version": "2022.6.1"
+    "version": "2022.6.2"
   },
   {
     "metadata": {
       "id": "4dfff9f4-ff9b-47bb-b0d1-c54e18d8febb",
-      "publisherId": "Ikuyadeu.r",
-      "publisherDisplayName": "Ikuyadeu"
+      "publisherId": "REditorSupport.r",
+      "publisherDisplayName": "REditorSupport"
     },
     "name": "r",
-    "publisher": "Ikuyadeu",
-    "version": "2.4.0"
+    "publisher": "REditorSupport",
+    "version": "2.5.0"
   },
   {
     "metadata": {
@@ -337,7 +337,7 @@
     },
     "name": "remote-wsl",
     "publisher": "ms-vscode-remote",
-    "version": "0.66.2"
+    "version": "0.66.3"
   },
   {
     "metadata": {
@@ -352,12 +352,12 @@
   {
     "metadata": {
       "id": "06574cb4-e5dc-4631-8174-a543a4533621",
-      "publisherId": "matklad.rust-analyzer",
-      "publisherDisplayName": "matklad"
+      "publisherId": "rust-lang.rust-analyzer",
+      "publisherDisplayName": "rust-lang"
     },
     "name": "rust-analyzer",
-    "publisher": "matklad",
-    "version": "0.2.1048"
+    "publisher": "rust-lang",
+    "version": "0.3.1066"
   },
   {
     "metadata": {
@@ -567,7 +567,7 @@
     },
     "name": "vscode-pylance",
     "publisher": "ms-python",
-    "version": "2022.4.3"
+    "version": "2022.5.3"
   },
   {
     "metadata": {
@@ -647,6 +647,6 @@
     },
     "name": "vscodeintellicode",
     "publisher": "VisualStudioExptTeam",
-    "version": "1.2.20"
+    "version": "1.2.21"
   }
 ]
