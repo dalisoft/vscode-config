@@ -279,6 +279,7 @@
   "explorer.fileNesting.enabled": false,
   "explorer.fileNesting.expand": true,
   "explorer.expandSingleFolderWorkspaces": true,
+  "explorer.excludeGitIgnore": false,
   "files.watcherExclude": {
     "**/.git/objects/**": true,
     "**/.git/subtree-cache/**": true,
