@@ -64,7 +64,11 @@
   "editor.minimap.maxColumn": 80,
   "editor.minimap.showSlider": "always",
   "editor.smoothScrolling": true,
-  "editor.quickSuggestions": true,
+  "editor.quickSuggestions": {
+    "comments": "on",
+    "strings": "on",
+    "other": "on"
+  },
   "editor.quickSuggestionsDelay": 10,
   "editor.acceptSuggestionOnEnter": "smart",
   "editor.acceptSuggestionOnCommitCharacter": true,
@@ -256,7 +260,7 @@
   "typescript.tsserver.experimental.enableProjectDiagnostics": false,
   "typescript.tsserver.maxTsServerMemory": 3072,
   "typescript.tsserver.log": "off",
-  "typescript.disableAutomaticTypeAcquisition": true,
+  "typescript.disableAutomaticTypeAcquisition": false,
   "typescript.surveys.enabled": false,
   "js/ts.implicitProjectConfig.checkJs": true,
   "js/ts.implicitProjectConfig.experimentalDecorators": true,
