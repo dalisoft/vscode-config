@@ -17,7 +17,7 @@
     },
     "name": "code-spell-checker",
     "publisher": "streetsidesoftware",
-    "version": "2.2.4"
+    "version": "2.2.5"
   },
   {
     "metadata": {
@@ -47,7 +47,7 @@
     },
     "name": "cpptools",
     "publisher": "ms-vscode",
-    "version": "1.10.5"
+    "version": "1.10.7"
   },
   {
     "metadata": {
@@ -77,7 +77,7 @@
     },
     "name": "gather",
     "publisher": "ms-python",
-    "version": "2022.3.0"
+    "version": "2022.3.2"
   },
   {
     "metadata": {
@@ -117,7 +117,7 @@
     },
     "name": "gitlens",
     "publisher": "eamodio",
-    "version": "12.0.7"
+    "version": "12.1.1"
   },
   {
     "metadata": {
@@ -127,7 +127,7 @@
     },
     "name": "gitpod-desktop",
     "publisher": "gitpod",
-    "version": "0.0.37"
+    "version": "0.0.40"
   },
   {
     "metadata": {
@@ -137,7 +137,7 @@
     },
     "name": "go",
     "publisher": "golang",
-    "version": "0.33.1"
+    "version": "0.34.1"
   },
   {
     "metadata": {
@@ -157,7 +157,7 @@
     },
     "name": "java",
     "publisher": "redhat",
-    "version": "1.7.0"
+    "version": "1.8.0"
   },
   {
     "metadata": {
@@ -207,7 +207,7 @@
     },
     "name": "material-icon-theme",
     "publisher": "PKief",
-    "version": "4.18.1"
+    "version": "4.19.0"
   },
   {
     "metadata": {
@@ -267,7 +267,7 @@
     },
     "name": "python",
     "publisher": "ms-python",
-    "version": "2022.8.0"
+    "version": "2022.8.1"
   },
   {
     "metadata": {
@@ -297,7 +297,7 @@
     },
     "name": "remote-containers",
     "publisher": "ms-vscode-remote",
-    "version": "0.238.2"
+    "version": "0.238.3"
   },
   {
     "metadata": {
@@ -347,7 +347,7 @@
     },
     "name": "remotehub",
     "publisher": "GitHub",
-    "version": "0.34.0"
+    "version": "0.36.0"
   },
   {
     "metadata": {
@@ -357,7 +357,7 @@
     },
     "name": "rust-analyzer",
     "publisher": "rust-lang",
-    "version": "0.3.1091"
+    "version": "0.3.1115"
   },
   {
     "metadata": {
@@ -437,7 +437,7 @@
     },
     "name": "vscode-css-modules",
     "publisher": "clinyong",
-    "version": "0.4.1"
+    "version": "0.4.2"
   },
   {
     "metadata": {
@@ -447,7 +447,7 @@
     },
     "name": "vscode-deno",
     "publisher": "denoland",
-    "version": "3.12.0"
+    "version": "3.13.0"
   },
   {
     "metadata": {
@@ -457,7 +457,7 @@
     },
     "name": "vscode-eslint",
     "publisher": "dbaeumer",
-    "version": "2.2.2"
+    "version": "2.2.6"
   },
   {
     "metadata": {
@@ -527,7 +527,7 @@
     },
     "name": "vscode-npm-script",
     "publisher": "eg2",
-    "version": "0.3.25"
+    "version": "0.3.28"
   },
   {
     "metadata": {
@@ -557,7 +557,7 @@
     },
     "name": "vscode-pull-request-github",
     "publisher": "GitHub",
-    "version": "0.44.0"
+    "version": "0.46.0"
   },
   {
     "metadata": {
@@ -567,7 +567,7 @@
     },
     "name": "vscode-pylance",
     "publisher": "ms-python",
-    "version": "2022.6.10"
+    "version": "2022.7.20"
   },
   {
     "metadata": {
@@ -647,6 +647,6 @@
     },
     "name": "vscodeintellicode",
     "publisher": "VisualStudioExptTeam",
-    "version": "1.2.21"
+    "version": "1.2.22"
   }
 ]
