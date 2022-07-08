@@ -353,7 +353,7 @@
   "git.timeline.date": "committed",
   "git.timeline.showAuthor": true,
   "git.mergeEditor": true,
-  "git.postCommitCommand": "push",
+  "git.postCommitCommand": "none",
   "git.showActionButton": {
     "commit": true,
     "publish": true,
