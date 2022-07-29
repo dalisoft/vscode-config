@@ -17,7 +17,7 @@
     },
     "name": "code-spell-checker",
     "publisher": "streetsidesoftware",
-    "version": "2.2.5"
+    "version": "2.3.3"
   },
   {
     "metadata": {
@@ -47,7 +47,7 @@
     },
     "name": "cpptools",
     "publisher": "ms-vscode",
-    "version": "1.10.7"
+    "version": "1.11.4"
   },
   {
     "metadata": {
@@ -107,7 +107,7 @@
     },
     "name": "gitignore",
     "publisher": "codezombiech",
-    "version": "0.7.0"
+    "version": "0.9.0"
   },
   {
     "metadata": {
@@ -117,7 +117,7 @@
     },
     "name": "gitlens",
     "publisher": "eamodio",
-    "version": "12.1.1"
+    "version": "12.1.2"
   },
   {
     "metadata": {
@@ -127,7 +127,7 @@
     },
     "name": "gitpod-desktop",
     "publisher": "gitpod",
-    "version": "0.0.40"
+    "version": "0.0.45"
   },
   {
     "metadata": {
@@ -137,7 +137,7 @@
     },
     "name": "go",
     "publisher": "golang",
-    "version": "0.34.1"
+    "version": "0.35.1"
   },
   {
     "metadata": {
@@ -157,7 +157,7 @@
     },
     "name": "java",
     "publisher": "redhat",
-    "version": "1.8.0"
+    "version": "1.9.0"
   },
   {
     "metadata": {
@@ -167,7 +167,7 @@
     },
     "name": "jupyter",
     "publisher": "ms-toolsai",
-    "version": "2022.5.1001601848"
+    "version": "2022.6.1201981810"
   },
   {
     "metadata": {
@@ -187,7 +187,7 @@
     },
     "name": "jupyter-renderers",
     "publisher": "ms-toolsai",
-    "version": "1.0.8"
+    "version": "1.0.9"
   },
   {
     "metadata": {
@@ -267,7 +267,7 @@
     },
     "name": "python",
     "publisher": "ms-python",
-    "version": "2022.8.1"
+    "version": "2022.10.1"
   },
   {
     "metadata": {
@@ -277,7 +277,7 @@
     },
     "name": "r",
     "publisher": "REditorSupport",
-    "version": "2.5.0"
+    "version": "2.5.2"
   },
   {
     "metadata": {
@@ -297,7 +297,7 @@
     },
     "name": "remote-containers",
     "publisher": "ms-vscode-remote",
-    "version": "0.238.3"
+    "version": "0.241.3"
   },
   {
     "metadata": {
@@ -307,7 +307,7 @@
     },
     "name": "remote-repositories",
     "publisher": "ms-vscode",
-    "version": "0.12.0"
+    "version": "0.16.0"
   },
   {
     "metadata": {
@@ -317,7 +317,7 @@
     },
     "name": "remote-ssh",
     "publisher": "ms-vscode-remote",
-    "version": "0.82.1"
+    "version": "0.84.0"
   },
   {
     "metadata": {
@@ -347,7 +347,7 @@
     },
     "name": "remotehub",
     "publisher": "GitHub",
-    "version": "0.36.0"
+    "version": "0.38.0"
   },
   {
     "metadata": {
@@ -357,7 +357,7 @@
     },
     "name": "rust-analyzer",
     "publisher": "rust-lang",
-    "version": "0.3.1115"
+    "version": "0.3.1140"
   },
   {
     "metadata": {
@@ -447,7 +447,7 @@
     },
     "name": "vscode-deno",
     "publisher": "denoland",
-    "version": "3.13.0"
+    "version": "3.13.1"
   },
   {
     "metadata": {
@@ -557,7 +557,7 @@
     },
     "name": "vscode-pull-request-github",
     "publisher": "GitHub",
-    "version": "0.46.0"
+    "version": "0.46.1"
   },
   {
     "metadata": {
@@ -567,7 +567,7 @@
     },
     "name": "vscode-pylance",
     "publisher": "ms-python",
-    "version": "2022.7.20"
+    "version": "2022.7.40"
   },
   {
     "metadata": {
@@ -637,7 +637,7 @@
     },
     "name": "vscode-yaml",
     "publisher": "redhat",
-    "version": "1.8.0"
+    "version": "1.9.1"
   },
   {
     "metadata": {
