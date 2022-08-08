@@ -17,7 +17,7 @@
     },
     "name": "code-spell-checker",
     "publisher": "streetsidesoftware",
-    "version": "2.3.4"
+    "version": "2.5.4"
   },
   {
     "metadata": {
@@ -127,7 +127,7 @@
     },
     "name": "gitpod-desktop",
     "publisher": "gitpod",
-    "version": "0.0.47"
+    "version": "0.0.49"
   },
   {
     "metadata": {
@@ -357,7 +357,7 @@
     },
     "name": "rust-analyzer",
     "publisher": "rust-lang",
-    "version": "0.3.1148"
+    "version": "0.3.1162"
   },
   {
     "metadata": {
