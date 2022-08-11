@@ -297,7 +297,7 @@
     },
     "name": "remote-containers",
     "publisher": "ms-vscode-remote",
-    "version": "0.241.3"
+    "version": "0.245.0"
   },
   {
     "metadata": {
@@ -557,7 +557,7 @@
     },
     "name": "vscode-pull-request-github",
     "publisher": "GitHub",
-    "version": "0.48.0"
+    "version": "0.48.1"
   },
   {
     "metadata": {
