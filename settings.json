@@ -337,7 +337,7 @@
   ],
   "git.terminalAuthentication": false,
   "git.statusLimit": 5000,
-  "git.enableCommitSigning": false,
+  "git.enableCommitSigning": true,
   "git.openAfterClone": "prompt",
   "git.enableSmartCommit": false,
   "git.suggestSmartCommit": true,
