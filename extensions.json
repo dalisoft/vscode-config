@@ -17,7 +17,7 @@
     },
     "name": "code-spell-checker",
     "publisher": "streetsidesoftware",
-    "version": "2.5.4"
+    "version": "2.6.0"
   },
   {
     "metadata": {
@@ -127,7 +127,7 @@
     },
     "name": "gitpod-desktop",
     "publisher": "gitpod",
-    "version": "0.0.50"
+    "version": "0.0.54"
   },
   {
     "metadata": {
@@ -137,7 +137,7 @@
     },
     "name": "go",
     "publisher": "golang",
-    "version": "0.35.1"
+    "version": "0.35.2"
   },
   {
     "metadata": {
@@ -167,7 +167,7 @@
     },
     "name": "jupyter",
     "publisher": "ms-toolsai",
-    "version": "2022.7.1002181843"
+    "version": "2022.7.1102252217"
   },
   {
     "metadata": {
@@ -207,7 +207,7 @@
     },
     "name": "material-icon-theme",
     "publisher": "PKief",
-    "version": "4.19.0"
+    "version": "4.20.0"
   },
   {
     "metadata": {
@@ -247,7 +247,7 @@
     },
     "name": "prettier-vscode",
     "publisher": "esbenp",
-    "version": "9.5.0"
+    "version": "9.8.0"
   },
   {
     "metadata": {
@@ -267,7 +267,7 @@
     },
     "name": "python",
     "publisher": "ms-python",
-    "version": "2022.12.0"
+    "version": "2022.12.1"
   },
   {
     "metadata": {
@@ -297,7 +297,7 @@
     },
     "name": "remote-containers",
     "publisher": "ms-vscode-remote",
-    "version": "0.245.0"
+    "version": "0.245.2"
   },
   {
     "metadata": {
@@ -357,17 +357,17 @@
     },
     "name": "rust-analyzer",
     "publisher": "rust-lang",
-    "version": "0.3.1162"
+    "version": "0.3.1178"
   },
   {
     "metadata": {
-      "id": "ed3575fb-5812-4a43-9efb-c19649137420",
-      "publisherId": "liximomo.sftp",
-      "publisherDisplayName": "liximomo"
+      "id": "fe74bfaf-4260-454f-981c-6541d1d31822",
+      "publisherId": "Natizyskunk.sftp",
+      "publisherDisplayName": "Natizyskunk"
     },
     "name": "sftp",
-    "publisher": "liximomo",
-    "version": "1.12.10"
+    "publisher": "Natizyskunk",
+    "version": "1.15.14"
   },
   {
     "metadata": {
@@ -567,7 +567,7 @@
     },
     "name": "vscode-pylance",
     "publisher": "ms-python",
-    "version": "2022.8.20"
+    "version": "2022.8.30"
   },
   {
     "metadata": {
@@ -617,7 +617,7 @@
     },
     "name": "vscode-stylelint",
     "publisher": "stylelint",
-    "version": "1.2.2"
+    "version": "1.2.3"
   },
   {
     "metadata": {
@@ -637,6 +637,6 @@
     },
     "name": "vscodeintellicode",
     "publisher": "VisualStudioExptTeam",
-    "version": "1.2.22"
+    "version": "1.2.23"
   }
 ]
