@@ -56,7 +56,7 @@
   "editor.linkedEditing": true,
   "editor.codeActionsOnSave": [
     "source.fixAll",
-    "source.removeUnused"
+    "source.removeUnused",
   ],
   "editor.minimap.enabled": false,
   "editor.minimap.renderCharacters": false,
@@ -269,8 +269,8 @@
   "typescript.validate.enable": false,
   "typescript.format.enable": false,
   "typescript.tsserver.useSyntaxServer": "auto",
-  "typescript.tsserver.experimental.enableProjectDiagnostics": false,
-  "typescript.tsserver.maxTsServerMemory": 3072,
+  "typescript.tsserver.experimental.enableProjectDiagnostics": true,
+  "typescript.tsserver.maxTsServerMemory": 4096,
   "typescript.tsserver.log": "off",
   "typescript.disableAutomaticTypeAcquisition": false,
   "typescript.surveys.enabled": false,
@@ -286,6 +286,8 @@
   "eslint.lintTask.enable": true,
   "eslint.codeActionsOnSave.mode": "problems",
   "stylelint.enable": true,
+  "rome.analysis.enableCodeActions": true,
+  "rome.analysis.enableDiagnostics": true,
   "explorer.compactFolders": true,
   "explorer.confirmDelete": false,
   "explorer.confirmDragAndDrop": false,

@@ -351,6 +351,16 @@
   },
   {
     "metadata": {
+      "id": "45e4835f-2b3e-4fb5-b4d0-15ec57aa4229",
+      "publisherId": "rome.rome",
+      "publisherDisplayName": "rome"
+    },
+    "name": "rome",
+    "publisher": "rome",
+    "version": "0.12.0"
+  },
+  {
+    "metadata": {
       "id": "06574cb4-e5dc-4631-8174-a543a4533621",
       "publisherId": "rust-lang.rust-analyzer",
       "publisherDisplayName": "rust-lang"
@@ -518,16 +528,6 @@
     "name": "vscode-nginx",
     "publisher": "william-voyek",
     "version": "0.7.2"
-  },
-  {
-    "metadata": {
-      "id": "ae9e3eb0-3357-4cc0-90ee-598d2d384757",
-      "publisherId": "eg2.vscode-npm-script",
-      "publisherDisplayName": "eg2"
-    },
-    "name": "vscode-npm-script",
-    "publisher": "eg2",
-    "version": "0.3.28"
   },
   {
     "metadata": {
