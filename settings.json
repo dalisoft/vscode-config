@@ -282,7 +282,9 @@
   "less.validate": false,
   "scss.validate": false,
   "eslint.alwaysShowStatus": true,
+  "eslint.useESLintClass": true,
   "eslint.lintTask.enable": true,
+  "eslint.codeActionsOnSave.mode": "problems",
   "stylelint.enable": true,
   "explorer.compactFolders": true,
   "explorer.confirmDelete": false,
@@ -531,5 +533,5 @@
     "**/Code/User/**"
   ],
   "todo-tree.general.statusBar": "total",
-  "vscodeGoogleTranslate.preferredLanguage": "German"
+  "vscodeGoogleTranslate.preferredLanguage": "German",
 }
