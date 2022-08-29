@@ -123,6 +123,7 @@
   "terminal.integrated.enablePersistentSessions": false,
   "terminal.integrated.persistentSessionReviveProcess": "onExit",
   "terminal.integrated.tabs.location": "right",
+  "terminal.integrated.tabs.enabled": false,
   "terminal.integrated.tabs.showActiveTerminal": "singleTerminalOrNarrow",
   "terminal.integrated.titleMode": "sequence",
   "terminal.integrated.defaultProfile.osx": "fish",
@@ -342,7 +343,7 @@
   ],
   "git.terminalAuthentication": false,
   "git.statusLimit": 5000,
-  "git.enableCommitSigning": false,
+  "git.enableCommitSigning": true,
   "git.openAfterClone": "prompt",
   "git.enableSmartCommit": false,
   "git.suggestSmartCommit": true,
@@ -535,5 +536,4 @@
   ],
   "todo-tree.general.statusBar": "total",
   "vscodeGoogleTranslate.preferredLanguage": "German",
-  "terminal.integrated.tabs.enabled": false
 }
