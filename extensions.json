@@ -17,7 +17,7 @@
     },
     "name": "code-spell-checker",
     "publisher": "streetsidesoftware",
-    "version": "2.6.0"
+    "version": "2.7.0"
   },
   {
     "metadata": {
@@ -148,6 +148,16 @@
     "name": "HTMLHint",
     "publisher": "mkaufman",
     "version": "0.10.0"
+  },
+  {
+    "metadata": {
+      "id": "4d32ffbd-a404-4f22-9022-38a9e83e55f1",
+      "publisherId": "qufiwefefwoyn.inline-sql-syntax",
+      "publisherDisplayName": "qufiwefefwoyn"
+    },
+    "name": "inline-sql-syntax",
+    "publisher": "qufiwefefwoyn",
+    "version": "2.15.0"
   },
   {
     "metadata": {
@@ -367,7 +377,7 @@
     },
     "name": "rust-analyzer",
     "publisher": "rust-lang",
-    "version": "0.3.1178"
+    "version": "0.3.1186"
   },
   {
     "metadata": {
@@ -517,7 +527,7 @@
     },
     "name": "vscode-markdownlint",
     "publisher": "DavidAnson",
-    "version": "0.47.0"
+    "version": "0.48.1"
   },
   {
     "metadata": {
@@ -567,7 +577,7 @@
     },
     "name": "vscode-pylance",
     "publisher": "ms-python",
-    "version": "2022.8.30"
+    "version": "2022.8.40"
   },
   {
     "metadata": {
@@ -588,16 +598,6 @@
     "name": "vscode-scss",
     "publisher": "mrmlnc",
     "version": "0.10.0"
-  },
-  {
-    "metadata": {
-      "id": "912d0a2e-7ea0-4873-b8a8-ac1203b424d6",
-      "publisherId": "thebearingedge.vscode-sql-lit",
-      "publisherDisplayName": "thebearingedge"
-    },
-    "name": "vscode-sql-lit",
-    "publisher": "thebearingedge",
-    "version": "0.4.0"
   },
   {
     "metadata": {
@@ -627,7 +627,7 @@
     },
     "name": "vscode-yaml",
     "publisher": "redhat",
-    "version": "1.9.1"
+    "version": "1.10.1"
   },
   {
     "metadata": {
