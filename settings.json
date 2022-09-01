@@ -109,7 +109,7 @@
   "editor.showFoldingControls": "always",
   "zenMode.restore": true,
   "terminal.integrated.minimumContrastRatio": 4.5,
-  "terminal.integrated.smoothScrolling": true,
+  "terminal.integrated.smoothScrolling": false,
   "terminal.integrated.fontFamily": "Fira Code",
   "terminal.integrated.fontWeight": "100",
   "terminal.integrated.fontWeightBold": "400",
