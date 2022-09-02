@@ -117,7 +117,7 @@
     },
     "name": "gitlens",
     "publisher": "eamodio",
-    "version": "12.2.0"
+    "version": "12.2.1"
   },
   {
     "metadata": {
@@ -177,7 +177,7 @@
     },
     "name": "jupyter",
     "publisher": "ms-toolsai",
-    "version": "2022.7.1102252217"
+    "version": "2022.8.1002431955"
   },
   {
     "metadata": {
@@ -307,7 +307,7 @@
     },
     "name": "remote-containers",
     "publisher": "ms-vscode-remote",
-    "version": "0.245.2"
+    "version": "0.251.0"
   },
   {
     "metadata": {
@@ -317,7 +317,7 @@
     },
     "name": "remote-repositories",
     "publisher": "ms-vscode",
-    "version": "0.18.0"
+    "version": "0.20.0"
   },
   {
     "metadata": {
@@ -567,7 +567,7 @@
     },
     "name": "vscode-pull-request-github",
     "publisher": "GitHub",
-    "version": "0.48.1"
+    "version": "0.50.0"
   },
   {
     "metadata": {
