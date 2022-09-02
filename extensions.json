@@ -27,7 +27,7 @@
     },
     "name": "code-spell-checker-russian",
     "publisher": "streetsidesoftware",
-    "version": "2.0.5"
+    "version": "2.0.6"
   },
   {
     "metadata": {
@@ -47,7 +47,7 @@
     },
     "name": "cpptools",
     "publisher": "ms-vscode",
-    "version": "1.11.5"
+    "version": "1.12.4"
   },
   {
     "metadata": {
@@ -117,7 +117,7 @@
     },
     "name": "gitlens",
     "publisher": "eamodio",
-    "version": "12.1.2"
+    "version": "12.2.0"
   },
   {
     "metadata": {
@@ -167,7 +167,7 @@
     },
     "name": "java",
     "publisher": "redhat",
-    "version": "1.9.0"
+    "version": "1.10.0"
   },
   {
     "metadata": {
@@ -277,7 +277,7 @@
     },
     "name": "python",
     "publisher": "ms-python",
-    "version": "2022.12.1"
+    "version": "2022.14.0"
   },
   {
     "metadata": {
@@ -357,7 +357,7 @@
     },
     "name": "remotehub",
     "publisher": "GitHub",
-    "version": "0.40.0"
+    "version": "0.42.0"
   },
   {
     "metadata": {
@@ -487,7 +487,7 @@
     },
     "name": "vscode-fish",
     "publisher": "bmalehorn",
-    "version": "1.0.29"
+    "version": "1.0.31"
   },
   {
     "metadata": {
@@ -577,7 +577,7 @@
     },
     "name": "vscode-pylance",
     "publisher": "ms-python",
-    "version": "2022.8.40"
+    "version": "2022.8.50"
   },
   {
     "metadata": {
@@ -637,6 +637,6 @@
     },
     "name": "vscodeintellicode",
     "publisher": "VisualStudioExptTeam",
-    "version": "1.2.23"
+    "version": "1.2.24"
   }
 ]
