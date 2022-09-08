@@ -17,7 +17,7 @@
     },
     "name": "code-spell-checker",
     "publisher": "streetsidesoftware",
-    "version": "2.7.0"
+    "version": "2.7.2"
   },
   {
     "metadata": {
@@ -117,7 +117,7 @@
     },
     "name": "gitlens",
     "publisher": "eamodio",
-    "version": "12.2.1"
+    "version": "12.2.2"
   },
   {
     "metadata": {
@@ -127,7 +127,7 @@
     },
     "name": "gitpod-desktop",
     "publisher": "gitpod",
-    "version": "0.0.54"
+    "version": "0.0.55"
   },
   {
     "metadata": {
@@ -138,16 +138,6 @@
     "name": "go",
     "publisher": "golang",
     "version": "0.35.2"
-  },
-  {
-    "metadata": {
-      "id": "0ec558c9-f7f7-4df3-b2cf-a41ddcf292dd",
-      "publisherId": "mkaufman.HTMLHint",
-      "publisherDisplayName": "mkaufman"
-    },
-    "name": "HTMLHint",
-    "publisher": "mkaufman",
-    "version": "0.10.0"
   },
   {
     "metadata": {
@@ -287,7 +277,7 @@
     },
     "name": "r",
     "publisher": "REditorSupport",
-    "version": "2.5.2"
+    "version": "2.5.3"
   },
   {
     "metadata": {
@@ -367,7 +357,7 @@
     },
     "name": "rome",
     "publisher": "rome",
-    "version": "0.12.0"
+    "version": "0.14.1"
   },
   {
     "metadata": {
@@ -377,7 +367,7 @@
     },
     "name": "rust-analyzer",
     "publisher": "rust-lang",
-    "version": "0.3.1186"
+    "version": "0.3.1194"
   },
   {
     "metadata": {
@@ -577,7 +567,7 @@
     },
     "name": "vscode-pylance",
     "publisher": "ms-python",
-    "version": "2022.8.50"
+    "version": "2022.9.10"
   },
   {
     "metadata": {
@@ -637,6 +627,6 @@
     },
     "name": "vscodeintellicode",
     "publisher": "VisualStudioExptTeam",
-    "version": "1.2.24"
+    "version": "1.2.25"
   }
 ]

@@ -316,7 +316,8 @@
   "files.associations": {
     ".gitmodules": "gitmodules",
     "*.js": "javascript",
-    "*.ts": "typescript"
+    "*.ts": "typescript",
+    "*.sublime-settings": "jsonc"
   },
   "files.saveConflictResolution": "askUser",
   "files.restoreUndoStack": true,
