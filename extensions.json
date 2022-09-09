@@ -171,6 +171,16 @@
   },
   {
     "metadata": {
+      "id": "b15c72f8-d5fe-421a-a4f7-27ed9f6addbf",
+      "publisherId": "ms-toolsai.jupyter-renderers",
+      "publisherDisplayName": "ms-toolsai"
+    },
+    "name": "jupyter-renderers",
+    "publisher": "ms-toolsai",
+    "version": "1.0.9"
+  },
+  {
+    "metadata": {
       "id": "e8b488af-fccf-4adf-b60c-fc7455bea107",
       "publisherId": "emilast.LogFileHighlighter",
       "publisherDisplayName": "emilast"

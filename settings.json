@@ -552,4 +552,7 @@
   ],
   "todo-tree.general.statusBar": "total",
   "vscodeGoogleTranslate.preferredLanguage": "German",
+  "gitlens.advanced.messages": {
+    "suppressImproperWorkspaceCasingWarning": true
+  },
 }
