@@ -51,7 +51,7 @@
   "editor.formatOnPaste": false,
   "editor.formatOnType": false,
   "editor.formatOnSave": true,
-  "editor.formatOnSaveMode": "modificationsIfAvailable",
+  "editor.formatOnSaveMode": "file",
   "editor.foldingHighlight": true,
   "editor.foldingMaximumRegions": 5000,
   "editor.linkedEditing": true,
