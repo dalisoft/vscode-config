@@ -17,7 +17,7 @@
     },
     "name": "code-spell-checker",
     "publisher": "streetsidesoftware",
-    "version": "2.7.2"
+    "version": "2.7.3"
   },
   {
     "metadata": {
@@ -118,16 +118,6 @@
     "name": "gitlens",
     "publisher": "eamodio",
     "version": "12.2.2"
-  },
-  {
-    "metadata": {
-      "id": "6fdfb72c-12e3-4a3d-99c7-39840e4f83c2",
-      "publisherId": "gitpod.gitpod-desktop",
-      "publisherDisplayName": "gitpod"
-    },
-    "name": "gitpod-desktop",
-    "publisher": "gitpod",
-    "version": "0.0.55"
   },
   {
     "metadata": {

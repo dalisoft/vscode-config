@@ -36,6 +36,7 @@
   "editor.renderControlCharacters": true,
   "editor.renderWhitespace": "all",
   "editor.detectIndentation": true,
+  "editor.renderIndentGuides": true,
   "editor.guides.indentation": true,
   "editor.guides.bracketPairs": "active",
   "editor.bracketPairColorization.enabled": true,
