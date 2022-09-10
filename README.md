@@ -4,6 +4,7 @@
 
 ```sh
 cat extensions.txt | xargs -L1 code --force --install-extension
+rm -rf ~/Library/Application\ Support/Code/User
 ln -s $PWD/User ~/Library/Application\ Support/Code/User
 ```
 
@@ -11,6 +12,7 @@ ln -s $PWD/User ~/Library/Application\ Support/Code/User
 
 ```sh
 cat extensions.txt | xargs -L1 code --force --install-extension
+rm -rf ~/.config/Code/User
 ln -s $PWD/User ~/.config/Code/User
 ```
 
