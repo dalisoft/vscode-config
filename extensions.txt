@@ -6,14 +6,12 @@ clinyong.vscode-css-modules
 codezombiech.gitignore
 DavidAnson.vscode-markdownlint
 dbaeumer.vscode-eslint
-denoland.vscode-deno
 eamodio.gitlens
 EditorConfig.EditorConfig
 emilast.LogFileHighlighter
 esbenp.prettier-vscode
 foxundermoon.shell-format
 GitHub.vscode-pull-request-github
-gitpod.gitpod-desktop
 golang.go
 Gruntfuggly.todo-tree
 Ikuyadeu.r-pack
