@@ -47,6 +47,7 @@
   "editor.guides.bracketPairs": "active",
   "editor.bracketPairColorization.enabled": true,
   "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+  "bracket-pair-colorizer-2.depreciation-notice": false,
   "editor.guides.bracketPairsHorizontal": "active",
   "editor.guides.highlightActiveBracketPair": true,
   "editor.guides.highlightActiveIndentation": true,
