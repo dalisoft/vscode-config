@@ -4,7 +4,6 @@ bmewburn.vscode-intelephense-client
 christian-kohler.npm-intellisense
 clinyong.vscode-css-modules
 codezombiech.gitignore
-coenraads.bracket-pair-colorizer-2
 DavidAnson.vscode-markdownlint
 dbaeumer.vscode-eslint
 denoland.vscode-deno
