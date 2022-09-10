@@ -12,7 +12,6 @@ EditorConfig.EditorConfig
 emilast.LogFileHighlighter
 esbenp.prettier-vscode
 foxundermoon.shell-format
-funkyremi.vscode-google-translate
 GitHub.remotehub
 GitHub.vscode-pull-request-github
 gitpod.gitpod-desktop
