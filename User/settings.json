@@ -136,6 +136,12 @@
   "terminal.integrated.defaultProfile.osx": "fish",
   "terminal.integrated.defaultProfile.linux": "fish",
   "terminal.integrated.defaultProfile.windows": "PowerShell",
+  "terminal.integrated.env.osx": {
+    "PATH": "${workspaceFolder}/node_modules/.bin"
+  },
+  "terminal.integrated.env.linux": {
+    "PATH": "${workspaceFolder}/node_modules/.bin"
+  },
   "terminal.integrated.enableShellIntegration": false,
   "terminal.integrated.shellIntegration.enabled": true,
   "terminal.integrated.shellIntegration.decorationsEnabled": "both",
