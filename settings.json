@@ -1,4 +1,10 @@
 {
+  "[shellscript]": {
+    "editor.defaultFormatter": "foxundermoon.shell-format"
+  },
+  "[php]": {
+    "editor.defaultFormatter": "kokororin.vscode-phpfmt"
+  },
   "[javascript][javascriptreact]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
@@ -70,7 +76,7 @@
   "editor.acceptSuggestionOnCommitCharacter": true,
   "editor.suggestSelection": "recentlyUsedByPrefix",
   "editor.suggest.matchOnWordStartOnly": true,
-  "editor.suggest.localityBonus": false,
+  "editor.suggest.localityBonus": true,
   "editor.suggestOnTriggerCharacters": true,
   "editor.suggest.showInlineDetails": true,
   "editor.suggest.showDeprecated": false,
@@ -137,6 +143,8 @@
   "breadcrumbs.enabled": false,
   "extensions.ignoreRecommendations": true,
   "extensions.autoCheckUpdates": true,
+  "telemetry.enableCrashReporter": false,
+  "telemetry.enableTelemetry": false,
   "telemetry.telemetryLevel": "off",
   "redhat.telemetry.enabled": false,
   "intelephense.telemetry.enabled": false,
@@ -191,7 +199,7 @@
   "workbench.preferredLightColorTheme": "Quiet Light",
   "workbench.preferredDarkColorTheme": "Monokai",
   "workbench.editorAssociations": {
-    "*.ipynb": "jupyter-notebook"
+    "*.ipynb": "jupyter.notebook.ipynb"
   },
   "workbench.experimental.editSessions.enabled": true,
   "workbench.experimental.settingsProfiles.enabled": false,
@@ -268,9 +276,10 @@
   "typescript.inlayHints.functionLikeReturnTypes.enabled": false,
   "typescript.validate.enable": false,
   "typescript.format.enable": false,
+  "typescript.tsserver.useSeparateSyntaxServer": true,
   "typescript.tsserver.useSyntaxServer": "auto",
   "typescript.tsserver.experimental.enableProjectDiagnostics": false,
-  "typescript.tsserver.maxTsServerMemory": 3072,
+  "typescript.tsserver.maxTsServerMemory": 4096,
   "typescript.tsserver.log": "off",
   "typescript.disableAutomaticTypeAcquisition": false,
   "typescript.surveys.enabled": false,
