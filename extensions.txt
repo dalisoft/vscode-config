@@ -12,7 +12,6 @@ EditorConfig.EditorConfig
 emilast.LogFileHighlighter
 esbenp.prettier-vscode
 foxundermoon.shell-format
-GitHub.remotehub
 GitHub.vscode-pull-request-github
 gitpod.gitpod-desktop
 golang.go
@@ -31,13 +30,7 @@ ms-python.vscode-pylance
 ms-toolsai.jupyter
 ms-toolsai.jupyter-keymap
 ms-toolsai.jupyter-renderers
-ms-vscode-remote.remote-containers
-ms-vscode-remote.remote-ssh
-ms-vscode-remote.remote-ssh-edit
-ms-vscode-remote.remote-wsl
-ms-vscode-remote.vscode-remote-extensionpack
 ms-vscode.cpptools
-ms-vscode.remote-repositories
 Natizyskunk.sftp
 naumovs.color-highlight
 peterj.proto
