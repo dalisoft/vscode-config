@@ -5,13 +5,22 @@
   "[php]": {
     "editor.defaultFormatter": "kokororin.vscode-phpfmt"
   },
-  "[javascript][javascriptreact]": {
+  "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "[typescript][typescriptreact]": {
+  "[javascriptreact]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "[json][jsonc]": {
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[jsonc]": {
     "editor.defaultFormatter": "vscode.json-language-features"
   },
   "sync.gist": "376c3dfc48eae5a95d15cfc87639f6cf",
