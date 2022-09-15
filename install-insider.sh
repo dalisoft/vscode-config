@@ -15,7 +15,7 @@ if [[ $(type -p code-insiders) != "" ]]; then
   cp -R Code/ Code\ -\ Insiders
   cp settings.config.json Code\ -\ Insiders/User/settings.json
   rm -r "$APPS_PATH"/Code\ -\ Insiders/User
-  ln -s $PWD/Code/User/ "$APPS_PATH"/Code\ -\ Insiders/User
+  ln -s $PWD/Code\ -\ Insiders/User/ "$APPS_PATH"/Code\ -\ Insiders/User
 
   if [[ $1 == "-p" ]]; then
     patch -ts -p1 <legacy-insiders.patch
