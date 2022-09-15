@@ -1,19 +1,13 @@
 # VSCode settings
 
-## macOS
+## macOS / Linux
+
+Just run
 
 ```sh
-cat extensions.txt | xargs -L1 code --install-extension
-rm -rf ~/Library/Application\ Support/Code/User
-ln -s $PWD/User/ ~/Library/Application\ Support/Code/User
-```
-
-## Linux
-
-```sh
-cat extensions.txt | xargs -L1 code --install-extension
-rm -rf ~/.config/Code/User
-ln -s $PWD/User/ ~/.config/Code/User
+./install-[stable|insider].sh
+# or
+./install-[stable|insider].sh -p # for legacy version
 ```
 
 ## Post-installation

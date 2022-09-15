@@ -1,0 +1,84 @@
+diff --git a/Code/User/settings.json b/Code/User/settings.json
+index 79f72a0..ad2a313 100644
+--- a/Code/User/settings.json
++++ b/Code/User/settings.json
+@@ -5,10 +5,22 @@
+   "[php]": {
+     "editor.defaultFormatter": "kokororin.vscode-phpfmt"
+   },
+-  "[javascript][javascriptreact][typescript][typescriptreact]": {
++  "[javascript]": {
+     "editor.defaultFormatter": "esbenp.prettier-vscode"
+   },
+-  "[json][jsonc]": {
++  "[javascriptreact]": {
++    "editor.defaultFormatter": "esbenp.prettier-vscode"
++  },
++  "[typescript]": {
++    "editor.defaultFormatter": "esbenp.prettier-vscode"
++  },
++  "[typescriptreact]": {
++    "editor.defaultFormatter": "esbenp.prettier-vscode"
++  },
++  "[json]": {
++    "editor.defaultFormatter": "vscode.json-language-features"
++  },
++  "[jsonc]": {
+     "editor.defaultFormatter": "vscode.json-language-features"
+   },
+   "sync.gist": "376c3dfc48eae5a95d15cfc87639f6cf",
+@@ -40,6 +52,7 @@
+   "editor.renderControlCharacters": true,
+   "editor.renderWhitespace": "all",
+   "editor.detectIndentation": true,
++  "editor.renderIndentGuides": true,
+   "editor.guides.indentation": true,
+   "editor.guides.bracketPairs": "active",
+   "editor.bracketPairColorization.enabled": true,
+@@ -68,11 +81,7 @@
+   "editor.minimap.maxColumn": 80,
+   "editor.minimap.showSlider": "always",
+   "editor.smoothScrolling": true,
+-  "editor.quickSuggestions": {
+-    "comments": "on",
+-    "strings": "on",
+-    "other": "on"
+-  },
++  "editor.quickSuggestions": true,
+   "editor.quickSuggestionsDelay": 10,
+   "editor.acceptSuggestionOnEnter": "smart",
+   "editor.acceptSuggestionOnCommitCharacter": true,
+@@ -87,7 +96,7 @@
+   "editor.wordBasedSuggestionsMode": "allDocuments",
+   "editor.snippetSuggestions": "bottom",
+   "editor.inlineSuggest.enabled": true,
+-  "editor.inlayHints.enabled": "offUnlessPressed",
++  "editor.inlayHints.enabled": false,
+   "editor.hover.enabled": true,
+   "editor.hover.above": true,
+   "editor.parameterHints.enabled": true,
+@@ -135,6 +144,7 @@
+   "terminal.integrated.defaultProfile.osx": "fish",
+   "terminal.integrated.defaultProfile.linux": "fish",
+   "terminal.integrated.defaultProfile.windows": "PowerShell",
++  "terminal.integrated.enableShellIntegration": false,
+   "terminal.integrated.shellIntegration.enabled": true,
+   "terminal.integrated.shellIntegration.decorationsEnabled": "both",
+   "terminal.explorerKind": "integrated",
+@@ -196,7 +206,7 @@
+   "workbench.preferredLightColorTheme": "Quiet Light",
+   "workbench.preferredDarkColorTheme": "Monokai",
+   "workbench.editorAssociations": {
+-    "*.ipynb": "jupyter-notebook"
++    "*.ipynb": "jupyter.notebook.ipynb"
+   },
+   "workbench.experimental.editSessions.enabled": true,
+   "workbench.experimental.settingsProfiles.enabled": false,
+@@ -273,6 +283,7 @@
+   "typescript.inlayHints.functionLikeReturnTypes.enabled": false,
+   "typescript.validate.enable": false,
+   "typescript.format.enable": false,
++  "typescript.tsserver.useSeparateSyntaxServer": true,
+   "typescript.tsserver.useSyntaxServer": "auto",
+   "typescript.tsserver.experimental.enableProjectDiagnostics": false,
+   "typescript.tsserver.maxTsServerMemory": 4096,
