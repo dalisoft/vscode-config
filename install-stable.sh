@@ -1,11 +1,11 @@
 #!/bin/sh
 
-TARGET_PATH=""
+APPS_PATH=""
 
 if [[ $(uname) == "Darwin" ]]; then
-  TARGET_PATH="$HOME/Library/Application\ Support/Code"
+  APPS_PATH="$HOME/Library/Application Support"
 elif [[ $(uname) == "Linux" ]]; then
-  TARGET_PATH = "$HOME/.config/Code"
+  APPS_PATH = "$HOME/.config"
 fi
 
 cp settings.config.json Code/User/settings.json
@@ -13,9 +13,8 @@ cp settings.config.json Code/User/settings.json
 if [[ $(type -p code) != "" ]]; then
   echo "Found VSCode, installating..."
   cat extensions.txt | xargs -L1 code --install-extension
-
-  bash -c "rm -r $TARGET_PATH/User"
-  bash -c "ln -s $PWD/Code/User/ $TARGET_PATH/User"
+  rm -r "$APPS_PATH"/Code/User
+  ln -s $PWD/Code/User/ "$APPS_PATH"/Code/User
 
   if [[ $1 == "-p" ]]; then
     patch -ts -p1 <legacy.patch
