@@ -207,7 +207,7 @@
   "diffEditor.wordWrap": "on",
   "vsintellicode.modify.editor.suggestSelection": "choseToUpdateConfiguration",
   "window.title": "${rootName}",
-  "window.nativeTabs": true,
+  "window.nativeTabs": false,
   "window.dialogStyle": "native",
   "window.titleBarStyle": "native",
   "window.menuBarVisibility": "compact",
