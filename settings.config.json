@@ -209,7 +209,7 @@
   "window.title": "${rootName}",
   "window.nativeTabs": true,
   "window.dialogStyle": "native",
-  "window.titleBarStyle": "custom",
+  "window.titleBarStyle": "native",
   "window.menuBarVisibility": "compact",
   "window.nativeFullScreen": true,
   "window.restoreFullscreen": true,
