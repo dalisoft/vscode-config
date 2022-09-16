@@ -1,7 +1,7 @@
 diff --git a/Code - Insiders/User/settings.json b/Code - Insiders/User/settings.json
-index 79f72a0..ad2a313 100644
---- a/Code - Insiders/User/settings.json	
-+++ b/Code - Insiders/User/settings.json	
+index a185ec4..24cb6b1 100644
+--- a/Code - Insiders/User/settings.json
++++ b/Code - Insiders/User/settings.json
 @@ -5,10 +5,22 @@
    "[php]": {
      "editor.defaultFormatter": "kokororin.vscode-phpfmt"
@@ -65,7 +65,16 @@ index 79f72a0..ad2a313 100644
    "terminal.integrated.shellIntegration.enabled": true,
    "terminal.integrated.shellIntegration.decorationsEnabled": "both",
    "terminal.explorerKind": "integrated",
-@@ -196,7 +206,7 @@
+@@ -142,6 +152,8 @@
+   "breadcrumbs.enabled": false,
+   "extensions.ignoreRecommendations": true,
+   "extensions.autoCheckUpdates": true,
++  "telemetry.enableCrashReporter": false,
++  "telemetry.enableTelemetry": false,
+   "telemetry.telemetryLevel": "off",
+   "redhat.telemetry.enabled": false,
+   "intelephense.telemetry.enabled": false,
+@@ -196,7 +208,7 @@
    "workbench.preferredLightColorTheme": "Quiet Light",
    "workbench.preferredDarkColorTheme": "Monokai",
    "workbench.editorAssociations": {
@@ -74,7 +83,7 @@ index 79f72a0..ad2a313 100644
    },
    "workbench.experimental.editSessions.enabled": true,
    "workbench.experimental.settingsProfiles.enabled": false,
-@@ -273,6 +283,7 @@
+@@ -273,6 +285,7 @@
    "typescript.inlayHints.functionLikeReturnTypes.enabled": false,
    "typescript.validate.enable": false,
    "typescript.format.enable": false,
