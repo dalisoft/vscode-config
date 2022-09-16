@@ -2,6 +2,7 @@
 set -e
 
 APPS_PATH=""
+INSTALLED_EXTENSIONS=()
 
 if [[ $(uname) == "Darwin" ]]; then
   APPS_PATH="$HOME/Library/Application Support"
@@ -11,7 +12,16 @@ fi
 
 if [[ $(type -p code-insiders) != "" ]]; then
   echo "Found VSCode Insiders, installating..."
-  cat extensions.txt | xargs -L1 code-insiders --install-extension
+
+  INSTALLED_EXTENSIONS=$(code-insiders --list-extensions)
+  cat extensions.txt | while read ext; do
+    if [[ $(echo "$INSTALLED_EXTENSIONS" | grep -o "$ext") == "$ext" ]]; then
+      echo "Already exists extension: $ext"
+    else
+      code-insiders --install-extension $ext || echo "Failed to install: $ext"
+    fi
+  done
+
   cp -R Code/ Code\ -\ Insiders
   cp settings.config.json Code\ -\ Insiders/User/settings.json
   rm -r "$APPS_PATH"/Code\ -\ Insiders/User
