@@ -4,9 +4,11 @@ bmewburn.vscode-intelephense-client
 christian-kohler.npm-intellisense
 clinyong.vscode-css-modules
 codezombiech.gitignore
+cschleiden.vscode-github-actions
 DavidAnson.vscode-markdownlint
 dbaeumer.vscode-eslint
 denoland.vscode-deno
+donjayamanne.githistory
 eamodio.gitlens
 EditorConfig.EditorConfig
 emilast.LogFileHighlighter
@@ -15,8 +17,12 @@ foxundermoon.shell-format
 GitHub.vscode-pull-request-github
 golang.go
 Gruntfuggly.todo-tree
+hashicorp.terraform
 Ikuyadeu.r-pack
+jaredly.reason-vscode
 kokororin.vscode-phpfmt
+lamartire.git-indicators
+mads-hartmann.bash-ide-vscode
 mgmcdermott.vscode-language-babel
 mhutchie.git-graph
 mikestead.dotenv
@@ -35,11 +41,13 @@ naumovs.color-highlight
 peterj.proto
 PKief.material-icon-theme
 pnp.polacode
+qezhu.gitlink
 qufiwefefwoyn.inline-sql-syntax
 redhat.java
 redhat.vscode-commons
 redhat.vscode-yaml
 REditorSupport.r
+Remisa.shellman
 ricard.postcss
 rome.rome
 rust-lang.rust-analyzer
@@ -48,6 +56,7 @@ streetsidesoftware.code-spell-checker
 streetsidesoftware.code-spell-checker-russian
 styled-components.vscode-styled-components
 stylelint.vscode-stylelint
+TimGJones.hlsltools
 VisualStudioExptTeam.vscodeintellicode
 william-voyek.vscode-nginx
 XadillaX.viml
