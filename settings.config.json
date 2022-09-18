@@ -295,6 +295,8 @@
   "rome.analysis.enableDiagnostics": true,
   "bashIde.highlightParsingErrors": true,
   "terraform.codelens.referenceCount": true,
+  "svg.completion.emmet": true,
+  "svg.completion.showAdvanced": true,
   "explorer.compactFolders": true,
   "explorer.confirmDelete": false,
   "explorer.confirmDragAndDrop": false,
@@ -529,6 +531,10 @@
   "markdown.experimental.validate.referenceLinks.enabled": "error",
   "markdown.experimental.editor.pasteLinks.enabled": true,
   "markdown.experimental.updateLinksOnFileMove.enabled": "prompt",
+  "rainbow_csv.csv_lint_detect_trailing_spaces": true,
+  "rainbow_csv.enable_context_menu_head": true,
+  "rainbow_csv.enable_context_menu_tail": true,
+  "rainbow_csv.rbql_with_headers_by_default": true,
   "parameterHints.languages": [
     "php",
     "typescript",
@@ -566,6 +572,12 @@
   ],
   "todo-tree.general.statusBar": "total",
   "vscodeGoogleTranslate.preferredLanguage": "German",
+  "vscodeGoogleTranslate.HoverTranslations": false,
+  "i18n-ally.dirStructure": "auto",
+  "i18n-ally.extract.autoDetect": true,
+  "i18n-ally.keystyle": "auto",
+  "platformio.enableTelemetry": false,
+  "platformio.showHelpInfo": false,
   "gitlens.advanced.messages": {
     "suppressImproperWorkspaceCasingWarning": true
   }
