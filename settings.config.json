@@ -576,6 +576,8 @@
   "i18n-ally.dirStructure": "auto",
   "i18n-ally.extract.autoDetect": true,
   "i18n-ally.keystyle": "auto",
+  "code-runner.showRunCommandInEditorContextMenu": false,
+  "code-runner.showRunCommandInExplorerContextMenu": false,
   "platformio.enableTelemetry": false,
   "platformio.showHelpInfo": false,
   "gitlens.advanced.messages": {
