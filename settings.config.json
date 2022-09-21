@@ -405,11 +405,24 @@
   "gitlens.showWhatsNewAfterUpgrades": false,
   "gitlens.plusFeatures.enabled": false,
   "gitlens.codeLens.enabled": false,
+  "gitlens.statusBar.enabled": false,
   "gitlens.views.experimental.multiSelect.enabled": true,
   "gitlens.views.repositories.includeWorkingTree": true,
   "gitlens.views.repositories.showIncomingActivity": true,
-  "gitlens.advanced.repositorySearchDepth": 2,
+  "gitlens.advanced.repositorySearchDepth": 10,
   "gitlens.detectNestedRepositories": true,
+  "gitlens.views.commits.files.layout": "tree",
+  "gitlens.views.repositories.files.layout": "tree",
+  "gitlens.views.fileHistory.files.layout": "tree",
+  "gitlens.views.branches.files.layout": "tree",
+  "gitlens.views.remotes.files.layout": "tree",
+  "gitlens.views.stashes.files.layout": "tree",
+  "gitlens.views.tags.files.layout": "tree",
+  "gitlens.views.contributors.files.layout": "tree",
+  "gitlens.views.searchAndCompare.files.layout": "tree",
+  "gitlens.advanced.messages": {
+    "suppressImproperWorkspaceCasingWarning": true
+  },
   "git-graph.repository.commits.showSignatureStatus": true,
   "git-graph.repository.sign.tags": true,
   "git-graph.repository.sign.commits": true,
@@ -581,8 +594,5 @@
   "code-runner.showRunCommandInEditorContextMenu": false,
   "code-runner.showRunCommandInExplorerContextMenu": false,
   "platformio.enableTelemetry": false,
-  "platformio.showHelpInfo": false,
-  "gitlens.advanced.messages": {
-    "suppressImproperWorkspaceCasingWarning": true
-  }
+  "platformio.showHelpInfo": false
 }
