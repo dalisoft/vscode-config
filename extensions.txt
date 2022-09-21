@@ -8,7 +8,6 @@ cschleiden.vscode-github-actions
 DavidAnson.vscode-markdownlint
 dbaeumer.vscode-eslint
 denoland.vscode-deno
-donjayamanne.githistory
 eamodio.gitlens
 EditorConfig.EditorConfig
 emilast.LogFileHighlighter

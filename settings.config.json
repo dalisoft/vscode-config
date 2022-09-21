@@ -422,6 +422,8 @@
   "git-graph.sourceCodeProviderIntegrationLocation": "More Actions",
   "gitHistory.includeRemoteBranches": true,
   "gitHistory.sideBySide": true,
+  "gitHistory.showFileHistorySplit": false,
+  "gitHistory.hideCommitViewExplorer": true,
   "gitHistory.sourceCodeProviderIntegrationLocation": "More Actions",
   "scm.alwaysShowActions": true,
   "scm.alwaysShowRepositories": true,
