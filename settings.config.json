@@ -166,7 +166,7 @@
   "workbench.editor.revealIfOpen": true,
   "workbench.editor.limit.enabled": true,
   "workbench.editor.limit.perEditorGroup": true,
-  "workbench.editor.limit.value": 20,
+  "workbench.editor.limit.value": 10,
   "workbench.editor.highlightModifiedTabs": true,
   "workbench.editor.historyBasedLanguageDetection": true,
   "workbench.editor.preferHistoryBasedLanguageDetection": true,
