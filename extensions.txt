@@ -47,7 +47,6 @@ naumovs.color-highlight
 peterj.proto
 PKief.material-icon-theme
 pnp.polacode
-qcz.text-power-tools
 qezhu.gitlink
 qufiwefefwoyn.inline-sql-syntax
 quicktype.quicktype
