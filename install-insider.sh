@@ -6,6 +6,7 @@ INSTALLED_EXTENSIONS=()
 
 if [[ $(uname) == "Darwin" ]]; then
   APPS_PATH="$HOME/Library/Application Support"
+  defaults write com.microsoft.VSCodeInsiders ApplePressAndHoldEnabled -bool false
 elif [[ $(uname) == "Linux" ]]; then
   APPS_PATH = "$HOME/.config"
 fi
