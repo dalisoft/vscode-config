@@ -363,7 +363,7 @@
   "git.untrackedChanges": "separate",
   "git.detectSubmodulesLimit": 20,
   "git.showUnpublishedCommitsButton": "whenEmpty",
-  "git.repositoryScanMaxDepth": -1,
+  "git.repositoryScanMaxDepth": 10,
   "git.repositoryScanIgnoredFolders": [
     "node_modules"
   ],
@@ -466,7 +466,7 @@
   "scm.countBadge": "all",
   "scm.defaultViewSortKey": "name",
   "scm.repositories.sortOrder": "discovery time",
-  "merge-conflict.codeLens.enabled": true,
+  "merge-conflict.codeLens.enabled": false,
   "remoteHub.gitProtocol": "ssh",
   "search.exclude": {
     "**/.history": true,
