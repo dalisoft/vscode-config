@@ -216,6 +216,7 @@
   "diffEditor.ignoreTrimWhitespace": false,
   "diffEditor.codeLens": true,
   "diffEditor.wordWrap": "on",
+  "diffEditor.diffAlgorithm": "experimental",
   "vsintellicode.modify.editor.suggestSelection": "choseToUpdateConfiguration",
   "window.title": "${rootName}",
   "window.nativeTabs": true,
@@ -466,7 +467,8 @@
   "scm.countBadge": "all",
   "scm.defaultViewSortKey": "name",
   "scm.repositories.sortOrder": "discovery time",
-  "merge-conflict.codeLens.enabled": false,
+  "merge-conflict.codeLens.enabled": true,
+  "merge-conflict.decorators.enabled": true,
   "remoteHub.gitProtocol": "ssh",
   "search.exclude": {
     "**/.history": true,
