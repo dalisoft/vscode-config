@@ -469,7 +469,19 @@
   "scm.repositories.sortOrder": "discovery time",
   "merge-conflict.codeLens.enabled": true,
   "merge-conflict.decorators.enabled": true,
+  "gitpod.remote.syncExtensions": true,
+  "gitpod.remote.useLocalApp": false,
+  "remote.SSH.useLocalServer": false,
+  "remote.SSH.localServerDownload": "auto",
+  "remote.SSH.foldersSortOrder": "alphabetical",
+  "remote.tunnels.alwaysUpdateCLI": true,
+  "remote-explorer.foldersSortOrder": "alphabetical",
   "remoteHub.gitProtocol": "ssh",
+  "remoteHub.experimental.syncRecentList": true,
+  "remoteHub.experimental.useDiffMatchPatch": true,
+  "remoteHub.richNavigation.enabled": true,
+  "remoteHub.staging.smart": false,
+  "remoteHub.staging.enabled": false,
   "search.exclude": {
     "**/.history": true,
     "**/.cache": true,
@@ -575,6 +587,7 @@
     "typescriptreact"
   ],
   "github.gitAuthentication": false,
+  "github.gitProtocol": "ssh",
   "github.copilot.enable": {
     "*": true,
     "yaml": false,
@@ -613,5 +626,6 @@
   "code-runner.showRunCommandInEditorContextMenu": false,
   "code-runner.showRunCommandInExplorerContextMenu": false,
   "platformio.enableTelemetry": false,
-  "platformio.showHelpInfo": false
+  "platformio.showHelpInfo": false,
+  "configurationSync.store": {},
 }
