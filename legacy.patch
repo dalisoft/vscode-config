@@ -1,5 +1,5 @@
 diff --git a/Code/User/settings.json b/Code/User/settings.json
-index a185ec4..24cb6b1 100644
+index 4518a9f..912cd50 100644
 --- a/Code/User/settings.json
 +++ b/Code/User/settings.json
 @@ -5,10 +5,22 @@
@@ -27,15 +27,15 @@ index a185ec4..24cb6b1 100644
      "editor.defaultFormatter": "vscode.json-language-features"
    },
    "sync.gist": "376c3dfc48eae5a95d15cfc87639f6cf",
-@@ -40,6 +52,7 @@
-   "editor.renderControlCharacters": true,
+@@ -41,6 +53,7 @@
    "editor.renderWhitespace": "all",
+   "editor.renderLineHighlight": "all",
    "editor.detectIndentation": true,
 +  "editor.renderIndentGuides": true,
    "editor.guides.indentation": true,
    "editor.guides.bracketPairs": "active",
-   "editor.bracketPairColorization.enabled": true,
-@@ -68,11 +81,7 @@
+   "editor.matchBrackets": "always",
+@@ -77,11 +90,7 @@
    "editor.minimap.maxColumn": 80,
    "editor.minimap.showSlider": "always",
    "editor.smoothScrolling": true,
@@ -45,10 +45,10 @@ index a185ec4..24cb6b1 100644
 -    "other": "on"
 -  },
 +  "editor.quickSuggestions": true,
-   "editor.quickSuggestionsDelay": 10,
-   "editor.acceptSuggestionOnEnter": "smart",
-   "editor.acceptSuggestionOnCommitCharacter": true,
-@@ -87,7 +96,7 @@
+   "editor.autoClosingQuotes": "languageDefined",
+   "editor.emptySelectionClipboard": false,
+   "editor.selectionHighlight": true,
+@@ -101,7 +110,7 @@
    "editor.wordBasedSuggestionsMode": "allDocuments",
    "editor.snippetSuggestions": "bottom",
    "editor.inlineSuggest.enabled": true,
@@ -56,38 +56,39 @@ index a185ec4..24cb6b1 100644
 +  "editor.inlayHints.enabled": false,
    "editor.hover.enabled": true,
    "editor.hover.above": true,
-   "editor.parameterHints.enabled": true,
-@@ -135,6 +144,7 @@
-   "terminal.integrated.defaultProfile.osx": "fish",
-   "terminal.integrated.defaultProfile.linux": "fish",
-   "terminal.integrated.defaultProfile.windows": "PowerShell",
-+  "terminal.integrated.enableShellIntegration": false,
-   "terminal.integrated.shellIntegration.enabled": true,
-   "terminal.integrated.shellIntegration.decorationsEnabled": "both",
-   "terminal.explorerKind": "integrated",
-@@ -142,6 +152,8 @@
+   "editor.hover.sticky": true,
+@@ -178,7 +187,8 @@
    "breadcrumbs.enabled": false,
    "extensions.ignoreRecommendations": true,
    "extensions.autoCheckUpdates": true,
+-  "telemetry.telemetryLevel": "off",
 +  "telemetry.enableCrashReporter": false,
 +  "telemetry.enableTelemetry": false,
-   "telemetry.telemetryLevel": "off",
    "redhat.telemetry.enabled": false,
    "intelephense.telemetry.enabled": false,
-@@ -196,7 +208,7 @@
+   "code-runner.enableAppInsights": false,
+@@ -233,7 +243,7 @@
    "workbench.preferredLightColorTheme": "Quiet Light",
    "workbench.preferredDarkColorTheme": "Monokai",
    "workbench.editorAssociations": {
 -    "*.ipynb": "jupyter-notebook"
 +    "*.ipynb": "jupyter.notebook.ipynb"
    },
-   "workbench.experimental.editSessions.enabled": true,
-   "workbench.experimental.settingsProfiles.enabled": false,
-@@ -273,6 +285,7 @@
+   "workbench.editSessions.autoResume": "onReload",
+   "workbench.editSessions.continueOn": "prompt",
+@@ -314,7 +324,7 @@
    "typescript.inlayHints.functionLikeReturnTypes.enabled": false,
    "typescript.validate.enable": false,
    "typescript.format.enable": false,
+-  "typescript.tsserver.useSyntaxServer": "auto",
 +  "typescript.tsserver.useSeparateSyntaxServer": true,
-   "typescript.tsserver.useSyntaxServer": "auto",
    "typescript.tsserver.experimental.enableProjectDiagnostics": false,
    "typescript.tsserver.maxTsServerMemory": 4096,
+   "typescript.tsserver.log": "off",
+@@ -656,5 +666,5 @@
+   "code-runner.showRunCommandInExplorerContextMenu": false,
+   "platformio.enableTelemetry": false,
+   "platformio.showHelpInfo": false,
+-  "configurationSync.store": {},
++  "configurationSync.store": {}
+ }
