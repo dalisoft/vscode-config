@@ -34,7 +34,7 @@ mechatroner.rainbow-csv
 mgmcdermott.vscode-language-babel
 mhutchie.git-graph
 mikestead.dotenv
-mkaufman.HTMLHint
+htmlhint.vscode-htmlhint
 mrmlnc.vscode-apache
 mrmlnc.vscode-scss
 ms-python.gather
