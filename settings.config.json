@@ -460,10 +460,12 @@
   "gitlens.views.fileHistory.files.layout": "tree",
   "gitlens.views.branches.files.layout": "tree",
   "gitlens.views.remotes.files.layout": "tree",
-  "gitlens.views.stashes.files.layout": "tree",
-  "gitlens.views.tags.files.layout": "tree",
-  "gitlens.views.contributors.files.layout": "tree",
+  "gitlens.views.tags.files.layout": "list",
+  "gitlens.views.tags.branches.layout": "list",
+  "gitlens.views.contributors.files.layout": "list",
+  "gitlens.views.contributors.showAllBranches": true,
   "gitlens.views.searchAndCompare.files.layout": "tree",
+  "gitlens.views.stashes.files.layout": "list",
   "gitlens.advanced.messages": {
     "suppressImproperWorkspaceCasingWarning": true
   },
