@@ -22,6 +22,7 @@ gitpod.gitpod-remote-ssh
 golang.go
 Gruntfuggly.todo-tree
 hashicorp.terraform
+HTMLHint.vscode-htmlhint
 IBM.output-colorizer
 Ikuyadeu.r-pack
 jaredly.reason-vscode
@@ -34,9 +35,9 @@ mechatroner.rainbow-csv
 mgmcdermott.vscode-language-babel
 mhutchie.git-graph
 mikestead.dotenv
-htmlhint.vscode-htmlhint
 mrmlnc.vscode-apache
 mrmlnc.vscode-scss
+ms-azuretools.vscode-docker
 ms-python.gather
 ms-python.python
 ms-python.vscode-pylance
