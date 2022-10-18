@@ -173,7 +173,7 @@
   "terminal.external.osxExec": "Terminal.app",
   "terminal.external.linuxExec": "xterm",
   "terminal.external.windowsExec": "C:\\Program Files\\Git\\bin\\bash.exe",
-  "terminal.explorerKind": "external",
+  "terminal.explorerKind": "integrated",
   "timeline.showView": false,
   "breadcrumbs.enabled": false,
   "extensions.ignoreRecommendations": true,
