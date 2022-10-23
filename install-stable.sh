@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 set -e
 
 APPS_PATH=""
@@ -8,7 +8,12 @@ if [[ $(uname) == "Darwin" ]]; then
   APPS_PATH="$HOME/Library/Application Support"
   defaults write com.microsoft.VSCode ApplePressAndHoldEnabled -bool false
 elif [[ $(uname) == "Linux" ]]; then
-  APPS_PATH = "$HOME/.config"
+  APPS_PATH="$HOME/.config"
+elif [[ $(uname) == *"NT"* ]]; then
+  echo "We found Windows NT environment"
+  echo "Installation will not work"
+
+  exit 1
 fi
 
 cp settings.config.json Code/User/settings.json
