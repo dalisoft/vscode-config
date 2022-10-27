@@ -666,6 +666,5 @@
   "code-runner.showRunCommandInEditorContextMenu": false,
   "code-runner.showRunCommandInExplorerContextMenu": false,
   "platformio.enableTelemetry": false,
-  "platformio.showHelpInfo": false,
-  "configurationSync.store": {},
+  "platformio.showHelpInfo": false
 }
