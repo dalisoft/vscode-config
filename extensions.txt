@@ -27,7 +27,6 @@ Ikuyadeu.r-pack
 jaredly.reason-vscode
 jock.svg
 kokororin.vscode-phpfmt
-lamartire.git-indicators
 lokalise.i18n-ally
 mads-hartmann.bash-ide-vscode
 mechatroner.rainbow-csv
