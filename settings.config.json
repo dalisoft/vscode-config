@@ -1,5 +1,5 @@
 {
-  "editor.defaultFormatter": "vscode.json-language-features",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
   "[shellscript]": {
     "editor.defaultFormatter": "foxundermoon.shell-format"
   },
@@ -15,14 +15,10 @@
   "debug.javascript.autoAttachFilter": "onlyWithFlag",
   "debug.javascript.codelens.npmScripts": "all",
   "debug.javascript.pickAndAttachOptions": {
-    "skipFiles": [
-      "<node_internals>/**"
-    ]
+    "skipFiles": ["<node_internals>/**"]
   },
   "debug.javascript.terminalOptions": {
-    "skipFiles": [
-      "<node_internals>/**"
-    ]
+    "skipFiles": ["<node_internals>/**"]
   },
   "debug.console.historySuggestions": true,
   "debug.console.closeOnEnd": true,
@@ -118,9 +114,7 @@
   "editor.tabCompletion": "on",
   "editor.wordWrap": "wordWrapColumn",
   "editor.wordWrapColumn": 80,
-  "editor.rulers": [
-    80
-  ],
+  "editor.rulers": [80],
   "editor.wrappingIndent": "indent",
   "editor.autoIndent": "full",
   "editor.insertSpaces": true,
@@ -401,9 +395,7 @@
   "git.detectSubmodulesLimit": 20,
   "git.showUnpublishedCommitsButton": "whenEmpty",
   "git.repositoryScanMaxDepth": 10,
-  "git.repositoryScanIgnoredFolders": [
-    "node_modules"
-  ],
+  "git.repositoryScanIgnoredFolders": ["node_modules"],
   "git.terminalAuthentication": false,
   "git.statusLimit": 5000,
   "git.enableCommitSigning": true,
@@ -423,11 +415,7 @@
   "git.followTagsWhenSync": false,
   "git.pullTags": true,
   "git.supportCancellation": false,
-  "git.checkoutType": [
-    "local",
-    "remote",
-    "tags"
-  ],
+  "git.checkoutType": ["local", "remote", "tags"],
   "git.timeline.showUncommitted": true,
   "git.timeline.date": "committed",
   "git.timeline.showAuthor": true,
@@ -442,10 +430,7 @@
   },
   "git.useEditorAsCommitInput": false,
   "git.terminalGitEditor": true,
-  "git.branchProtection": [
-    "master",
-    "release"
-  ],
+  "git.branchProtection": ["master", "release"],
   "git.branchProtectionPrompt": "alwaysPrompt",
   "git.experimental.installGuide": "default",
   "remoteHub.switchToCreatedBranch": "always",
@@ -561,11 +546,7 @@
   "json.maxItemsComputed": 1000,
   "go.formatTool": "goimports",
   "go.useLanguageServer": true,
-  "go.languageServerFlags": [
-    "serve",
-    "-rpc.trace",
-    "--debug=localhost:6060"
-  ],
+  "go.languageServerFlags": ["serve", "-rpc.trace", "--debug=localhost:6060"],
   "go.toolsManagement.autoUpdate": true,
   "reason_language_server.location": "/usr/local/bin/reason-language-server",
   "rust-analyzer.updates.askBeforeDownload": true,
@@ -609,10 +590,7 @@
     "xml",
     "xsl"
   ],
-  "yaml.customTags": [
-    "!encrypted/pkcs1-oaep scalar",
-    "!vault scalar"
-  ],
+  "yaml.customTags": ["!encrypted/pkcs1-oaep scalar", "!vault scalar"],
   "markdown.preview.breaks": true,
   "markdown.validate.enabled": true,
   "markdown.validate.fileLinks.enabled": "error",
@@ -630,11 +608,7 @@
   "rainbow_csv.enable_context_menu_head": true,
   "rainbow_csv.enable_context_menu_tail": true,
   "rainbow_csv.rbql_with_headers_by_default": true,
-  "parameterHints.languages": [
-    "php",
-    "typescript",
-    "typescriptreact"
-  ],
+  "parameterHints.languages": ["php", "typescript", "typescriptreact"],
   "github.gitAuthentication": false,
   "github.gitProtocol": "ssh",
   "github.copilot.enable": {
