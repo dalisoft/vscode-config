@@ -33,9 +33,5 @@ if [[ $(type -p code-insiders) != "" ]]; then
   rm -r "$APPS_PATH"/Code\ -\ Insiders/User
   ln -s $PWD/Code\ -\ Insiders/User/ "$APPS_PATH"/Code\ -\ Insiders/User
 
-  if [[ $1 == "-p" ]]; then
-    patch -ts -p1 <legacy-insiders.patch
-  fi
-
   echo "Done for VSCode Insiders"
 fi
