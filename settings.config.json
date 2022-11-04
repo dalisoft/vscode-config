@@ -1,15 +1,10 @@
 {
-  "[shellscript][bat][bats]": {
+  "editor.defaultFormatter": "vscode.json-language-features",
+  "[shellscript]": {
     "editor.defaultFormatter": "foxundermoon.shell-format"
   },
   "[php]": {
     "editor.defaultFormatter": "kokororin.vscode-phpfmt"
-  },
-  "[javascript][javascriptreact][typescript][typescriptreact]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "[json][jsonc]": {
-    "editor.defaultFormatter": "vscode.json-language-features"
   },
   "sync.gist": "376c3dfc48eae5a95d15cfc87639f6cf",
   "application.experimental.rendererProfiling": false,
@@ -42,6 +37,7 @@
   "editor.renderWhitespace": "all",
   "editor.renderLineHighlight": "all",
   "editor.detectIndentation": true,
+  "editor.renderIndentGuides": true,
   "editor.guides.indentation": true,
   "editor.guides.bracketPairs": "active",
   "editor.matchBrackets": "always",
@@ -181,6 +177,8 @@
   "extensions.ignoreRecommendations": true,
   "extensions.autoCheckUpdates": true,
   "telemetry.telemetryLevel": "off",
+  "telemetry.enableCrashReporter": false,
+  "telemetry.enableTelemetry": false,
   "redhat.telemetry.enabled": false,
   "intelephense.telemetry.enabled": false,
   "code-runner.enableAppInsights": false,
@@ -319,6 +317,7 @@
   "typescript.validate.enable": false,
   "typescript.format.enable": false,
   "typescript.tsserver.useSyntaxServer": "auto",
+  "typescript.tsserver.useSeparateSyntaxServer": true,
   "typescript.tsserver.experimental.enableProjectDiagnostics": false,
   "typescript.tsserver.maxTsServerMemory": 4096,
   "typescript.tsserver.log": "off",
