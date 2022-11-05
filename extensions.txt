@@ -74,7 +74,6 @@ streetsidesoftware.code-spell-checker-russian
 styled-components.vscode-styled-components
 stylelint.vscode-stylelint
 TimGJones.hlsltools
-VisualStudioExptTeam.intellicode-api-usage-examples
 VisualStudioExptTeam.vscodeintellicode
 william-voyek.vscode-nginx
 XadillaX.viml
