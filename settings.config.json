@@ -448,6 +448,8 @@
   "git.experimental.installGuide": "default",
   "remoteHub.switchToCreatedBranch": "always",
   "gitlens.integrations.enabled": true,
+  "gitlens.menus.scm.graph": false,
+  "gitlens.menus.scmRepositoryInline.graph": false,
   "gitlens.mode.active": "review",
   "gitlens.codeLens.authors.enabled": false,
   "gitlens.codeLens.recentChange.enabled": false,
