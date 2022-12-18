@@ -1,5 +1,7 @@
 {
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript][javascriptreact][typescript][typescriptreact][json][markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
   "[shellscript]": {
     "editor.defaultFormatter": "foxundermoon.shell-format"
   },
@@ -24,6 +26,7 @@
   "debug.console.closeOnEnd": true,
   "debug.showInStatusBar": "always",
   "debug.showBreakpointsInOverviewRuler": true,
+  "outline.collapseItems": "alwaysCollapse",
   "vscode-edge-devtools.mirrorEdits": true,
   "security.workspace.trust.banner": "never",
   "security.workspace.trust.untrustedFiles": "open",
@@ -46,7 +49,7 @@
   "editor.unicodeHighlight.invisibleCharacters": false,
   "editor.unicodeHighlight.includeStrings": true,
   "editor.cursorBlinking": "phase",
-  "editor.cursorSmoothCaretAnimation": true,
+  "editor.cursorSmoothCaretAnimation": "on",
   "editor.cursorStyle": "line",
   "editor.cursorWidth": 2,
   "editor.multiCursorModifier": "alt",
@@ -119,6 +122,7 @@
   "editor.autoIndent": "full",
   "editor.insertSpaces": true,
   "editor.tabSize": 2,
+  "editor.indentSize": 2,
   "editor.useTabStops": true,
   "editor.stickyTabStops": true,
   "editor.codeLens": true,
@@ -170,6 +174,7 @@
   "breadcrumbs.enabled": false,
   "extensions.ignoreRecommendations": true,
   "extensions.autoCheckUpdates": true,
+  "extensions.verifySignature": true,
   "telemetry.telemetryLevel": "off",
   "telemetry.enableCrashReporter": false,
   "telemetry.enableTelemetry": false,
@@ -179,6 +184,7 @@
   "update.mode": "none",
   "update.showReleaseNotes": false,
   "comments.openView": "firstFile",
+  "comments.visible": true,
   "workbench.welcomePage.experimental.extensionContributions": true,
   "workbench.quickOpen.preserveInput": true,
   "workbench.commandPalette.preserveInput": true,
@@ -229,8 +235,8 @@
   "workbench.editorAssociations": {
     "*.ipynb": "jupyter-notebook"
   },
-  "workbench.editSessions.autoResume": "onReload",
-  "workbench.editSessions.continueOn": "prompt",
+  "workbench.cloudChanges.continueOn": "prompt",
+  "workbench.cloudChanges.autoResume": "onReload",
   "workbench.experimental.settingsProfiles.enabled": false,
   "audioCues.volume": 50,
   "audioCues.terminalQuickFix": "auto",
@@ -348,6 +354,11 @@
   "explorer.fileNesting.expand": true,
   "explorer.expandSingleFolderWorkspaces": true,
   "explorer.excludeGitIgnore": false,
+  "explorer.autoRevealExclude": {
+    "**/node_modules": true,
+    "**/bower_components": true,
+    "**/.idea": true
+  },
   "files.watcherExclude": {
     "**/.git/**": true,
     "**/.history/**": true,
@@ -398,6 +409,7 @@
   "git.repositoryScanIgnoredFolders": ["node_modules"],
   "git.terminalAuthentication": false,
   "git.statusLimit": 5000,
+  "git.optimisticUpdate": false,
   "git.enableCommitSigning": true,
   "git.openAfterClone": "prompt",
   "git.enableSmartCommit": false,
@@ -432,6 +444,7 @@
   "git.terminalGitEditor": true,
   "git.branchProtection": ["master", "release"],
   "git.branchProtectionPrompt": "alwaysPrompt",
+  "git.branchRandomName.enable": false,
   "git.experimental.installGuide": "default",
   "remoteHub.switchToCreatedBranch": "always",
   "gitlens.integrations.enabled": true,

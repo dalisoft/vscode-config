@@ -1,8 +1,39 @@
 diff --git a/Code/User/settings.json b/Code/User/settings.json
-index 6a6251b..bbda2ee 100644
+index a423c4e..69f0dfc 100644
 --- a/Code/User/settings.json
 +++ b/Code/User/settings.json
-@@ -74,11 +74,7 @@
+@@ -1,5 +1,20 @@
+ {
+-  "[javascript][javascriptreact][typescript][typescriptreact][json][markdown]": {
++  "[javascript]": {
++    "editor.defaultFormatter": "esbenp.prettier-vscode"
++  },
++  "[javascriptreact]": {
++    "editor.defaultFormatter": "esbenp.prettier-vscode"
++  },
++  "[typescript]": {
++    "editor.defaultFormatter": "esbenp.prettier-vscode"
++  },
++  "[typescriptreact]": {
++    "editor.defaultFormatter": "esbenp.prettier-vscode"
++  },
++  "[json]": {
++    "editor.defaultFormatter": "esbenp.prettier-vscode"
++  },
++  "[markdown]": {
+     "editor.defaultFormatter": "esbenp.prettier-vscode"
+   },
+   "[shellscript]": {
+@@ -49,7 +64,7 @@
+   "editor.unicodeHighlight.invisibleCharacters": false,
+   "editor.unicodeHighlight.includeStrings": true,
+   "editor.cursorBlinking": "phase",
+-  "editor.cursorSmoothCaretAnimation": "on",
++  "editor.cursorSmoothCaretAnimation": true,
+   "editor.cursorStyle": "line",
+   "editor.cursorWidth": 2,
+   "editor.multiCursorModifier": "alt",
+@@ -73,11 +88,7 @@
    "editor.minimap.maxColumn": 80,
    "editor.minimap.showSlider": "always",
    "editor.smoothScrolling": true,
@@ -15,7 +46,7 @@ index 6a6251b..bbda2ee 100644
    "editor.autoClosingQuotes": "languageDefined",
    "editor.emptySelectionClipboard": false,
    "editor.selectionHighlight": true,
-@@ -98,7 +94,7 @@
+@@ -97,7 +108,7 @@
    "editor.wordBasedSuggestionsMode": "allDocuments",
    "editor.snippetSuggestions": "bottom",
    "editor.inlineSuggest.enabled": true,
@@ -24,12 +55,17 @@ index 6a6251b..bbda2ee 100644
    "editor.hover.enabled": true,
    "editor.hover.above": true,
    "editor.hover.sticky": true,
-@@ -233,7 +229,7 @@
+@@ -233,10 +244,10 @@
    "workbench.preferredLightColorTheme": "Quiet Light",
    "workbench.preferredDarkColorTheme": "Monokai",
    "workbench.editorAssociations": {
 -    "*.ipynb": "jupyter-notebook"
 +    "*.ipynb": "jupyter.notebook.ipynb"
    },
-   "workbench.editSessions.autoResume": "onReload",
-   "workbench.editSessions.continueOn": "prompt",
+-  "workbench.cloudChanges.continueOn": "prompt",
+-  "workbench.cloudChanges.autoResume": "onReload",
++  "workbench.editSessions.autoResume": "onReload",
++  "workbench.editSessions.continueOn": "prompt",
+   "workbench.experimental.settingsProfiles.enabled": false,
+   "audioCues.volume": 50,
+   "audioCues.terminalQuickFix": "auto",
