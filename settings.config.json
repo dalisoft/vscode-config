@@ -8,6 +8,9 @@
   "[php]": {
     "editor.defaultFormatter": "kokororin.vscode-phpfmt"
   },
+  "[dockerfile][dockercompose]": {
+    "editor.defaultFormatter": "ms-azuretools.vscode-docker"
+  },
   "sync.gist": "376c3dfc48eae5a95d15cfc87639f6cf",
   "application.experimental.rendererProfiling": false,
   "prettier.requireConfig": true,
