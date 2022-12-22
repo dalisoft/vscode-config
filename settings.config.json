@@ -429,7 +429,7 @@
   "git.rebaseWhenSync": false,
   "git.followTagsWhenSync": false,
   "git.pullTags": true,
-  "git.supportCancellation": true,
+  "git.supportCancellation": false,
   "git.checkoutType": ["local", "remote", "tags"],
   "git.timeline.showUncommitted": true,
   "git.timeline.date": "committed",
