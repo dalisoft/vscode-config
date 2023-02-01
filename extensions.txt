@@ -1,4 +1,5 @@
 1000ch.svgo
+ahmadalli.vscode-nginx-conf
 bmalehorn.vscode-fish
 bmewburn.vscode-intelephense-client
 christian-kohler.npm-intellisense
@@ -54,12 +55,14 @@ ms-vscode.remote-repositories
 ms-vscode.remote-server
 Natizyskunk.sftp
 naumovs.color-highlight
+Pandy.bun
 peterj.proto
 PKief.material-icon-theme
 pnp.polacode
 qezhu.gitlink
 qufiwefefwoyn.inline-sql-syntax
 quicktype.quicktype
+raynigon.nginx-formatter
 redhat.java
 redhat.vscode-commons
 redhat.vscode-yaml
