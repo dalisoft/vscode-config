@@ -51,7 +51,6 @@ ms-vscode.remote-explorer
 ms-vscode.remote-server
 Natizyskunk.sftp
 naumovs.color-highlight
-Pandy.bun
 peterj.proto
 PKief.material-icon-theme
 pnp.polacode
