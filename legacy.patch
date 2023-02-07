@@ -1,5 +1,5 @@
 diff --git a/Code/User/settings.json b/Code/User/settings.json
-index a423c4e..69f0dfc 100644
+index 735f8bc..ea23845 100644
 --- a/Code/User/settings.json
 +++ b/Code/User/settings.json
 @@ -1,5 +1,20 @@
@@ -24,7 +24,7 @@ index a423c4e..69f0dfc 100644
      "editor.defaultFormatter": "esbenp.prettier-vscode"
    },
    "[shellscript]": {
-@@ -49,7 +64,7 @@
+@@ -52,7 +67,7 @@
    "editor.unicodeHighlight.invisibleCharacters": false,
    "editor.unicodeHighlight.includeStrings": true,
    "editor.cursorBlinking": "phase",
@@ -33,7 +33,7 @@ index a423c4e..69f0dfc 100644
    "editor.cursorStyle": "line",
    "editor.cursorWidth": 2,
    "editor.multiCursorModifier": "alt",
-@@ -73,11 +88,7 @@
+@@ -76,11 +91,7 @@
    "editor.minimap.maxColumn": 80,
    "editor.minimap.showSlider": "always",
    "editor.smoothScrolling": true,
@@ -46,16 +46,16 @@ index a423c4e..69f0dfc 100644
    "editor.autoClosingQuotes": "languageDefined",
    "editor.emptySelectionClipboard": false,
    "editor.selectionHighlight": true,
-@@ -97,7 +108,7 @@
-   "editor.wordBasedSuggestionsMode": "allDocuments",
+@@ -102,7 +113,7 @@
    "editor.snippetSuggestions": "bottom",
    "editor.inlineSuggest.enabled": true,
+   "editor.inlineSuggest.showToolbar": "onHover",
 -  "editor.inlayHints.enabled": "offUnlessPressed",
 +  "editor.inlayHints.enabled": false,
    "editor.hover.enabled": true,
    "editor.hover.above": true,
    "editor.hover.sticky": true,
-@@ -233,10 +244,10 @@
+@@ -239,10 +250,10 @@
    "workbench.preferredLightColorTheme": "Quiet Light",
    "workbench.preferredDarkColorTheme": "Monokai",
    "workbench.editorAssociations": {
