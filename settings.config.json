@@ -111,7 +111,7 @@
   "editor.colorDecorators": true,
   "editor.definitionLinkOpensInPeek": true,
   "editor.fontSize": 13,
-  "editor.fontFamily": "JetBrains Mono, Fira Code, Monaco",
+  "editor.fontFamily": "JetBrains Mono NL, Fira Code, Monaco",
   "editor.fontLigatures": true,
   "editor.lineNumbers": "on",
   "editor.glyphMargin": false,
