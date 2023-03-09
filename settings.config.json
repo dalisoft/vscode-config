@@ -91,7 +91,7 @@
   "editor.acceptSuggestionOnCommitCharacter": true,
   "editor.suggestSelection": "recentlyUsedByPrefix",
   "editor.suggest.matchOnWordStartOnly": true,
-  "editor.suggest.localityBonus": true,
+  "editor.suggest.localityBonus": false,
   "editor.suggestOnTriggerCharacters": true,
   "editor.suggest.showInlineDetails": true,
   "editor.suggest.showDeprecated": false,
