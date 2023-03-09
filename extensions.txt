@@ -55,6 +55,7 @@ PKief.material-icon-theme
 pnp.polacode
 qezhu.gitlink
 qufiwefefwoyn.inline-sql-syntax
+quick-lint.quick-lint-js
 quicktype.quicktype
 raynigon.nginx-formatter
 redhat.java
@@ -70,6 +71,7 @@ streetsidesoftware.code-spell-checker
 streetsidesoftware.code-spell-checker-russian
 styled-components.vscode-styled-components
 stylelint.vscode-stylelint
+svelte.svelte-vscode
 TimGJones.hlsltools
 VisualStudioExptTeam.vscodeintellicode
 william-voyek.vscode-nginx
