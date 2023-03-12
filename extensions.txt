@@ -57,7 +57,6 @@ qezhu.gitlink
 qufiwefefwoyn.inline-sql-syntax
 quick-lint.quick-lint-js
 quicktype.quicktype
-raynigon.nginx-formatter
 redhat.java
 redhat.vscode-commons
 redhat.vscode-yaml
@@ -74,6 +73,5 @@ stylelint.vscode-stylelint
 svelte.svelte-vscode
 TimGJones.hlsltools
 VisualStudioExptTeam.vscodeintellicode
-william-voyek.vscode-nginx
 XadillaX.viml
 ziyasal.vscode-open-in-github
