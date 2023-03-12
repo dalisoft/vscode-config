@@ -74,4 +74,3 @@ svelte.svelte-vscode
 TimGJones.hlsltools
 VisualStudioExptTeam.vscodeintellicode
 XadillaX.viml
-ziyasal.vscode-open-in-github
