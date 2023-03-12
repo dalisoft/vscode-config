@@ -4,9 +4,9 @@
 
 | Extensions                                    | VSCode | VSC Insider | Sublime Text | JetBrains                    |
 | --------------------------------------------- | ------ | ----------- | ------------ | ---------------------------- |
-| 1000ch.svgo                                   | +      | +           | -            | -                            |
+| 1000ch.svgo                                   | +      | +           | -            | —                            |
 | ahmadalli.vscode-nginx-conf                   | +      | +           | -            | 15461-nginx-configuration    |
-| bmalehorn.vscode-fish                         | +      | +           | -            | -                            |
+| bmalehorn.vscode-fish                         | +      | +           | -            | —                            |
 | bmewburn.vscode-intelephense-client           | +      | +           | -            | Built-in (PHPStorm)          |
 | christian-kohler.npm-intellisense             | +      | +           | -            | Built-in (WebStorm)          |
 | clinyong.vscode-css-modules                   | +      | +           | -            | -                            |
@@ -77,7 +77,6 @@
 | styled-components.vscode-styled-components    | +      | +           | -            | -                            |
 | stylelint.vscode-stylelint                    | +      | +           | -            | -                            |
 | svelte.svelte-vscode                          | +      | +           | -            | 12375-svelte                 |
-| TimGJones.hlsltools                           | +      | +           | -            | -                            |
+| TimGJones.hlsltools                           | +      | +           | -            | —                            |
 | VisualStudioExptTeam.vscodeintellicode        | +      | +           | -            | Built-in                     |
-| XadillaX.viml                                 | +      | +           | -            | -                            |
-| ziyasal.vscode-open-in-github                 | +      | +           | -            | -                            |
+| XadillaX.viml                                 | +      | +           | -            | —                            |
