@@ -5,7 +5,6 @@ bmewburn.vscode-intelephense-client
 christian-kohler.npm-intellisense
 clinyong.vscode-css-modules
 codezombiech.gitignore
-cschleiden.vscode-github-actions
 DavidAnson.vscode-markdownlint
 dbaeumer.vscode-eslint
 denoland.vscode-deno
@@ -16,6 +15,7 @@ esbenp.prettier-vscode
 formulahendry.code-runner
 formulahendry.platformio
 foxundermoon.shell-format
+github.vscode-github-actions
 GitHub.vscode-pull-request-github
 golang.go
 Gruntfuggly.todo-tree
