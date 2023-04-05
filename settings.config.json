@@ -2,7 +2,7 @@
   "[javascript][javascriptreact][typescript][typescriptreact][json][markdown]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "[shellscript]": {
+  "[shellscript][ignore]": {
     "editor.defaultFormatter": "foxundermoon.shell-format"
   },
   "[php]": {
@@ -191,6 +191,7 @@
   "comments.openView": "firstFile",
   "comments.visible": true,
   "workbench.welcomePage.experimental.extensionContributions": true,
+  "workbench.remote.experimental.showStartListEntry": true,
   "workbench.quickOpen.preserveInput": true,
   "workbench.commandPalette.preserveInput": true,
   "workbench.enableExperiments": false,
@@ -322,8 +323,8 @@
   "typescript.inlayHints.functionLikeReturnTypes.enabled": false,
   "typescript.validate.enable": false,
   "typescript.format.enable": false,
-  "typescript.tsserver.useSyntaxServer": "auto",
-  "typescript.tsserver.useSeparateSyntaxServer": true,
+  "typescript.tsserver.useSyntaxServer": "never",
+  "typescript.tsserver.useSeparateSyntaxServer": false,
   "typescript.tsserver.experimental.enableProjectDiagnostics": false,
   "typescript.tsserver.maxTsServerMemory": 4096,
   "typescript.tsserver.log": "off",
@@ -586,6 +587,9 @@
   "ipynb.experimental.pasteImages.enabled": true,
   "notebook.breadcrumbs.showCodeCells": true,
   "notebook.outline.showCodeCells": true,
+  "notebook.output.scrolling": true,
+  "notebook.output.textLineLimit": 30,
+  "notebook.formatOnSave.enabled": true,
   "java.implementationsCodeLens.enabled": true,
   "java.project.importHint": true,
   "cSpell.enabled": true,
@@ -639,6 +643,9 @@
     "plaintext": true,
     "markdown": false
   },
+  "githubPullRequests.setAutoMerge": true,
+  "githubRepositories.experimental.lfs.write.enabled": true,
+  "azureRepos.experimental.lfs.write.enabled": true,
   "local-history.enabled": 2,
   "local-history.daysLimit": 2000,
   "local-history.maxDisplay": 30,
