@@ -15,7 +15,6 @@ esbenp.prettier-vscode
 formulahendry.code-runner
 formulahendry.platformio
 foxundermoon.shell-format
-GitHub.copilot
 GitHub.remotehub
 github.vscode-github-actions
 GitHub.vscode-pull-request-github
