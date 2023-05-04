@@ -254,7 +254,7 @@
   "diffEditor.ignoreTrimWhitespace": false,
   "diffEditor.codeLens": true,
   "diffEditor.wordWrap": "on",
-  "diffEditor.diffAlgorithm": "experimental",
+  "diffEditor.diffAlgorithm": "advanced",
   "vsintellicode.modify.editor.suggestSelection": "choseToUpdateConfiguration",
   "window.title": "${rootName}",
   "window.nativeTabs": true,
@@ -644,7 +644,7 @@
     "markdown": false
   },
   "githubPullRequests.setAutoMerge": true,
-  "githubRepositories.experimental.lfs.write.enabled": true,
+  "githubRepositories.lfs.write.enabled": true,
   "azureRepos.experimental.lfs.write.enabled": true,
   "local-history.enabled": 2,
   "local-history.daysLimit": 2000,
