@@ -143,7 +143,7 @@
   "terminal.integrated.fontFamily": "Fira Code, Monaco, monospace",
   "terminal.integrated.fontWeight": "100",
   "terminal.integrated.fontWeightBold": "400",
-  "terminal.integrated.fontSize": 12,
+  "terminal.integrated.fontSize": 13,
   "terminal.integrated.lineHeight": 1,
   "terminal.integrated.gpuAcceleration": "on",
   "terminal.integrated.customGlyphs": true,
