@@ -110,7 +110,7 @@
   "editor.parameterHints.cycle": false,
   "editor.colorDecorators": true,
   "editor.definitionLinkOpensInPeek": true,
-  "editor.fontSize": 13,
+  "editor.fontSize": 14,
   "editor.fontFamily": "JetBrains Mono NL, Fira Code, Monaco",
   "editor.fontLigatures": true,
   "editor.lineNumbers": "on",
@@ -485,8 +485,10 @@
   "gitlens.views.searchAndCompare.files.layout": "tree",
   "gitlens.views.stashes.files.layout": "list",
   "gitlens.advanced.messages": {
+    "suppressIntegrationDisconnectedTooManyFailedRequestsWarning": true,
     "suppressImproperWorkspaceCasingWarning": true
   },
+  "gitlens.views.contributors.showStatistics": true,
   "git-graph.repository.commits.showSignatureStatus": true,
   "git-graph.repository.sign.tags": true,
   "git-graph.repository.sign.commits": true,
@@ -555,7 +557,7 @@
   "search.decorations.colors": true,
   "task.autoDetect": "on",
   "task.quickOpen.detail": true,
-  "task.allowAutomaticTasks": "auto",
+  "task.allowAutomaticTasks": "off",
   "task.reconnection": true,
   "interactiveWindow.restore": true,
   "npm.autoDetect": "on",
