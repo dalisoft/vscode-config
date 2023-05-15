@@ -19,6 +19,7 @@ GitHub.remotehub
 github.vscode-github-actions
 GitHub.vscode-pull-request-github
 golang.go
+GrapeCity.gc-excelviewer
 Gruntfuggly.todo-tree
 hashicorp.terraform
 HTMLHint.vscode-htmlhint
@@ -67,6 +68,7 @@ Remisa.shellman
 ricard.postcss
 rome.rome
 rust-lang.rust-analyzer
+semanticdiff.semanticdiff
 sidneys1.gitconfig
 streetsidesoftware.code-spell-checker
 streetsidesoftware.code-spell-checker-russian

@@ -240,7 +240,9 @@
   "workbench.preferredLightColorTheme": "Quiet Light",
   "workbench.preferredDarkColorTheme": "Monokai",
   "workbench.editorAssociations": {
-    "*.ipynb": "jupyter-notebook"
+    "*.ipynb": "jupyter-notebook",
+    "*.csv": "gc-excelviewer-csv-editor",
+    "*.tsv": "gc-excelviewer-csv-editor"
   },
   "workbench.cloudChanges.continueOn": "prompt",
   "workbench.cloudChanges.autoResume": "onReload",
