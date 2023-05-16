@@ -1,13 +1,14 @@
 diff --git a/Code/User/settings.json b/Code/User/settings.json
-index 735f8bc..ea23845 100644
+index 7c7da1a..c148ddc 100644
 --- a/Code/User/settings.json
 +++ b/Code/User/settings.json
-@@ -1,5 +1,20 @@
+@@ -1,8 +1,26 @@
  {
 -  "[javascript][javascriptreact][typescript][typescriptreact][json][markdown]": {
 +  "[javascript]": {
-+    "editor.defaultFormatter": "esbenp.prettier-vscode"
-+  },
+     "editor.defaultFormatter": "esbenp.prettier-vscode"
+   },
+-  "[shellscript][ignore]": {
 +  "[javascriptreact]": {
 +    "editor.defaultFormatter": "esbenp.prettier-vscode"
 +  },
@@ -21,10 +22,16 @@ index 735f8bc..ea23845 100644
 +    "editor.defaultFormatter": "esbenp.prettier-vscode"
 +  },
 +  "[markdown]": {
-     "editor.defaultFormatter": "esbenp.prettier-vscode"
++    "editor.defaultFormatter": "esbenp.prettier-vscode"
++  },
++  "[shellscript]": {
++    "editor.defaultFormatter": "foxundermoon.shell-format"
++  },
++  "[ignore]": {
+     "editor.defaultFormatter": "foxundermoon.shell-format"
    },
-   "[shellscript]": {
-@@ -52,7 +67,7 @@
+   "[php]": {
+@@ -52,7 +70,7 @@
    "editor.unicodeHighlight.invisibleCharacters": false,
    "editor.unicodeHighlight.includeStrings": true,
    "editor.cursorBlinking": "phase",
@@ -33,7 +40,7 @@ index 735f8bc..ea23845 100644
    "editor.cursorStyle": "line",
    "editor.cursorWidth": 2,
    "editor.multiCursorModifier": "alt",
-@@ -76,11 +91,7 @@
+@@ -76,11 +94,7 @@
    "editor.minimap.maxColumn": 80,
    "editor.minimap.showSlider": "always",
    "editor.smoothScrolling": true,
@@ -46,7 +53,7 @@ index 735f8bc..ea23845 100644
    "editor.autoClosingQuotes": "languageDefined",
    "editor.emptySelectionClipboard": false,
    "editor.selectionHighlight": true,
-@@ -102,7 +113,7 @@
+@@ -102,7 +116,7 @@
    "editor.snippetSuggestions": "bottom",
    "editor.inlineSuggest.enabled": true,
    "editor.inlineSuggest.showToolbar": "onHover",
@@ -55,7 +62,7 @@ index 735f8bc..ea23845 100644
    "editor.hover.enabled": true,
    "editor.hover.above": true,
    "editor.hover.sticky": true,
-@@ -239,10 +250,10 @@
+@@ -240,12 +254,12 @@
    "workbench.preferredLightColorTheme": "Quiet Light",
    "workbench.preferredDarkColorTheme": "Monokai",
    "workbench.editorAssociations": {
