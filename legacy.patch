@@ -68,11 +68,13 @@ index 7c7da1a..c148ddc 100644
    "workbench.editorAssociations": {
 -    "*.ipynb": "jupyter-notebook"
 +    "*.ipynb": "jupyter.notebook.ipynb"
+     // "*.csv": "gc-excelviewer-csv-editor",
+     // "*.tsv": "gc-excelviewer-csv-editor"
    },
 -  "workbench.cloudChanges.continueOn": "prompt",
 -  "workbench.cloudChanges.autoResume": "onReload",
-+  "workbench.editSessions.autoResume": "onReload",
 +  "workbench.editSessions.continueOn": "prompt",
++  "workbench.editSessions.autoResume": "onReload",
    "workbench.experimental.settingsProfiles.enabled": false,
    "audioCues.volume": 50,
    "audioCues.terminalQuickFix": "auto",
