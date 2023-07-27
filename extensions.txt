@@ -1,5 +1,6 @@
 1000ch.svgo
 william-voyek.vscode-nginx
+ahmadalli.vscode-nginx-conf
 bmalehorn.vscode-fish
 bmewburn.vscode-intelephense-client
 christian-kohler.npm-intellisense
