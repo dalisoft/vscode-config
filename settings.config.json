@@ -111,6 +111,8 @@
   "editor.parameterHints.cycle": false,
   "editor.colorDecorators": true,
   "editor.definitionLinkOpensInPeek": true,
+  "editor.gotoLocation.multipleDefinitions": "peek",
+  "editor.gotoLocation.multipleTypeDefinitions": "peek",
   "editor.fontSize": 14,
   "editor.fontFamily": "JetBrains Mono NL, Fira Code, Monaco",
   "editor.fontLigatures": true,
