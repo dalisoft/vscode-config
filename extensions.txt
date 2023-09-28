@@ -54,6 +54,7 @@ ms-vscode.remote-explorer
 ms-vscode.remote-repositories
 Natizyskunk.sftp
 naumovs.color-highlight
+oven.bun-vscode
 peterj.proto
 PKief.material-icon-theme
 pnp.polacode
@@ -78,5 +79,7 @@ stylelint.vscode-stylelint
 svelte.svelte-vscode
 tamasfe.even-better-toml
 TimGJones.hlsltools
+unifiedjs.vscode-mdx
 VisualStudioExptTeam.vscodeintellicode
 XadillaX.viml
+yoavbls.pretty-ts-errors
