@@ -6,8 +6,6 @@ Just run
 
 ```sh
 ./install-[stable|insider].sh
-# or
-./install-[stable|insider].sh -p # for legacy version
 ```
 
 ## RAM-hungry extensions
@@ -24,3 +22,9 @@ Disable these extensions to save CPU and memory when not needed
 ## Post-installation
 
 Just reboot VSCode
+
+## Supported versions
+
+Due of M$ does not support old VSCode versions, old `legacy.patch` not working anymore
+
+Latest **2 versions** at best and **3 versions** at support of VSCode (Insiders) are supported

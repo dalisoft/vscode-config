@@ -33,9 +33,5 @@ if [[ $(type -p code) != "" ]]; then
   rm -r "$APPS_PATH"/Code/User
   ln -s $PWD/Code/User/ "$APPS_PATH"/Code/User
 
-  if [[ $1 == "-p" ]]; then
-    patch -ts -p1 <legacy.patch
-  fi
-
   echo "Done for VSCode"
 fi
