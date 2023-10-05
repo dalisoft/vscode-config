@@ -1,5 +1,7 @@
 # VSCode settings
 
+Applicable only for v1.83+. If you need older version, please see commit history
+
 ## macOS / Linux
 
 Just run
