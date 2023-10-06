@@ -192,8 +192,6 @@
   "extensions.autoCheckUpdates": true,
   "extensions.verifySignature": true,
   "telemetry.telemetryLevel": "off",
-  "telemetry.enableCrashReporter": false,
-  "telemetry.enableTelemetry": false,
   "redhat.telemetry.enabled": false,
   "intelephense.telemetry.enabled": false,
   "code-runner.enableAppInsights": false,
@@ -346,7 +344,6 @@
   "typescript.validate.enable": false,
   "typescript.format.enable": false,
   "typescript.tsserver.useSyntaxServer": "never",
-  "typescript.tsserver.useSeparateSyntaxServer": false,
   "typescript.tsserver.experimental.enableProjectDiagnostics": false,
   "typescript.tsserver.maxTsServerMemory": 4096,
   "typescript.tsserver.log": "off",
@@ -469,7 +466,7 @@
   "git.timeline.date": "committed",
   "git.timeline.showAuthor": true,
   "git.mergeEditor": true,
-  "mergeEditor.diffAlgorithm": "experimental",
+  "mergeEditor.diffAlgorithm": "advanced",
   "git.postCommitCommand": "none",
   "git.rememberPostCommitCommand": true,
   "git.showActionButton": {
@@ -512,8 +509,7 @@
   "gitlens.views.searchAndCompare.files.layout": "tree",
   "gitlens.views.stashes.files.layout": "list",
   "gitlens.advanced.messages": {
-    "suppressIntegrationDisconnectedTooManyFailedRequestsWarning": true,
-    "suppressImproperWorkspaceCasingWarning": true
+    "suppressIntegrationDisconnectedTooManyFailedRequestsWarning": true
   },
   "gitlens.views.contributors.showStatistics": true,
   "git-graph.repository.commits.showSignatureStatus": true,
@@ -610,7 +606,6 @@
   "docker.images.label": "Tag",
   "docker.showStartPage": false,
   "python.jediEnabled": true,
-  "python.linting.pylamaEnabled": true,
   "python.languageServer": "Pylance",
   "python.analysis.completeFunctionParens": true,
   "python.analysis.typeCheckingMode": "strict",
@@ -618,7 +613,7 @@
   "python.analysis.userFileIndexingLimit": 3000,
   "python.showStartPage": false,
   "python.experiments.optInto": ["pythonTerminalEnvVarActivation"],
-  "jupyter.enableCellCodeLens": true,
+  "jupyter.interactiveWindow.codeLens.enable": true,
   "ipynb.experimental.pasteImages.enabled": true,
   "notebook.globalToolbarShowLabel": "dynamic",
   "notebook.breadcrumbs.showCodeCells": true,
