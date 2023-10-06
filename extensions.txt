@@ -3,6 +3,7 @@ william-voyek.vscode-nginx
 ahmadalli.vscode-nginx-conf
 bmalehorn.vscode-fish
 bmewburn.vscode-intelephense-client
+charliermarsh.ruff
 christian-kohler.npm-intellisense
 clinyong.vscode-css-modules
 codezombiech.gitignore

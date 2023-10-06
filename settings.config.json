@@ -613,6 +613,12 @@
   "python.analysis.userFileIndexingLimit": 3000,
   "python.showStartPage": false,
   "python.experiments.optInto": ["pythonTerminalEnvVarActivation"],
+  "ruff.enableExperimentalFormatter": true,
+  "ruff.lint.run": "onSave",
+  "ruff.showNotifications": "onError",
+  "ruff.codeAction.disableRuleComment": {
+    "enable": false
+  },
   "jupyter.interactiveWindow.codeLens.enable": true,
   "ipynb.experimental.pasteImages.enabled": true,
   "notebook.globalToolbarShowLabel": "dynamic",
