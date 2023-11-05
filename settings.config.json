@@ -33,6 +33,8 @@
   "vscode-edge-devtools.mirrorEdits": true,
   "security.workspace.trust.banner": "never",
   "security.workspace.trust.untrustedFiles": "open",
+  "security.promptForLocalFileProtocolHandling": false,
+  "security.promptForRemoteFileProtocolHandling": true,
   "editor.scrollBeyondLastLine": false,
   "editor.scrollBeyondLastColumn": 0,
   "editor.renderControlCharacters": true,
@@ -56,6 +58,7 @@
   "editor.cursorStyle": "line",
   "editor.cursorWidth": 2,
   "editor.multiCursorModifier": "alt",
+  "editor.multiDocumentOccurrencesHighlight": false,
   "editor.formatOnPaste": false,
   "editor.formatOnType": false,
   "editor.formatOnSave": true,
@@ -66,6 +69,7 @@
   "editor.foldingStrategy": "auto",
   "editor.linkedEditing": true,
   "editor.links": true,
+  "editor.codeActionWidget.includeNearbyQuickFixes": true,
   "editor.codeActionsOnSave": {
     "source.fixAll": "always",
     "source.removeUnused": "always",
@@ -87,7 +91,6 @@
   "editor.selectOnLineNumbers": true,
   "editor.showUnused": true,
   "editor.quickSuggestionsDelay": 10,
-  "editor.codeActionWidget.includeNearbyQuickFixes": true,
   "editor.acceptSuggestionOnEnter": "smart",
   "editor.acceptSuggestionOnCommitCharacter": true,
   "editor.suggestSelection": "recentlyUsedByPrefix",
@@ -230,7 +233,7 @@
   "workbench.editor.splitSizing": "auto",
   "workbench.editor.restoreViewState": true,
   "workbench.editor.closeOnFileDelete": true,
-  "workbench.editor.showTabs": true,
+  "workbench.editor.showTabs": "multiple",
   "workbench.editor.tabSizing": "shrink",
   "workbench.editor.decorations.badges": true,
   "workbench.editor.decorations.colors": true,
@@ -258,6 +261,7 @@
   },
   "workbench.cloudChanges.continueOn": "prompt",
   "workbench.cloudChanges.autoResume": "onReload",
+  "workbench.editor.doubleClickTabToToggleEditorGroupSizes": "maximize",
   "workbench.experimental.settingsProfiles.enabled": false,
   "audioCues.volume": 50,
   "audioCues.terminalQuickFix": "auto",
@@ -450,6 +454,7 @@
   "git.suggestSmartCommit": true,
   "git.smartCommitChanges": "tracked",
   "git.useCommitInputAsStashMessage": true,
+  "git.useForcePushIfIncludes": false,
   "git.fetchOnPull": true,
   "git.autofetch": "all",
   "git.autofetchPeriod": 600,
@@ -612,7 +617,11 @@
   "python.analysis.autoImportCompletions": true,
   "python.analysis.userFileIndexingLimit": 3000,
   "python.showStartPage": false,
-  "python.experiments.optInto": ["pythonTerminalEnvVarActivation"],
+  "python.experiments.optInto": [
+    "pythonTerminalEnvVarActivation",
+    "pythonREPLSmartSend"
+  ],
+  "python.createEnvironment.trigger": "prompt",
   "ruff.enableExperimentalFormatter": true,
   "ruff.lint.run": "onSave",
   "ruff.showNotifications": "onError",
@@ -620,6 +629,8 @@
     "enable": false
   },
   "jupyter.interactiveWindow.codeLens.enable": true,
+  "jupyter.formatStackTraces": true,
+  "jupyter.executionAnalysis.enabled": true,
   "ipynb.experimental.pasteImages.enabled": true,
   "notebook.globalToolbarShowLabel": "dynamic",
   "notebook.breadcrumbs.showCodeCells": true,
@@ -724,5 +735,7 @@
   "code-runner.showRunCommandInEditorContextMenu": false,
   "code-runner.showRunCommandInExplorerContextMenu": false,
   "platformio.enableTelemetry": false,
-  "platformio.showHelpInfo": false
+  "platformio.showHelpInfo": false,
+  "githubPullRequests.pullBranch": "never",
+  "githubPullRequests.fileListLayout": "tree"
 }
