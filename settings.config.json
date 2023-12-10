@@ -219,6 +219,7 @@
   "workbench.sideBar.location": "left",
   "workbench.tree.expandMode": "singleClick",
   "workbench.tree.renderIndentGuides": "always",
+  "workbench.tree.enableStickyScroll": true,
   "workbench.startupEditor": "welcomePage",
   "workbench.editorLargeFileConfirmation": 2048,
   "workbench.editor.pinnedTabSizing": "compact",
@@ -282,6 +283,7 @@
   "diffEditor.experimental.collapseUnchangedRegions": true,
   "diffEditor.experimental.showEmptyDecorations": true,
   "diffEditor.experimental.showMoves": true,
+  "multiDiffEditor.experimental.enabled": true,
   "vsintellicode.modify.editor.suggestSelection": "choseToUpdateConfiguration",
   "window.title": "${rootName}",
   "window.nativeTabs": true,
@@ -707,6 +709,9 @@
   "chat.experimental.quickQuestion.enable": true,
   "inlineChat.mode": "livePreview",
   "githubPullRequests.defaultCreateOption": "createAutoMerge",
+  "githubPullRequests.pullBranch": "never",
+  "githubPullRequests.fileListLayout": "tree",
+  "githubPullRequests.allowFetch": true,
   "githubRepositories.lfs.write.enabled": true,
   "azureRepos.experimental.lfs.write.enabled": true,
   "local-history.enabled": 2,
@@ -741,7 +746,5 @@
   "code-runner.showRunCommandInEditorContextMenu": false,
   "code-runner.showRunCommandInExplorerContextMenu": false,
   "platformio.enableTelemetry": false,
-  "platformio.showHelpInfo": false,
-  "githubPullRequests.pullBranch": "never",
-  "githubPullRequests.fileListLayout": "tree"
+  "platformio.showHelpInfo": false
 }
