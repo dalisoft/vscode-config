@@ -1,6 +1,7 @@
 1000ch.svgo
 william-voyek.vscode-nginx
 ahmadalli.vscode-nginx-conf
+biomejs.biome
 bmalehorn.vscode-fish
 bmewburn.vscode-intelephense-client
 charliermarsh.ruff
@@ -69,7 +70,6 @@ redhat.vscode-yaml
 REditorSupport.r
 Remisa.shellman
 ricard.postcss
-rome.rome
 rust-lang.rust-analyzer
 semanticdiff.semanticdiff
 sidneys1.gitconfig
