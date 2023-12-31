@@ -11,6 +11,7 @@ codezombiech.gitignore
 DavidAnson.vscode-markdownlint
 dbaeumer.vscode-eslint
 denoland.vscode-deno
+dprint.dprint
 eamodio.gitlens
 EditorConfig.EditorConfig
 emilast.LogFileHighlighter
@@ -57,6 +58,7 @@ ms-vscode.remote-repositories
 Natizyskunk.sftp
 naumovs.color-highlight
 oven.bun-vscode
+oxc.oxc-vscode
 peterj.proto
 PKief.material-icon-theme
 pnp.polacode
