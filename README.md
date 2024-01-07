@@ -20,6 +20,7 @@ Disable these extensions to save CPU and memory when not needed
 - IntelliCode API Usage Examples
 - Stylelint
 - vscode-styled-components
+- Pretty TS Errors
 
 ## Post-installation
 
