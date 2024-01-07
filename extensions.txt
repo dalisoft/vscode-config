@@ -32,6 +32,7 @@ Ikuyadeu.r-pack
 jaredly.reason-vscode
 jock.svg
 kokororin.vscode-phpfmt
+lokalise.i18n-ally
 mads-hartmann.bash-ide-vscode
 mechatroner.rainbow-csv
 mgmcdermott.vscode-language-babel
@@ -53,6 +54,7 @@ ms-vscode-remote.remote-containers
 ms-vscode-remote.remote-ssh
 ms-vscode-remote.remote-ssh-edit
 ms-vscode.cpptools
+ms-vscode.powershell
 ms-vscode.remote-explorer
 ms-vscode.remote-repositories
 Natizyskunk.sftp
@@ -85,4 +87,4 @@ TimGJones.hlsltools
 unifiedjs.vscode-mdx
 VisualStudioExptTeam.vscodeintellicode
 XadillaX.viml
-yoavbls.pretty-ts-errors
+YoavBls.pretty-ts-errors
