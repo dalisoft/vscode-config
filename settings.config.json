@@ -29,6 +29,7 @@
   "debug.console.closeOnEnd": true,
   "debug.showInStatusBar": "always",
   "debug.showBreakpointsInOverviewRuler": true,
+  "debug.allowBreakpointsEverywhere": true,
   "outline.collapseItems": "alwaysCollapse",
   "vscode-edge-devtools.mirrorEdits": true,
   "security.workspace.trust.banner": "never",
