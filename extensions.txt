@@ -85,6 +85,7 @@ svelte.svelte-vscode
 tamasfe.even-better-toml
 TimGJones.hlsltools
 unifiedjs.vscode-mdx
+vadimcn.vscode-lldb
 VisualStudioExptTeam.vscodeintellicode
 XadillaX.viml
 YoavBls.pretty-ts-errors
