@@ -84,7 +84,6 @@ stylelint.vscode-stylelint
 svelte.svelte-vscode
 tamasfe.even-better-toml
 TimGJones.hlsltools
-timonwong.shellcheck
 unifiedjs.vscode-mdx
 vadimcn.vscode-lldb
 VisualStudioExptTeam.vscodeintellicode
