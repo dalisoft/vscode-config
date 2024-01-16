@@ -378,6 +378,8 @@
   "oxc-client.enable": true,
   "oxc-client.run": "onSave",
   "bashIde.highlightParsingErrors": true,
+  "bashIde.enableSourceErrorDiagnostics": true,
+  "bashIde.explainshellEndpoint": "http://localhost:5000",
   "terraform.codelens.referenceCount": true,
   "svg.completion.emmet": true,
   "svg.completion.showAdvanced": true,
