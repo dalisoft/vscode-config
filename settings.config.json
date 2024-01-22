@@ -11,6 +11,9 @@
   "[dockerfile][dockercompose]": {
     "editor.defaultFormatter": "ms-azuretools.vscode-docker"
   },
+  "[c]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools"
+  },
   "sync.gist": "376c3dfc48eae5a95d15cfc87639f6cf",
   "application.experimental.rendererProfiling": false,
   "prettier.requireConfig": true,
@@ -30,6 +33,7 @@
   "debug.showInStatusBar": "always",
   "debug.showBreakpointsInOverviewRuler": true,
   "debug.allowBreakpointsEverywhere": true,
+  "debug.autoExpandLazyVariables": true,
   "outline.collapseItems": "alwaysCollapse",
   "vscode-edge-devtools.mirrorEdits": true,
   "security.workspace.trust.banner": "never",
