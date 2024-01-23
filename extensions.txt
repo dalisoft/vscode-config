@@ -74,6 +74,7 @@ redhat.vscode-yaml
 REditorSupport.r
 Remisa.shellman
 ricard.postcss
+rogalmic.bash-debug
 rust-lang.rust-analyzer
 semanticdiff.semanticdiff
 sidneys1.gitconfig
