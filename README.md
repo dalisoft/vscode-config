@@ -1,6 +1,6 @@
 # VSCode settings
 
-Applicable only for v1.83+. If you need older version, please see commit history
+Applicable only for last two release of VSCode. If you need older version, please see commit history
 
 ## macOS / Linux
 
@@ -21,6 +21,18 @@ Disable these extensions to save CPU and memory when not needed
 - Stylelint
 - vscode-styled-components
 - Pretty TS Errors
+
+## Recommended for workspace-only enabled
+
+- All of **RAM-hungry extensions**
+- Bash IDE
+- CodeLLDB
+- Dprint Code Formatter
+- ESLint
+- GitHub Actions
+- GitHub Pull Requests and Issues
+- HTMLHint
+- PowerShell
 
 ## Post-installation
 
