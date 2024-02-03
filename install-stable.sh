@@ -16,7 +16,7 @@ elif [[ $(uname) == *"NT"* ]]; then
   exit 1
 fi
 
-cp settings.config.json Code/User/settings.json
+cp settings.config.jsonc Code/User/settings.json
 
 if [[ $(type -p code) != "" ]]; then
   echo "Found VSCode, installing configs..."

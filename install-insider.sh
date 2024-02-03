@@ -29,7 +29,7 @@ if [[ $(type -p code-insiders) != "" ]]; then
   done
 
   cp -R Code/ Code\ -\ Insiders
-  cp settings.config.json Code\ -\ Insiders/User/settings.json
+  cp settings.config.jsonc Code\ -\ Insiders/User/settings.json
   rm -r "$APPS_PATH"/Code\ -\ Insiders/User
   ln -s $PWD/Code\ -\ Insiders/User/ "$APPS_PATH"/Code\ -\ Insiders/User
 
