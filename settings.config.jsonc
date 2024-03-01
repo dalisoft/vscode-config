@@ -14,6 +14,9 @@
   "[c]": {
     "editor.defaultFormatter": "ms-vscode.cpptools"
   },
+  "[ruby]": {
+    "editor.defaultFormatter": "Shopify.ruby-lsp"
+  },
   "sync.gist": "376c3dfc48eae5a95d15cfc87639f6cf",
   "application.experimental.rendererProfiling": false,
   "prettier.requireConfig": true,
@@ -50,6 +53,7 @@
   "editor.guides.indentation": true,
   "editor.guides.bracketPairs": "active",
   "editor.matchBrackets": "always",
+  "editor.semanticHighlighting.enabled": true,
   "editor.bracketPairColorization.enabled": true,
   "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
   "bracket-pair-colorizer-2.depreciation-notice": false,
@@ -149,6 +153,7 @@
   "editor.pasteAs.enabled": true,
   "editor.pasteAs.showPasteSelector": "never",
   "editor.stickyScroll.enabled": false,
+  "editor.stickyScroll.maxLineCount": 10,
   "editor.stickyScroll.scrollWithEditor": false,
   "editor.experimental.useCustomCodeActionMenu": true,
   "editor.experimental.asyncTokenization": true,
@@ -180,7 +185,7 @@
   "terminal.integrated.experimentalLinkProvider": false,
   "terminal.integrated.enableMultiLinePasteWarning": "auto",
   "terminal.integrated.enablePersistentSessions": false,
-  "terminal.integrated.enableBell": true,
+  "terminal.integrated.enableVisualBell": true,
   "terminal.integrated.persistentSessionReviveProcess": "onExit",
   "terminal.integrated.tabs.enabled": false,
   "terminal.integrated.tabs.location": "right",
@@ -275,11 +280,23 @@
   "workbench.cloudChanges.autoResume": "onReload",
   "workbench.editor.doubleClickTabToToggleEditorGroupSizes": "maximize",
   "workbench.experimental.settingsProfiles.enabled": false,
-  "audioCues.volume": 50,
-  "audioCues.terminalQuickFix": "auto",
-  "audioCues.taskEnded": "auto",
-  "audioCues.taskCompleted": "auto",
-  "audioCues.taskFailed": "auto",
+  "accessibility.signals.clear": {
+    "sound": "auto",
+    "announcement": "auto"
+},
+  "accessibility.signals.sounds.volume": 50,
+  "accessibility.signals.terminalQuickFix": {
+    "sound": "auto"
+  },
+  "accessibility.signals.terminalBell": {
+    "sound": "on"
+  },
+  "accessibility.signals.taskCompleted": {
+    "sound": "auto"
+  },
+  "accessibility.signals.taskFailed": {
+    "sound": "auto"
+  },
   "material-icon-theme.showWelcomeMessage": false,
   "diffEditor.codeLens": true,
   "diffEditor.wordWrap": "on",
@@ -288,7 +305,6 @@
   "diffEditor.hideUnchangedRegions.enabled": false,
   "diffEditor.useInlineViewWhenSpaceIsLimited": true,
   "diffEditor.experimental.useVersion2": true,
-  "diffEditor.experimental.collapseUnchangedRegions": false,
   "diffEditor.experimental.showEmptyDecorations": true,
   "diffEditor.experimental.showMoves": true,
   "multiDiffEditor.experimental.enabled": true,
@@ -511,6 +527,9 @@
   "git.branchProtectionPrompt": "alwaysPrompt",
   "git.branchRandomName.enable": false,
   "git.experimental.installGuide": "default",
+  "git.inputValidation": true,
+  "git.inputValidationSubjectLength": 60,
+  "git.inputValidationLength": 180,
   "remoteHub.switchToCreatedBranch": "always",
   "gitlens.integrations.enabled": true,
   "gitlens.menus.scm.graph": false,
@@ -575,6 +594,7 @@
   "scm.experimental.showSyncView": true,
   "scm.showIncomingChanges": "auto",
   "scm.showOutgoingChanges": "auto",
+  "scm.showChangesSummary": true,
   "scm.inputMaxLines": 8,
   "merge-conflict.codeLens.enabled": true,
   "merge-conflict.decorators.enabled": true,
@@ -644,6 +664,7 @@
   "python.analysis.completeFunctionParens": true,
   "python.analysis.typeCheckingMode": "strict",
   "python.analysis.autoImportCompletions": true,
+  "python.analysis.addImport.heuristics": true,
   "python.analysis.userFileIndexingLimit": 3000,
   "python.showStartPage": false,
   "python.experiments.optInto": [
@@ -725,8 +746,10 @@
     "plaintext": true,
     "markdown": false
   },
+  "github.copilot.chat.terminalChatLocation": "chatView",
   "chat.experimental.quickQuestion.enable": true,
-  "inlineChat.mode": "livePreview",
+  "inlineChat.mode": "preview",
+  "inlineChat.accessibleDiffView": "auto",
   "githubPullRequests.defaultCreateOption": "createAutoMerge",
   "githubPullRequests.pullBranch": "never",
   "githubPullRequests.fileListLayout": "tree",
