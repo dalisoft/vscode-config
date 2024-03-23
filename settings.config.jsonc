@@ -280,10 +280,11 @@
   "workbench.cloudChanges.autoResume": "onReload",
   "workbench.editor.doubleClickTabToToggleEditorGroupSizes": "maximize",
   "workbench.experimental.settingsProfiles.enabled": false,
+  "audioCues.taskEnded": "auto",
   "accessibility.signals.clear": {
     "sound": "auto",
     "announcement": "auto"
-},
+  },
   "accessibility.signals.sounds.volume": 50,
   "accessibility.signals.terminalQuickFix": {
     "sound": "auto"
@@ -303,7 +304,7 @@
   "diffEditor.diffAlgorithm": "advanced",
   "diffEditor.ignoreTrimWhitespace": false,
   "diffEditor.hideUnchangedRegions.enabled": false,
-  "diffEditor.useInlineViewWhenSpaceIsLimited": true,
+  "diffEditor.useInlineViewWhenSpaceIsLimited": false,
   "diffEditor.experimental.useVersion2": true,
   "diffEditor.experimental.showEmptyDecorations": true,
   "diffEditor.experimental.showMoves": true,
