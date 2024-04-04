@@ -1,8 +1,8 @@
 {
-  "[javascript][javascriptreact][typescript][typescriptreact][markdown][jsonc]": {
+  "[javascript][javascriptreact][typescript][typescriptreact][markdown][json][jsonc]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "[json][jsona]": {
+  "[jsona]": {
     "editor.defaultFormatter": "sigoden.vscode-jsona"
   },
   "[yaml][yml]": {
@@ -34,6 +34,7 @@
   "biome.rename": true,
   "dprint.experimentalLsp": true,
   "jsona.configFile.enabled": true,
+  "jsona.executable.bundled": true,
   "jsona.formatter.trailingNewline": true,
   "jsona.formatter.trailingComma": false,
   "jsona.formatter.indentString": "  ",
