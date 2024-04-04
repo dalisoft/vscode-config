@@ -1,9 +1,12 @@
 {
-  "[javascript][javascriptreact][typescript][typescriptreact][markdown]": {
+  "[javascript][javascriptreact][typescript][typescriptreact][markdown][jsonc]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "[json][jsona][jsonc]": {
+  "[json][jsona]": {
     "editor.defaultFormatter": "sigoden.vscode-jsona"
+  },
+  "[yaml][yml]": {
+    "editor.defaultFormatter": "redhat.vscode-yaml"
   },
   "[shellscript][ignore]": {
     "editor.defaultFormatter": "foxundermoon.shell-format"
@@ -26,6 +29,10 @@
   "sync.gist": "376c3dfc48eae5a95d15cfc87639f6cf",
   "application.experimental.rendererProfiling": false,
   "prettier.requireConfig": true,
+  "biome.enabled": true,
+  "biome.requireConfiguration": true,
+  "biome.rename": true,
+  "dprint.experimentalLsp": true,
   "jsona.configFile.enabled": true,
   "jsona.formatter.trailingNewline": true,
   "jsona.formatter.trailingComma": false,
@@ -413,8 +420,6 @@
   "eslint.lintTask.enable": true,
   "eslint.codeActionsOnSave.mode": "problems",
   "stylelint.enable": true,
-  "biome.requireConfiguration": true,
-  "dprint.experimentalLsp": true,
   "oxc-client.enable": true,
   "oxc-client.run": "onSave",
   "bashIde.highlightParsingErrors": true,
