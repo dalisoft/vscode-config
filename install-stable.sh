@@ -2,14 +2,14 @@
 set -e
 
 APPS_PATH=""
-INSTALLED_EXTENSIONS=()
+INSTALLED_EXTENSIONS=""
 
-if [[ $(uname) == "Darwin" ]]; then
+if [ "$(uname)" = "Darwin" ]; then
   APPS_PATH="$HOME/Library/Application Support"
   defaults write com.microsoft.VSCode ApplePressAndHoldEnabled -bool false
-elif [[ $(uname) == "Linux" ]]; then
+elif [ "$(uname)" = "Linux" ]; then
   APPS_PATH="$HOME/.config"
-elif [[ $(uname) == *"NT"* ]]; then
+elif [ "$(uname)" = "*NT*" ]; then
   echo "We found Windows NT environment"
   echo "Installation will not work"
 
@@ -18,20 +18,20 @@ fi
 
 cp settings.config.jsonc Code/User/settings.json
 
-if [[ $(type -p code) != "" ]]; then
+if [ -n "$(type code)" ]; then
   echo "Found VSCode, installing configs..."
 
   INSTALLED_EXTENSIONS=$(code --list-extensions)
-  cat extensions.txt | while read ext; do
-    if [[ $(echo "$INSTALLED_EXTENSIONS" | grep -o "$ext") == "$ext" ]]; then
+  cat extensions.txt | while read -r ext; do
+    if [ "$(echo "$INSTALLED_EXTENSIONS" | grep -o "$ext")" = "$ext" ]; then
       echo "Already exists extension: $ext"
     else
-      code --install-extension $ext || echo "Failed to install: $ext"
+      code --install-extension "$ext" || echo "Failed to install: $ext"
     fi
   done
 
   rm -r "$APPS_PATH"/Code/User
-  ln -s $PWD/Code/User/ "$APPS_PATH"/Code/User
+  ln -s "$PWD"/Code/User/ "$APPS_PATH"/Code/User
 
   echo "Done for VSCode"
 fi
