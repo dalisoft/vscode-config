@@ -42,4 +42,4 @@ Just reboot VSCode
 
 Due of M$ does not support old VSCode versions, old `legacy.patch` not working anymore
 
-Latest **2 versions** at best and **3 versions** at support of VSCode (Insiders) are supported
+Latest **1 versions** at best and **2 versions** at support of VSCode (Insiders) are supported
