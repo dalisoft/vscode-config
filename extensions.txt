@@ -21,7 +21,6 @@ formulahendry.platformio
 foxundermoon.shell-format
 github.remotehub
 github.vscode-github-actions
-github.vscode-pull-request-github
 golang.go
 grapecity.gc-excelviewer
 gruntfuggly.todo-tree
