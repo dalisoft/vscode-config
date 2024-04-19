@@ -89,6 +89,7 @@ styled-components.vscode-styled-components
 stylelint.vscode-stylelint
 svelte.svelte-vscode
 tamasfe.even-better-toml
+tekumara.typos-vscode
 timgjones.hlsltools
 unifiedjs.vscode-mdx
 vadimcn.vscode-lldb
