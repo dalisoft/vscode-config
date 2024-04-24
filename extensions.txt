@@ -9,6 +9,7 @@ christian-kohler.npm-intellisense
 clinyong.vscode-css-modules
 codeium.codeium
 codezombiech.gitignore
+continue.continue
 davidanson.vscode-markdownlint
 dbaeumer.vscode-eslint
 denoland.vscode-deno
