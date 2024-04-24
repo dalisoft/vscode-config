@@ -7,6 +7,7 @@ bmewburn.vscode-intelephense-client
 charliermarsh.ruff
 christian-kohler.npm-intellisense
 clinyong.vscode-css-modules
+codeium.codeium
 codezombiech.gitignore
 davidanson.vscode-markdownlint
 dbaeumer.vscode-eslint
@@ -93,6 +94,8 @@ tekumara.typos-vscode
 timgjones.hlsltools
 unifiedjs.vscode-mdx
 vadimcn.vscode-lldb
+visualstudioexptteam.intellicode-api-usage-examples
 visualstudioexptteam.vscodeintellicode
+visualstudioexptteam.vscodeintellicode-completions
 xadillax.viml
 yoavbls.pretty-ts-errors
