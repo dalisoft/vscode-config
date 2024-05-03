@@ -1,6 +1,12 @@
 {
-  "[javascript][javascriptreact][typescript][typescriptreact][markdown][json][jsonc]": {
+  "[javascript][javascriptreact][typescript][typescriptreact]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[markdown]": {
+    "editor.defaultFormatter": "dprint.dprint"
+  },
+  "[json][jsonc]": {
+    "editor.defaultFormatter": "biomejs.biome"
   },
   "[jsona]": {
     "editor.defaultFormatter": "sigoden.vscode-jsona"
@@ -188,7 +194,6 @@
   "editor.experimental.useCustomCodeActionMenu": true,
   "editor.experimental.asyncTokenization": true,
   "editor.showFoldingControls": "always",
-  "editor.lightbulb.enabled": true,
   "zenMode.restore": true,
   "terminal.integrated.minimumContrastRatio": 4.5,
   "terminal.integrated.smoothScrolling": false,
@@ -226,10 +231,20 @@
   "terminal.integrated.defaultProfile.windows": "Git Bash",
   "terminal.integrated.shellIntegration.enabled": true,
   "terminal.integrated.shellIntegration.decorationsEnabled": "both",
+  "terminal.integrated.shellIntegration.suggestEnabled": true,
   "terminal.integrated.experimentalImageSupport": true,
   "terminal.integrated.enableImages": true,
   "terminal.integrated.hideOnStartup": "whenEmpty",
   "terminal.integrated.experimentalInlineChat": false,
+  "terminal.integrated.middleClickBehavior": "paste",
+  "terminal.integrated.allowedLinkSchemes": [
+    "file",
+    "http",
+    "https",
+    "mailto",
+    "vscode",
+    "vscode-insiders"
+  ],
   "terminal.external.osxExec": "Terminal.app",
   "terminal.external.linuxExec": "xterm",
   "terminal.external.windowsExec": "C:\\Program Files\\Git\\bin\\bash.exe",
@@ -420,6 +435,10 @@
   "typescript.format.enable": false,
   "typescript.tsserver.useSyntaxServer": "never",
   "typescript.tsserver.experimental.enableProjectDiagnostics": false,
+  "typescript.tsserver.experimental.useVsCodeWatcher": true,
+  "typescript.tsserver.web.projectWideIntellisense.enabled": true,
+  "typescript.tsserver.web.projectWideIntellisense.suppressSemanticErrors": false,
+  "typescript.experimental.tsserver.web.typeAcquisition.enabled": false,
   "typescript.tsserver.maxTsServerMemory": 4096,
   "typescript.tsserver.log": "off",
   "typescript.disableAutomaticTypeAcquisition": false,
@@ -630,10 +649,13 @@
   "scm.defaultViewSortKey": "name",
   "scm.repositories.sortOrder": "discovery time",
   "scm.experimental.showSyncView": true,
+  "scm.showInputActionButton": true,
   "scm.showIncomingChanges": "auto",
   "scm.showOutgoingChanges": "auto",
   "scm.showChangesSummary": true,
-  "scm.inputMaxLines": 8,
+  "scm.inputMaxLineCount": 8,
+  "scm.workingSets.enabled": false,
+  "scm.workingSets.default": "current",
   "merge-conflict.codeLens.enabled": true,
   "merge-conflict.decorators.enabled": true,
   "gitpod.remote.syncExtensions": true,
@@ -730,11 +752,13 @@
   "notebook.outline.showCodeCells": true,
   "notebook.output.scrolling": true,
   "notebook.output.textLineLimit": 30,
+  "notebook.output.minimalErrorRendering": true,
   "notebook.formatOnSave.enabled": true,
   "notebook.formatOnCellExecution": true,
   "notebook.stickyScroll.enabled": false,
   "notebook.experimental.remoteSave": true,
   "notebook.consolidatedOutputButton": true,
+  "notebook.backup.sizeLimit": 10000,
   "java.implementationsCodeLens.enabled": true,
   "java.project.importHint": true,
   "cSpell.enabled": false,
@@ -766,13 +790,12 @@
   "markdown.validate.referenceLinks.enabled": "error",
   "markdown.validate.duplicateLinkDefinitions.enabled": "error",
   "markdown.validate.unusedLinkDefinitions.enabled": "error",
-  "markdown.experimental.editor.pasteLinks.enabled": true,
+  "markdown.experimental.updateLinksOnPaste": true,
   "markdown.editor.drop.enabled": "smart",
   "markdown.editor.filePaste.enabled": "smart",
   "markdown.editor.drop.copyIntoWorkspace": "mediaFiles",
   "markdown.editor.filePaste.copyIntoWorkspace": "mediaFiles",
   "markdown.occurrencesHighlight.enabled": true,
-  "markdown.experimental.updateLinksOnFileMove.enabled": "prompt",
   "markdown.updateLinksOnFileMove.enabled": "always",
   "markdown.updateLinksOnFileMove.enableForDirectories": true,
   "markdown.editor.pasteUrlAsFormattedLink.enabled": "smartWithSelection",
