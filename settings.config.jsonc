@@ -118,10 +118,13 @@
   "editor.codeActionWidget.includeNearbyQuickFixes": true,
   "editor.codeActionsOnSave": {
     "source.fixAll": "always",
-    "source.removeUnused": "always",
-    "source.organizeLinkDefinitions": "always",
+    "source.removeUnused": "explicit",
+    "source.addMissingImports": "never",
+    "source.sortImports": "explicit",
     "source.organizeImports": "never",
-    "source.organizeImports.biome": "explicit"
+    "source.organizeImports.biome": "never",
+    "source.organizeLinkDefinitions": "always",
+    "source.refactor": "never"
   },
   "editor.minimap.enabled": false,
   "editor.minimap.renderCharacters": false,
