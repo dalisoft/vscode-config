@@ -120,7 +120,7 @@
     "source.fixAll": "always",
     "source.removeUnused": "explicit",
     "source.addMissingImports": "never",
-    "source.sortImports": "explicit",
+    "source.sortImports": "never",
     "source.organizeImports": "never",
     "source.organizeImports.biome": "never",
     "source.organizeLinkDefinitions": "always",
