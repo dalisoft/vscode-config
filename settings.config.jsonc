@@ -865,6 +865,9 @@
   "code-runner.clearPreviousOutput": true,
   "code-runner.preserveFocus": true,
   "code-runner.respectShebang": true,
+  "code-runner.executorMap": {
+    "typescript": "bun"
+  },
   "platformio.enableTelemetry": false,
   "platformio.showHelpInfo": false
 }
