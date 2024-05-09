@@ -860,7 +860,7 @@
   "code-runner.enableAppInsights": false,
   "code-runner.showRunCommandInEditorContextMenu": true,
   "code-runner.showRunCommandInExplorerContextMenu": true,
-  "code-runner.runInTerminal": true,
+  "code-runner.runInTerminal": false,
   "code-runner.fileDirectoryAsCwd": true,
   "code-runner.clearPreviousOutput": true,
   "code-runner.preserveFocus": true,
