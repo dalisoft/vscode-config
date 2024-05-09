@@ -119,7 +119,9 @@
   "editor.codeActionsOnSave": {
     "source.fixAll": "always",
     "source.removeUnused": "always",
-    "source.organizeLinkDefinitions": "always"
+    "source.organizeLinkDefinitions": "always",
+    "source.organizeImports": "never",
+    "source.organizeImports.biome": "explicit"
   },
   "editor.minimap.enabled": false,
   "editor.minimap.renderCharacters": false,
