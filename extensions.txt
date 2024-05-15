@@ -90,11 +90,13 @@ shopify.ruby-lsp
 sidneys1.gitconfig
 sigoden.vscode-jsona
 sorbet.sorbet-vscode-extension
+sourcegraph.cody-ai
 streetsidesoftware.code-spell-checker
 streetsidesoftware.code-spell-checker-russian
 styled-components.vscode-styled-components
 stylelint.vscode-stylelint
 svelte.svelte-vscode
+tabnine.tabnine-vscode
 tamasfe.even-better-toml
 tekumara.typos-vscode
 timgjones.hlsltools

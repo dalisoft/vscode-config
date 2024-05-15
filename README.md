@@ -35,6 +35,7 @@ Disable these extensions to save CPU and memory when not needed
 - PowerShell
 - SQLTools
 - Thunder Client
+- **All AI Extensions**
 
 ## Post-installation
 
