@@ -34,6 +34,7 @@ Disable these extensions to save CPU and memory when not needed
 - HTMLHint
 - PowerShell
 - SQLTools
+- Thunder Client
 
 ## Post-installation
 
