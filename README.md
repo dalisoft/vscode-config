@@ -33,6 +33,7 @@ Disable these extensions to save CPU and memory when not needed
 - GitHub Pull Requests and Issues
 - HTMLHint
 - PowerShell
+- SQLTools
 
 ## Post-installation
 

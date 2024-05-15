@@ -32,6 +32,7 @@ ibm.output-colorizer
 ikuyadeu.r-pack
 jaredly.reason-vscode
 jock.svg
+khanghua.sqltools-dynamodb-driver
 koichisasada.vscode-rdbg
 kokororin.vscode-phpfmt
 lokalise.i18n-ally
@@ -60,6 +61,9 @@ ms-vscode.cpptools
 ms-vscode.powershell
 ms-vscode.remote-explorer
 ms-vscode.remote-repositories
+mtxr.sqltools
+mtxr.sqltools-driver-mysql
+mtxr.sqltools-driver-pg
 natizyskunk.sftp
 naumovs.color-highlight
 oven.bun-vscode
