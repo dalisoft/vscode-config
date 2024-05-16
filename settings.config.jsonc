@@ -505,7 +505,12 @@
     "**/public/**": true,
     "**/tmp/**": true,
     "**/bower_packages/**": true,
-    "**/bower_components/**": true
+    "**/bower_components/**": true,
+    "**/.trunk/*actions/": true,
+    "**/.trunk/*logs/": true,
+    "**/.trunk/*notifications/": true,
+    "**/.trunk/*out/": true,
+    "**/.trunk/*plugins/": true
   },
   "files.autoSave": "onWindowChange",
   "files.autoSaveWorkspaceFilesOnly": false,
