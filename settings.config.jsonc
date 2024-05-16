@@ -581,6 +581,7 @@
   "git.mergeEditor": true,
   "mergeEditor.diffAlgorithm": "advanced",
   "git.postCommitCommand": "none",
+  // "git.commandsToLog": ["commit", "push"],
   "git.rememberPostCommitCommand": true,
   "git.showActionButton": {
     "commit": true,
