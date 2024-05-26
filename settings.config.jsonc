@@ -890,5 +890,6 @@
     "typescript": "bun"
   },
   "platformio.enableTelemetry": false,
-  "platformio.showHelpInfo": false
+  "platformio.showHelpInfo": false,
+  "thunder-client.previewFeatures": true
 }
