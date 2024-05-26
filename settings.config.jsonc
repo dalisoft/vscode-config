@@ -118,7 +118,7 @@
   "editor.codeActionWidget.includeNearbyQuickFixes": true,
   "editor.codeActionsOnSave": {
     "source.fixAll": "always",
-    "source.removeUnused": "explicit",
+    "source.removeUnused": "never",
     "source.addMissingImports": "never",
     "source.sortImports": "never",
     "source.organizeImports": "never",
