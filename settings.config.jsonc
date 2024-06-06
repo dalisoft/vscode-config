@@ -236,7 +236,9 @@
   "terminal.integrated.defaultProfile.windows": "Git Bash",
   "terminal.integrated.shellIntegration.enabled": true,
   "terminal.integrated.shellIntegration.decorationsEnabled": "both",
-  "terminal.integrated.shellIntegration.suggestEnabled": true,
+  "terminal.integrated.suggest.enabled": true,
+  "terminal.integrated.suggest.quickSuggestions": true,
+  "terminal.integrated.suggest.suggestOnTriggerCharacters": false,
   "terminal.integrated.experimentalImageSupport": true,
   "terminal.integrated.enableImages": true,
   "terminal.integrated.hideOnStartup": "whenEmpty",
@@ -314,6 +316,7 @@
   "workbench.editor.pinnedTabsOnSeparateRow": true,
   "workbench.editor.doubleClickTabToToggleEditorGroupSizes": "maximize",
   "workbench.editor.customLabels.enabled": true,
+  "workbench.editor.alwaysShowEditorActions": true,
   "workbench.localHistory.enabled": false,
   "workbench.localHistory.maxFileSize": 256,
   "workbench.localHistory.maxFileEntries": 50,
@@ -337,7 +340,9 @@
     "sound": "auto",
     "announcement": "auto"
   },
-  "accessibility.signals.sounds.volume": 50,
+  "accessibility.signalOptions": {
+    "volume": 50
+  },
   "accessibility.signals.terminalQuickFix": {
     "sound": "auto"
   },
@@ -747,6 +752,7 @@
     "pythonREPLSmartSend"
   ],
   "python.REPL.enableREPLSmartSend": true,
+  "python.REPL.sendToNativeREPL": true,
   "python.createEnvironment.trigger": "prompt",
   "ruff.enable": false,
   "ruff.lint.run": "onSave",
@@ -758,6 +764,7 @@
   "jupyter.formatStackTraces": true,
   "jupyter.executionAnalysis.enabled": true,
   "ipynb.experimental.pasteImages.enabled": true,
+  "notebook.experimental.find.scope.enabled": true,
   "notebook.globalToolbarShowLabel": "dynamic",
   "notebook.breadcrumbs.showCodeCells": true,
   "notebook.outline.showCodeCells": true,
