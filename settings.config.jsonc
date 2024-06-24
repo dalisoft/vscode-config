@@ -472,7 +472,7 @@
   "bashIde.includeAllWorkspaceSymbols": true,
   "bashIde.highlightParsingErrors": true,
   "bashIde.enableSourceErrorDiagnostics": true,
-  "bashIde.explainshellEndpoint": "http://192.168.100.33:5000",
+  "bashIde.explainshellEndpoint": "http://localhost:5000",
   "typos.diagnosticSeverity": "Hint",
   "typos.logLevel": "info",
   "terraform.codelens.referenceCount": true,
