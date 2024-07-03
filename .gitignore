@@ -10,3 +10,4 @@ globalStorage
 History
 syncLocalSettings.json
 sync
+.syncthing*
