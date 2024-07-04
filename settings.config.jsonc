@@ -74,6 +74,7 @@
   "debug.showBreakpointsInOverviewRuler": true,
   "debug.allowBreakpointsEverywhere": true,
   "debug.autoExpandLazyVariables": true,
+  "debug.inlineValues": "auto",
   "outline.collapseItems": "alwaysCollapse",
   "vscode-edge-devtools.mirrorEdits": true,
   "security.workspace.trust.banner": "never",
@@ -276,6 +277,7 @@
   "workbench.commandPalette.experimental.askChatLocation": "chatView",
   "workbench.enableExperiments": false,
   "workbench.experimental.useCustomHover": true,
+  "workbench.experimental.enableNewProfilesUI": true,
   "workbench.useCustomHover": true,
   "editor.dragAndDrop": true,
   "workbench.layoutControl.enabled": true,
@@ -340,9 +342,7 @@
     "sound": "auto",
     "announcement": "auto"
   },
-  "accessibility.signalOptions": {
-    "volume": 50
-  },
+  "accessibility.signalOptions.volume": 50,
   "accessibility.signals.terminalQuickFix": {
     "sound": "auto"
   },
@@ -462,6 +462,7 @@
   "less.validate": false,
   "scss.validate": false,
   "eslint.alwaysShowStatus": true,
+  "eslint.useFlatConfig": true,
   "eslint.useESLintClass": true,
   "eslint.lintTask.enable": true,
   "eslint.codeActionsOnSave.mode": "problems",
@@ -536,6 +537,7 @@
     "**/node_modules/**": true
   },
   "files.readonlyFromPermissions": true,
+  "files.autoGuessEncoding": true,
   "emmet.includeLanguages": {
     "vue-html": "html",
     "postcss": "css",
@@ -666,6 +668,7 @@
   "scm.defaultViewSortKey": "name",
   "scm.repositories.sortOrder": "discovery time",
   "scm.experimental.showSyncView": true,
+  "scm.experimental.showHistoryGraph": true,
   "scm.showInputActionButton": true,
   "scm.showIncomingChanges": "auto",
   "scm.showOutgoingChanges": "auto",
@@ -747,6 +750,7 @@
   "python.analysis.autoImportCompletions": true,
   "python.analysis.addImport.heuristics": true,
   "python.analysis.userFileIndexingLimit": 3000,
+  "python.analysis.supportRestructuredText": true,
   "python.showStartPage": false,
   "python.experiments.optInto": [
     "pythonTerminalEnvVarActivation",
@@ -834,6 +838,7 @@
   "github.copilot.chat.terminalChatLocation": "chatView",
   "chat.experimental.quickQuestion.enable": true,
   "inlineChat.mode": "preview",
+  "inlineChat.experimental.textButtons": true,
   "inlineChat.accessibleDiffView": "auto",
   "codeium.aggressiveShutdown": true,
   "codeium.enableSearch": true,
