@@ -16,7 +16,8 @@ elif [ "$(uname)" = "*NT*" ]; then
   exit 1
 fi
 
-cp settings.config.jsonc Code/User/settings.json
+mkdir -p "$APPS_PATH/Code/User"
+cp settings.config.jsonc "$APPS_PATH/Code/User/settings.json"
 
 if [ -n "$(type code)" ]; then
   echo "Found VSCode, installing configs..."
@@ -29,9 +30,6 @@ if [ -n "$(type code)" ]; then
       code --install-extension "$ext" || echo "Failed to install: $ext"
     fi
   done
-
-  rm -r "$APPS_PATH"/Code/User
-  ln -s "$PWD"/Code/User/ "$APPS_PATH"/Code/User
 
   echo "Done for VSCode"
 fi

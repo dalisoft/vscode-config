@@ -16,8 +16,11 @@ elif [ "$(uname)" = "*NT*" ]; then
   exit 1
 fi
 
+mkdir -p "$APPS_PATH/Code/User"
+cp settings.config.jsonc "$APPS_PATH"/Code/User/settings.json
+
 if [ -n "$(type code-insiders)" ]; then
-  echo "Found VSCode Insiders, installating..."
+  echo "Found VSCode Insiders, installation..."
 
   INSTALLED_EXTENSIONS=$(code-insiders --list-extensions)
   cat extensions.txt | while read -r ext; do
@@ -27,11 +30,6 @@ if [ -n "$(type code-insiders)" ]; then
       code-insiders --install-extension "$ext" || echo "Failed to install: $ext"
     fi
   done
-
-  cp -R Code/ Code\ -\ Insiders
-  cp settings.config.jsonc Code\ -\ Insiders/User/settings.json
-  rm -r "$APPS_PATH"/Code\ -\ Insiders/User
-  ln -s "$PWD"/Code\ -\ Insiders/User/ "$APPS_PATH"/Code\ -\ Insiders/User
 
   echo "Done for VSCode Insiders"
 fi

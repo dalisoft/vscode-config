@@ -53,3 +53,9 @@ Latest **1 versions** at best and **2 versions** at support of VSCode (Insiders)
 [![JetBrains](https://resources.jetbrains.com/storage/products/company/brand/logos/jetbrains.png)](https://jb.gg/OpenSourceSupport)
 
 for providing free license to support Open-Source projects
+
+## FAQ
+
+### Installation failed or not found
+
+Check if you before installed this script, on **Code/Code Insider** folder should be **User** linked folder. Delete that and re-try install
