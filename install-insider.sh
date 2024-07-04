@@ -16,8 +16,8 @@ elif [ "$(uname)" = "*NT*" ]; then
   exit 1
 fi
 
-mkdir -p "$APPS_PATH/Code/User"
-cp settings.config.jsonc "$APPS_PATH"/Code/User/settings.json
+mkdir -p "$APPS_PATH/Code - Insiders/User"
+cp settings.config.jsonc "$APPS_PATH"/Code\ -\ Insiders/User/settings.json
 
 if [ -n "$(type code-insiders)" ]; then
   echo "Found VSCode Insiders, installation..."
