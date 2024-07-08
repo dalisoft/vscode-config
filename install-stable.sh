@@ -18,6 +18,7 @@ fi
 
 mkdir -p "$APPS_PATH/Code/User"
 cp settings.config.jsonc "$APPS_PATH/Code/User/settings.json"
+cp keybindings.json "$APPS_PATH/Code/User/keybindings.json"
 
 if [ -n "$(type code)" ]; then
   echo "Found VSCode, installing configs..."
