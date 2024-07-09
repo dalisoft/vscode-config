@@ -1,20 +1,32 @@
 {
-  "[javascript][javascriptreact][typescript][typescriptreact]": {
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "[markdown]": {
     "editor.defaultFormatter": "dprint.dprint"
   },
-  "[json][jsonc]": {
+  "[json]": {
+    "editor.defaultFormatter": "biomejs.biome"
+  },
+  "[jsonc]": {
     "editor.defaultFormatter": "biomejs.biome"
   },
   "[jsona]": {
     "editor.defaultFormatter": "sigoden.vscode-jsona"
   },
-  "[yaml][yml]": {
+  "[yaml]": {
     "editor.defaultFormatter": "redhat.vscode-yaml"
   },
-  "[shellscript][ignore]": {
+  "[yml]": {
+    "editor.defaultFormatter": "redhat.vscode-yaml"
+  },
+  "[shellscript]": {
+    "editor.defaultFormatter": "foxundermoon.shell-format"
+  },
+  "[ignore]": {
     "editor.defaultFormatter": "foxundermoon.shell-format"
   },
   "[dotenv]": {
@@ -23,7 +35,10 @@
   "[php]": {
     "editor.defaultFormatter": "kokororin.vscode-phpfmt"
   },
-  "[dockerfile][dockercompose]": {
+  "[dockerfile]": {
+    "editor.defaultFormatter": "ms-azuretools.vscode-docker"
+  },
+  "[dockercompose]": {
     "editor.defaultFormatter": "ms-azuretools.vscode-docker"
   },
   "[c]": {
@@ -34,9 +49,9 @@
   },
   "sync.gist": "376c3dfc48eae5a95d15cfc87639f6cf",
   "application.experimental.rendererProfiling": false,
-  "prettier.enable": false,
+  "prettier.enable": true,
   "prettier.requireConfig": true,
-  "biome.enabled": false,
+  "biome.enabled": true,
   "biome.requireConfiguration": true,
   "biome.rename": true,
   "dprint.verbose": false,
