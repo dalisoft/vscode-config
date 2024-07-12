@@ -47,6 +47,9 @@
   "[ruby]": {
     "editor.defaultFormatter": "Shopify.ruby-lsp"
   },
+  "[nginx]": {
+    "editor.defaultFormatter": "raynigon.nginx-formatter"
+  },
   "sync.gist": "376c3dfc48eae5a95d15cfc87639f6cf",
   "application.experimental.rendererProfiling": false,
   "prettier.enable": true,
@@ -919,5 +922,7 @@
   },
   "platformio.enableTelemetry": false,
   "platformio.showHelpInfo": false,
-  "thunder-client.previewFeatures": true
+  "thunder-client.previewFeatures": true,
+  "nginx-conf-hint.format.align": true,
+  "nginx-conf-hint.enableStrictCompletion": true
 }
