@@ -624,7 +624,6 @@
   "git.inputValidationSubjectLength": 60,
   "git.inputValidationLength": 180,
   "git.decorations.enabled": true,
-  "remoteHub.switchToCreatedBranch": "always",
   "gitlens.integrations.enabled": true,
   "gitlens.menus.scm.graph": false,
   "gitlens.menus.scmRepositoryInline.graph": false,
@@ -703,12 +702,14 @@
   "remote.SSH.foldersSortOrder": "alphabetical",
   "remote.tunnels.alwaysUpdateCLI": true,
   "remote-explorer.foldersSortOrder": "alphabetical",
+  "remoteHub.switchToCreatedBranch": "always",
   "remoteHub.gitProtocol": "ssh",
   "remoteHub.experimental.syncRecentList": true,
   "remoteHub.experimental.useDiffMatchPatch": true,
   "remoteHub.richNavigation.enabled": true,
   "remoteHub.staging.smart": false,
   "remoteHub.staging.enabled": false,
+  "remoteHub.commitDirectlyWarning": "off",
   "search.exclude": {
     "**/.git/**": true,
     "**/.history/**": true,
@@ -924,5 +925,6 @@
   "platformio.showHelpInfo": false,
   "thunder-client.previewFeatures": true,
   "nginx-conf-hint.format.align": true,
-  "nginx-conf-hint.enableStrictCompletion": true
+  "nginx-conf-hint.enableStrictCompletion": true,
+  "mdb.sendTelemetry": false
 }
