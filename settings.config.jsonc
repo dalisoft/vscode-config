@@ -86,6 +86,7 @@
   "debug.javascript.terminalOptions": {
     "skipFiles": ["<node_internals>/**"]
   },
+  "debug.javascript.enableNetworkView": true,
   "debug.console.historySuggestions": true,
   "debug.console.closeOnEnd": true,
   "debug.showInStatusBar": "always",
@@ -258,6 +259,7 @@
   "terminal.integrated.defaultProfile.windows": "Git Bash",
   "terminal.integrated.shellIntegration.enabled": true,
   "terminal.integrated.shellIntegration.decorationsEnabled": "both",
+  "terminal.integrated.shellIntegration.showCommandGuide": true,
   "terminal.integrated.suggest.enabled": true,
   "terminal.integrated.suggest.quickSuggestions": true,
   "terminal.integrated.suggest.suggestOnTriggerCharacters": false,
@@ -522,6 +524,8 @@
     "**/.idea": true
   },
   "explorer.autoOpenDroppedFile": false,
+  "explorer.sortOrder": "default",
+  "explorer.sortOrderReverse": false,
   "files.watcherExclude": {
     "**/.git/**": true,
     "**/.history/**": true,
@@ -700,6 +704,7 @@
   "scm.workingSets.enabled": false,
   "scm.workingSets.default": "current",
   "scm.showHistoryGraph": false,
+  "scm.compactFolders": true,
   "merge-conflict.codeLens.enabled": true,
   "merge-conflict.decorators.enabled": true,
   "gitpod.remote.syncExtensions": true,
