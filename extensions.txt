@@ -26,6 +26,7 @@ golang.go
 grapecity.gc-excelviewer
 gruntfuggly.todo-tree
 hashicorp.terraform
+hediet.vscode-drawio
 htmlhint.vscode-htmlhint
 ibm.output-colorizer
 ikuyadeu.r-pack
