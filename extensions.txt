@@ -73,6 +73,7 @@ oxc.oxc-vscode
 peterj.proto
 pkief.material-icon-theme
 pnp.polacode
+pomdtr.excalidraw-editor
 qezhu.gitlink
 qufiwefefwoyn.inline-sql-syntax
 quick-lint.quick-lint-js
