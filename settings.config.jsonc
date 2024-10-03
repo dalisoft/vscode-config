@@ -387,6 +387,7 @@
   "diffEditor.hideUnchangedRegions.enabled": false,
   "diffEditor.useInlineViewWhenSpaceIsLimited": false,
   "diffEditor.renderGutterMenu": true,
+  "diffEditor.renderSideBySide": true,
   "diffEditor.experimental.useVersion2": true,
   "diffEditor.experimental.showEmptyDecorations": true,
   "diffEditor.experimental.showMoves": true,
