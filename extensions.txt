@@ -9,6 +9,8 @@ clinyong.vscode-css-modules
 codeium.codeium
 codezombiech.gitignore
 continue.continue
+cweijan.vscode-database-client2
+damms005.devdb
 davidanson.vscode-markdownlint
 dbaeumer.vscode-eslint
 denoland.vscode-deno
@@ -67,6 +69,7 @@ ms-vscode.remote-repositories
 mtxr.sqltools
 mtxr.sqltools-driver-mysql
 mtxr.sqltools-driver-pg
+mtxr.sqltools-driver-sqlite
 natizyskunk.sftp
 naumovs.color-highlight
 oven.bun-vscode
