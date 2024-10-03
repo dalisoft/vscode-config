@@ -943,5 +943,10 @@
   "thunder-client.previewFeatures": true,
   "nginx-conf-hint.format.align": true,
   "nginx-conf-hint.enableStrictCompletion": true,
-  "mdb.sendTelemetry": false
+  "mdb.sendTelemetry": false,
+  "database-client.telemetry.usesOnlineServices": false,
+  "sqltools.useNodeRuntime": true,
+  "sqltools.disableReleaseNotifications": true,
+  "sqltools.disableNodeDetectNotifications": true,
+  "sqltools.results.reuseTabs": "connection"
 }
