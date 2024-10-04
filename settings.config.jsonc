@@ -967,5 +967,8 @@
   "sqltools.useNodeRuntime": true,
   "sqltools.disableReleaseNotifications": true,
   "sqltools.disableNodeDetectNotifications": true,
-  "sqltools.results.reuseTabs": "connection"
+  "sqltools.results.reuseTabs": "connection",
+  "hediet.vscode-drawio.codeLinkActivated": true,
+  "excalidraw.language": "en",
+  "excalidraw.theme": "auto"
 }
