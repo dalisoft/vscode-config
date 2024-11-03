@@ -976,7 +976,10 @@
   "database-client.reloadAfterDML": true,
   "database-client.showTrigger": true,
   "database-client.showUser": true,
-  "sqltools.useNodeRuntime": true,
+  "sqltools.formatLanguages": [
+    "sql"
+  ],
+  "sqltools.useNodeRuntime": false,
   "sqltools.disableReleaseNotifications": true,
   "sqltools.disableNodeDetectNotifications": true,
   "sqltools.results.reuseTabs": "connection",
