@@ -19,6 +19,7 @@ eamodio.gitlens
 editorconfig.editorconfig
 emilast.logfilehighlighter
 esbenp.prettier-vscode
+figma.figma-vscode-extension
 formulahendry.code-runner
 formulahendry.platformio
 foxundermoon.shell-format
