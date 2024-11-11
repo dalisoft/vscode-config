@@ -911,6 +911,7 @@
   "continue.showInlineTip": false,
   "continue.remoteConfigSyncPeriod": 60,
   "continue.telemetryEnabled": false,
+  "continue.allowAnonymousTelemetry": false,
   "cody.commandCodeLenses": true,
   "cody.telemetry.level": "off",
   "cody.autocomplete.advanced.provider": "experimental-ollama",
