@@ -3,6 +3,7 @@ ahmadalli.vscode-nginx-conf
 biomejs.biome
 bmalehorn.vscode-fish
 bmewburn.vscode-intelephense-client
+bradlc.vscode-tailwindcss
 charliermarsh.ruff
 christian-kohler.npm-intellisense
 clinyong.vscode-css-modules
@@ -73,6 +74,7 @@ mtxr.sqltools-driver-pg
 mtxr.sqltools-driver-sqlite
 natizyskunk.sftp
 naumovs.color-highlight
+openai.openai-chatgpt-adhoc
 oven.bun-vscode
 oxc.oxc-vscode
 peterj.proto
