@@ -10,33 +10,43 @@ Just run
 ./install-[stable|insider].sh
 ```
 
-## RAM-hungry extensions
+## Tuning
 
-Disable these extensions to save CPU and memory when not needed
+Disable workspace specific extensions or RAM-hungry extensions
 
-- Code Spell Checker + All languages pack
-- Deno
-- i18n Ally
-- IntelliCode API Usage Examples
-- Stylelint
-- vscode-styled-components
-- Pretty TS Errors
+- Not all extensions are listed
+- Disable these extensions to save CPU and memory when not needed
 
-## Recommended for workspace-only enabled
-
-- All of **RAM-hungry extensions**
-- Bash IDE
-- CodeLLDB
-- Dprint Code Formatter
-- ESLint
-- GitHub Actions
-- GitHub Pull Requests and Issues
-- HTMLHint
-- PowerShell
-- SQLTools
-- Thunder Client
-- ShellCheck
-- **All AI Extensions**
+| Name                       | Global | Workspace | High resource usage  |
+| -------------------------- | ------ | --------- | -------------------- |
+| CodeSpell + All langs      | -      | -         | CPU/RAM              |
+| Deno                       | -      | +         | RAM                  |
+| i18n ally                  | -      | -         | RAM                  |
+| IntelliCode API Usage      | -      | -         | CPU/RAM              |
+| Stylelint                  | -      | +         | CPU/RAM              |
+| `vscode-styled-components` | -      | +         | CPU/RAM              |
+| Pretty TS Errors           | -      | -         | CPU/RAM              |
+| Bash IDE                   | -      | +         | CPU/RAM              |
+| biome                      | -      | +         | CPU?                 |
+| CodeLLDB                   | -      | +         | CPU/RAM              |
+| dprint                     | -      | +         | CPU?                 |
+| ESLint                     | -      | +         | CPU/RAM              |
+| Figma                      | -      | +         | CPU/RAM              |
+| GH Actions                 | -      | +         | CPU/RAM              |
+| GH PR and Issues           | -      | +         | CPU/RAM              |
+| HTMLHint                   | -      | +         | RAM                  |
+| PowerShell                 | -      | +         |                      |
+| SQLTools                   | -      | +         | RAM                  |
+| Dev DB                     | -      | +         | RAM                  |
+| Database Client            | -      | +         | RAM                  |
+| MongoDB                    | -      | +         | RAM                  |
+| quick-lint-js              | -      | +         | CPU                  |
+| Thunder Client             | -      | +         |                      |
+| Shellcheck                 | -      | -         | **Bash IDE** or this |
+| Cody AI                    | -      | -         | CPU/RAM              |
+| Tabnine AI                 | -      | -         | CPU/RAM              |
+| Codeium AI                 | -      | -         | CPU/RAM              |
+| Continue AI                | -      | +         | CPU?                 |
 
 ## Post-installation
 
