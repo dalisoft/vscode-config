@@ -179,6 +179,7 @@
   "editor.snippetSuggestions": "bottom",
   "editor.inlineSuggest.enabled": true,
   "editor.inlineSuggest.showToolbar": "onHover",
+  "editor.inlineSuggest.suppressSuggestions": false,
   "editor.inlayHints.enabled": "offUnlessPressed",
   "editor.inlayHints.maximumLength": 43,
   "editor.hover.enabled": true,
@@ -675,10 +676,22 @@
   "gitlens.views.contributors.showAllBranches": true,
   "gitlens.views.searchAndCompare.files.layout": "tree",
   "gitlens.views.stashes.files.layout": "list",
+  "gitlens.views.contributors.showStatistics": true,
+  "gitlens.views.scm.grouped.views": {
+    "commits": false,
+    "branches": false,
+    "remotes": false,
+    "stashes": false,
+    "tags": false,
+    "worktrees": false,
+    "contributors": false,
+    "repositories": false,
+    "searchAndCompare": false,
+    "launchpad": false
+  },
   "gitlens.advanced.messages": {
     "suppressIntegrationDisconnectedTooManyFailedRequestsWarning": true
   },
-  "gitlens.views.contributors.showStatistics": true,
   "git-graph.repository.commits.showSignatureStatus": true,
   "git-graph.repository.sign.tags": true,
   "git-graph.repository.sign.commits": true,
@@ -977,9 +990,7 @@
   "database-client.reloadAfterDML": true,
   "database-client.showTrigger": true,
   "database-client.showUser": true,
-  "sqltools.formatLanguages": [
-    "sql"
-  ],
+  "sqltools.formatLanguages": ["sql"],
   "sqltools.useNodeRuntime": false,
   "sqltools.disableReleaseNotifications": true,
   "sqltools.disableNodeDetectNotifications": true,
