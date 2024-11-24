@@ -10,6 +10,7 @@ clinyong.vscode-css-modules
 codeium.codeium
 codezombiech.gitignore
 continue.continue
+cweijan.dbclient-jdbc
 cweijan.vscode-database-client2
 damms005.devdb
 davidanson.vscode-markdownlint
@@ -96,6 +97,7 @@ remisa.shellman
 ricard.postcss
 rogalmic.bash-debug
 rust-lang.rust-analyzer
+saoudrizwan.claude-dev
 semanticdiff.semanticdiff
 shopify.ruby-extensions-pack
 shopify.ruby-lsp

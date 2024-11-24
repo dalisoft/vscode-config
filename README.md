@@ -47,6 +47,7 @@ Disable workspace specific extensions or RAM-hungry extensions
 | Tabnine AI                 | -      | -         | CPU/RAM              |
 | Codeium AI                 | -      | -         | CPU/RAM              |
 | Continue AI                | -      | +         | CPU?                 |
+| Cline AI                   | -      | +         |                      |
 
 ## Post-installation
 
