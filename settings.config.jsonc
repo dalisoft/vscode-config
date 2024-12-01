@@ -6,7 +6,8 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "[markdown]": {
-    "editor.defaultFormatter": "dprint.dprint"
+    "editor.defaultFormatter": "dprint.dprint",
+    "editor.wordWrap": "off"
   },
   "[json]": {
     "editor.defaultFormatter": "biomejs.biome"
@@ -204,7 +205,7 @@
   "editor.tabCompletion": "on",
   "editor.wordWrap": "wordWrapColumn",
   "editor.wordWrapColumn": 80,
-  "editor.rulers": [80],
+  "editor.rulers": [80, 100, 120],
   "editor.wrappingIndent": "indent",
   "editor.autoIndent": "full",
   "editor.insertSpaces": true,
