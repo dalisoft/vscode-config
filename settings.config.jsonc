@@ -273,7 +273,7 @@
   "terminal.integrated.suggest.quickSuggestions": true,
   "terminal.integrated.suggest.suggestOnTriggerCharacters": false,
   "terminal.integrated.suggest.runOnEnter": "exactMatch",
-  "terminal.integrated.suggest.enableExtensionCompletions": true,
+  "terminal.integrated.suggest.enableExtensionCompletions": false,
   "terminal.integrated.experimentalImageSupport": true,
   "terminal.integrated.enableImages": true,
   "terminal.integrated.hideOnStartup": "whenEmpty",
