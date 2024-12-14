@@ -377,6 +377,7 @@
   "workbench.cloudChanges.continueOn": "prompt",
   "workbench.cloudChanges.autoResume": "onReload",
   "workbench.activityBar.location": "default",
+  "workbench.activityBar.orientation": "vertical",
   "workbench.experimental.settingsProfiles.enabled": false,
   "workbench.panel.showLabels": true,
   "workbench.navigationControl.enabled": true,

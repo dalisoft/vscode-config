@@ -1,6 +1,6 @@
-# VSCode settings
+# VSCode/Cursor AI settings
 
-Applicable only for last two release of VSCode. If you need older version, please see commit history
+Applicable only for last two release of VSCode and Cursor AI. If you need older version, please see commit history
 
 ## macOS / Linux
 
