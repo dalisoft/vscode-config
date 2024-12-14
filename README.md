@@ -7,7 +7,7 @@ Applicable only for last two release of VSCode and Cursor AI. If you need older 
 Just run
 
 ```sh
-./install-[stable|insider].sh
+./install-[stable|insider|cursor].sh
 ```
 
 ## Tuning
