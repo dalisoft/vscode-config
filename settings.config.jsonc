@@ -942,6 +942,14 @@
     "markdown": false
   },
   "github.copilot.chat.terminalChatLocation": "chatView",
+  "github.copilot.editor.enableAutoCompletions": false,
+  "github.copilot.editor.enableCodeActions": true,
+  "github.copilot.advanced": {
+    "useLanguageServer": true,
+    "authProvider": "github"
+  },
+  "github.copilot.chat.completionContext.typescript.mode": "sidecar",
+  "github.copilot.chat.search.semanticTextResults": true,
   "chat.experimental.quickQuestion.enable": true,
   "inlineChat.mode": "preview",
   "inlineChat.experimental.textButtons": true,
