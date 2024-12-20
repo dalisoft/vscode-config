@@ -6,8 +6,7 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "[markdown]": {
-    "editor.defaultFormatter": "dprint.dprint",
-    "editor.wordWrap": "off"
+    "editor.defaultFormatter": "dprint.dprint"
   },
   "[json]": {
     "editor.defaultFormatter": "biomejs.biome"
