@@ -48,6 +48,7 @@ Disable workspace specific extensions or RAM-hungry extensions
 | Codeium AI                 | -      | -         | CPU/RAM              |
 | Continue AI                | -      | +         | CPU?                 |
 | Cline AI                   | -      | +         |                      |
+| GitHub Copilot             | -      | +         |                      |
 
 ## Post-installation
 
