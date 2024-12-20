@@ -25,6 +25,8 @@ figma.figma-vscode-extension
 formulahendry.code-runner
 formulahendry.platformio
 foxundermoon.shell-format
+github.copilot
+github.copilot-chat
 github.remotehub
 github.vscode-github-actions
 golang.go
