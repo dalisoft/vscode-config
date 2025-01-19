@@ -2,6 +2,8 @@
 
 Applicable only for last two release of VSCode and Cursor AI. If you need older version, please see commit history
 
+[<img src="https://api.gitsponsors.com/api/badge/img?id=535027477" height="20">](https://api.gitsponsors.com/api/badge/link?p=I0E2lsJUsfwMYGFMv1aLB3RAsimVdKUhL9tPdQ1wJGgHAuj5ilAkISAAzVDfLyZ4e/yFzevNrvMFkDWhUwST8z8seBm16lCBNE+DgIY8MQzmWJhDU3x2d451+hPcnhceiESsxzxLSGa0seZj5gpBmQ==)
+
 ## macOS / Linux
 
 Just run
