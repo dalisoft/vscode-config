@@ -351,6 +351,7 @@
   "workbench.editor.decorations.colors": true,
   "workbench.editor.navigationScope": "editorGroup",
   "workbench.editor.defaultBinaryEditor": "default",
+  "workbench.editor.empty.hint": "hidden",
   "workbench.editor.languageDetectionHints": {
     "untitledEditors": true,
     "notebookEditors": true
