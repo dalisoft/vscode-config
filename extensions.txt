@@ -93,6 +93,7 @@ rangav.vscode-thunder-client
 raynigon.nginx-formatter
 redhat.java
 redhat.vscode-commons
+redhat.vscode-xml
 redhat.vscode-yaml
 reditorsupport.r
 remisa.shellman
