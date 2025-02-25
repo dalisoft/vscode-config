@@ -963,7 +963,7 @@
   },
   "github.copilot.chat.completionContext.typescript.mode": "sidecar",
   "github.copilot.chat.search.semanticTextResults": true,
-  "github.copilot.nextEditSuggestions.enabled": true,
+  "github.copilot.nextEditSuggestions.enabled": false,
   "github.copilot.chat.editor.temporalContext.enabled": true,
   "github.copilot.chat.edits.temporalContext.enabled": true,
   "github.copilot.chat.edits.codesearch.enabled": true,
