@@ -1064,5 +1064,8 @@
   "excalidraw.theme": "auto",
   "cursor.general.gitGraphIndexing": "enabled",
   "cursor.terminal.usePreviewBox": true,
-  "cursor.general.enableShadowWorkspace": true
+  "cursor.general.enableShadowWorkspace": true,
+  "geminicodeassist.enableTelemetry": false,
+  "geminicodeassist.updateChannel": "Default",
+  "geminicodeassist.inlineSuggestions.enableAuto": false
 }

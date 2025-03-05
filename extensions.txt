@@ -30,6 +30,7 @@ github.copilot-chat
 github.remotehub
 github.vscode-github-actions
 golang.go
+google.geminicodeassist
 grapecity.gc-excelviewer
 gruntfuggly.todo-tree
 hashicorp.terraform
