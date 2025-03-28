@@ -965,10 +965,7 @@
   "github.showAvatar": true,
   "github.experimental.multipleAccounts": false,
   "github.copilot.enable": {
-    "*": true,
-    "yaml": false,
-    "plaintext": true,
-    "markdown": false
+    "*": false
   },
   "github.copilot.editor.enableAutoCompletions": false,
   "github.copilot.editor.enableCodeActions": true,

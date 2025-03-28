@@ -1,5 +1,10 @@
 1000ch.svgo
 ahmadalli.vscode-nginx-conf
+bierner.markdown-checkbox
+bierner.markdown-emoji
+bierner.markdown-footnotes
+bierner.markdown-mermaid
+bierner.markdown-yaml-preamble
 biomejs.biome
 bmalehorn.vscode-fish
 bmewburn.vscode-intelephense-client
@@ -29,6 +34,7 @@ github.copilot
 github.copilot-chat
 github.remotehub
 github.vscode-github-actions
+goessner.mdmath
 golang.go
 google.geminicodeassist
 grapecity.gc-excelviewer
@@ -46,6 +52,7 @@ kokororin.vscode-phpfmt
 lokalise.i18n-ally
 mads-hartmann.bash-ide-vscode
 mechatroner.rainbow-csv
+mermaidchart.vscode-mermaid-chart
 mgmcdermott.vscode-language-babel
 mhutchie.git-graph
 mikestead.dotenv
