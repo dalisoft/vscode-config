@@ -2,6 +2,7 @@
 
 settings.json
 
+Code
 Code - Insiders
 settings.json.orig
 
@@ -10,3 +11,4 @@ globalStorage
 History
 syncLocalSettings.json
 sync
+.syncthing*
