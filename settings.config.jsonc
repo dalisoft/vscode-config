@@ -184,6 +184,7 @@
   "editor.inlineSuggest.suppressSuggestions": false,
   "editor.inlineSuggest.edits.renderSideBySide": "auto",
   "editor.inlineSuggest.edits.showCollapsed": false,
+  "editor.inlineSuggest.syntaxHighlightingEnabled": true,
   "editor.inlayHints.enabled": "offUnlessPressed",
   "editor.inlayHints.maximumLength": 43,
   "editor.hover.enabled": true,
@@ -321,7 +322,7 @@
   "redhat.telemetry.enabled": false,
   "intelephense.telemetry.enabled": false,
   "editor.experimental.treeSitterTelemetry": false,
-  // "editor.experimental.preferTreeSitter": ["typescript"],
+  // "editor.experimental.preferTreeSitter": ["typescript", "css", "regex"],
   "gitlens.telemetry.enabled": false,
   "update.mode": "none",
   "update.showReleaseNotes": false,
@@ -422,6 +423,14 @@
   "accessibility.signals.codeActionTriggered": {
     "sound": "auto"
   },
+  "accessibility.signals.editsKept": {
+    "sound": "auto",
+    "announcement": "auto"
+  },
+  "accessibility.signals.editsUndone": {
+    "sound": "auto",
+    "announcement": "auto"
+  },
   "accessibility.replEditor.autoFocusReplExecution": "lastExecution",
   "material-icon-theme.showWelcomeMessage": false,
   "diffEditor.codeLens": true,
@@ -444,6 +453,7 @@
   "window.nativeTabs": true,
   "window.dialogStyle": "native",
   "window.titleBarStyle": "native",
+  "window.controlStyle": "native",
   "window.customTitleBarVisibility": "windowed",
   "window.menuBarVisibility": "compact",
   "window.nativeFullScreen": true,
@@ -664,6 +674,7 @@
   "git.timeline.showUncommitted": true,
   "git.timeline.date": "committed",
   "git.timeline.showAuthor": true,
+  "git.showReferenceDetails": true,
   "git.mergeEditor": true,
   "mergeEditor.diffAlgorithm": "advanced",
   "git.postCommitCommand": "none",
@@ -874,6 +885,8 @@
   "python.analysis.userFileIndexingLimit": 3000,
   "python.analysis.supportRestructuredText": true,
   "python.analysis.includeAliasesFromUserFiles": true,
+  "python.analysis.enableEditableInstalls": true,
+  "python.analysis.usePullDiagnostics": true,
   "python.showStartPage": false,
   "python.experiments.optInto": [
     "pythonTerminalEnvVarActivation",
@@ -985,13 +998,22 @@
   "github.copilot.chat.edits.codesearch.enabled": true,
   "github.copilot.chat.codesearch.enabled": true,
   "github.copilot.chat.languageContext.typescript.enabled": true,
+  "github.copilot.chat.agent.thinkingTool": true,
+  "github.copilot.chat.newWorkspaceCreation.enabled": true,
   "chat.experimental.quickQuestion.enable": true,
   "chat.experimental.statusIndicator.enabled": true,
   "chat.editor.wordWrap": "on",
   "chat.agent.enabled": true,
+  "chat.mcp.discovery.enabled": false,
   "chat.promptFiles": true,
   "chat.renderRelatedFiles": true,
   "chat.languageContext.typescript.enabled": true,
+  "chat.tools.autoApprove": false,
+  "chat.promptFilesLocations": {
+    ".github/prompts": true
+  },
+  "chat.setupFromDialog": false,
+  "chat.edits2.enabled": false,
   "inlineChat.mode": "preview",
   "inlineChat.experimental.textButtons": true,
   "inlineChat.accessibleDiffView": "auto",
