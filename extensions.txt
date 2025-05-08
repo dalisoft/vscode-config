@@ -1,5 +1,6 @@
 1000ch.svgo
 ahmadalli.vscode-nginx-conf
+augment.vscode-augment
 bierner.markdown-checkbox
 bierner.markdown-emoji
 bierner.markdown-footnotes
@@ -21,6 +22,7 @@ damms005.devdb
 davidanson.vscode-markdownlint
 dbaeumer.vscode-eslint
 denoland.vscode-deno
+docker.docker
 dprint.dprint
 eamodio.gitlens
 editorconfig.editorconfig
@@ -107,6 +109,7 @@ reditorsupport.r
 remisa.shellman
 ricard.postcss
 rogalmic.bash-debug
+rooveterinaryinc.roo-cline
 rust-lang.rust-analyzer
 saoudrizwan.claude-dev
 semanticdiff.semanticdiff
