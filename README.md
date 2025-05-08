@@ -60,12 +60,6 @@ Due of M$ does not support old VSCode versions, old `legacy.patch` not working a
 
 Latest **1 versions** at best and **2 versions** at support of VSCode (Insiders) are supported
 
-## Special thanks to
-
-[![JetBrains](https://resources.jetbrains.com/storage/products/company/brand/logos/jetbrains.png)](https://jb.gg/OpenSourceSupport)
-
-for providing free license to support Open-Source projects
-
 ## FAQ
 
 ### Installation failed or not found
