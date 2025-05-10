@@ -399,6 +399,7 @@
   "workbench.activityBar.location": "default",
   "workbench.activityBar.orientation": "vertical",
   "workbench.secondarySideBar.showLabels": true,
+  "workbench.secondarySideBar.defaultVisibility": "hidden",
   "workbench.experimental.settingsProfiles.enabled": false,
   "workbench.panel.showLabels": true,
   "workbench.navigationControl.enabled": true,
@@ -428,6 +429,10 @@
     "announcement": "auto"
   },
   "accessibility.signals.editsUndone": {
+    "sound": "auto",
+    "announcement": "auto"
+  },
+  "accessibility.signals.nextEditSuggestion": {
     "sound": "auto",
     "announcement": "auto"
   },
@@ -887,6 +892,7 @@
   "python.analysis.includeAliasesFromUserFiles": true,
   "python.analysis.enableEditableInstalls": true,
   "python.analysis.usePullDiagnostics": true,
+  "python.analysis.aiCodeActions": { "convertFormatString": true },
   "python.showStartPage": false,
   "python.experiments.optInto": [
     "pythonTerminalEnvVarActivation",
@@ -988,9 +994,11 @@
     "authPermissions": "default"
   },
   "github.copilot.nextEditSuggestions.enabled": false,
+  "github.copilot.nextEditSuggestions.fixes": false,
   "github.copilot.chat.terminalChatLocation": "chatView",
   "github.copilot.chat.completionContext.typescript.mode": "sidecar",
   "github.copilot.chat.search.semanticTextResults": true,
+  "github.copilot.chat.search.keywordSuggestions": true,
   "github.copilot.chat.agent.runTasks": false,
   "github.copilot.chat.codeGeneration.useInstructionFiles": true,
   "github.copilot.chat.editor.temporalContext.enabled": true,
@@ -999,6 +1007,7 @@
   "github.copilot.chat.codesearch.enabled": true,
   "github.copilot.chat.languageContext.typescript.enabled": true,
   "github.copilot.chat.agent.thinkingTool": true,
+  "github.copilot.chat.agent.autoFix": true,
   "github.copilot.chat.newWorkspaceCreation.enabled": true,
   "chat.experimental.quickQuestion.enable": true,
   "chat.experimental.statusIndicator.enabled": true,
@@ -1012,11 +1021,19 @@
   "chat.promptFilesLocations": {
     ".github/prompts": true
   },
+  "chat.instructionsFilesLocations": {
+    ".github/instructions": true
+  },
   "chat.setupFromDialog": false,
   "chat.edits2.enabled": false,
+  "chat.sendElementsToChat.enabled": true,
+  "chat.sendElementsToChat.attachCSS": true,
+  "chat.sendElementsToChat.attachImages": true,
   "inlineChat.mode": "preview",
   "inlineChat.experimental.textButtons": true,
   "inlineChat.accessibleDiffView": "auto",
+  "inlineChat.enableV2": true,
+  "inlineChat.hideOnRequest": true,
   "codeium.aggressiveShutdown": true,
   "codeium.enableSearch": true,
   "codeium.enableCodeLens": "hide_x",
