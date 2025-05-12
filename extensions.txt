@@ -49,6 +49,7 @@ ikuyadeu.r-pack
 jaredly.reason-vscode
 jock.svg
 khanghua.sqltools-dynamodb-driver
+kilocode.kilo-code
 koichisasada.vscode-rdbg
 kokororin.vscode-phpfmt
 lokalise.i18n-ally
@@ -87,7 +88,7 @@ mtxr.sqltools-driver-pg
 mtxr.sqltools-driver-sqlite
 natizyskunk.sftp
 naumovs.color-highlight
-openai.openai-chatgpt-adhoc
+openai.chatgpt
 oven.bun-vscode
 oxc.oxc-vscode
 peterj.proto
