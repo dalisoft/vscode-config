@@ -319,6 +319,7 @@
   "extensions.verifySignature": true,
   "extensions.autoUpdate": "onlyEnabledExtensions",
   "telemetry.telemetryLevel": "off",
+  "telemetry.feedback.enabled": false,
   "redhat.telemetry.enabled": false,
   "intelephense.telemetry.enabled": false,
   "editor.experimental.treeSitterTelemetry": false,
