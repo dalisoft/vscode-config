@@ -392,8 +392,6 @@
   "workbench.preferredDarkColorTheme": "Monokai",
   "workbench.editorAssociations": {
     "*.ipynb": "jupyter-notebook"
-    // "*.csv": "gc-excelviewer-csv-editor",
-    // "*.tsv": "gc-excelviewer-csv-editor"
   },
   "workbench.cloudChanges.continueOn": "prompt",
   "workbench.cloudChanges.autoResume": "onReload",
@@ -686,7 +684,6 @@
   "git.mergeEditor": true,
   "mergeEditor.diffAlgorithm": "advanced",
   "git.postCommitCommand": "none",
-  // "git.commandsToLog": ["commit", "push"],
   "git.rememberPostCommitCommand": true,
   "git.showActionButton": {
     "commit": true,
@@ -858,7 +855,6 @@
   "go.useLanguageServer": true,
   "go.languageServerFlags": ["serve", "-rpc.trace", "--debug=localhost:6060"],
   "go.toolsManagement.autoUpdate": true,
-  // "reason_language_server.location": "/usr/local/bin/reason-language-server",
   "rust-analyzer.updates.askBeforeDownload": true,
   "rust-analyzer.lens.methodReferences": true,
   "rust-analyzer.cargo.sysroot": "discover",
