@@ -120,6 +120,7 @@ tamasfe.even-better-toml
 tekumara.typos-vscode
 timgjones.hlsltools
 timonwong.shellcheck
+typescriptteam.native-preview
 unifiedjs.vscode-mdx
 vadimcn.vscode-lldb
 visualstudioexptteam.vscodeintellicode
