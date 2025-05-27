@@ -895,10 +895,7 @@
   "python.analysis.usePullDiagnostics": true,
   "python.analysis.aiCodeActions": { "convertFormatString": true },
   "python.showStartPage": false,
-  "python.experiments.optInto": [
-    "pythonTerminalEnvVarActivation",
-    "pythonREPLSmartSend"
-  ],
+  "python.experiments.optInto": ["pythonTerminalEnvVarActivation"],
   "python.REPL.enableREPLSmartSend": true,
   "python.REPL.sendToNativeREPL": true,
   "python.createEnvironment.trigger": "prompt",
