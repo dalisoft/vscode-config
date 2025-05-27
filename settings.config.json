@@ -531,7 +531,6 @@
   "typescript.format.enable": false,
   "typescript.experimental.updateImportsOnPaste": true,
   "typescript.experimental.expandableHover": true,
-  "typescript.experimental.useTsgo": true,
   "typescript.tsserver.useSyntaxServer": "never",
   "typescript.tsserver.experimental.enableProjectDiagnostics": false,
   "typescript.tsserver.watchOptions": "vscode",
