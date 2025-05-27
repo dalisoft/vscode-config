@@ -880,6 +880,7 @@
   "docker.contexts.showInStatusBar": true,
   "docker.showRemoteWorkspaceWarning": true,
   "docker.networks.showBuiltInNetworks": true,
+  "docker.lsp.telemetry": "off",
   "python.jediEnabled": true,
   "python.languageServer": "Pylance",
   "python.analysis.reportExtraTelemetry": false,
