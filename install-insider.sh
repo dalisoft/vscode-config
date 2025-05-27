@@ -17,7 +17,7 @@ elif [ "$(uname)" = "*NT*" ]; then
 fi
 
 mkdir -p "$APPS_PATH/Code - Insiders/User"
-cp settings.config.jsonc "$APPS_PATH/Code - Insiders/User/settings.json"
+cp settings.config.json "$APPS_PATH/Code - Insiders/User/settings.json"
 cp keybindings.json "$APPS_PATH/Code - Insiders/User/keybindings.json"
 
 if [ -n "$(type code-insiders)" ]; then
