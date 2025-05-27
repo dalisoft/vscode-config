@@ -909,7 +909,6 @@
     "enable": false
   },
   "jupyter.interactiveWindow.codeLens.enable": true,
-  "jupyter.formatStackTraces": true,
   "jupyter.executionAnalysis.enabled": true,
   "ipynb.pasteImagesAsAttachments.enabled": true,
   "ipynb.experimental.serialization": true,
