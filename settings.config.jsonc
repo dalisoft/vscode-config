@@ -904,8 +904,7 @@
   "python.createEnvironment.contentButton": "show",
   "python.terminal.shellIntegration.enabled": true,
   "ruff.enable": false,
-  "ruff.lint.run": "onSave",
-  "ruff.showNotifications": "onError",
+  "ruff.nativeServer": "on",
   "ruff.codeAction.disableRuleComment": {
     "enable": false
   },
