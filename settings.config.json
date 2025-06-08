@@ -436,7 +436,6 @@
     "announcement": "auto"
   },
   "accessibility.replEditor.autoFocusReplExecution": "lastExecution",
-  "accessibility.verbosity.emptyEditorHint": false,
   "material-icon-theme.showWelcomeMessage": false,
   "diffEditor.codeLens": true,
   "diffEditor.wordWrap": "on",
@@ -1006,8 +1005,7 @@
   "chat.experimental.quickQuestion.enable": true,
   "chat.experimental.statusIndicator.enabled": true,
   "chat.editor.wordWrap": "on",
-  "chat.agent.enabled": false,
-  "chat.commandCenter.enabled": false,
+  "chat.agent.enabled": true,
   "chat.mcp.discovery.enabled": false,
   "chat.promptFiles": true,
   "chat.renderRelatedFiles": true,
