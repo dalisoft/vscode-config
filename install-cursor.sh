@@ -17,7 +17,7 @@ elif [ "$(uname)" = "*NT*" ]; then
 fi
 
 mkdir -p "$APPS_PATH/Cursor/User"
-cp settings.config.jsonc "$APPS_PATH/Cursor/User/settings.json"
+cp settings.config.json "$APPS_PATH/Cursor/User/settings.json"
 cp keybindings.json "$APPS_PATH/Cursor/User/keybindings.json"
 
 if [ -n "$(type cursor)" ]; then
