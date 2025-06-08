@@ -881,7 +881,7 @@
   "python.analysis.reportExtraTelemetry": false,
   "python.analysis.languageServerMode": "default",
   "python.analysis.completeFunctionParens": true,
-  "python.analysis.typeCheckingMode": "strict",
+  "python.analysis.typeCheckingMode": "basic",
   "python.analysis.diagnosticMode": "workspace",
   "python.analysis.autoImportCompletions": true,
   "python.analysis.addImport.heuristics": true,
@@ -891,6 +891,9 @@
   "python.analysis.enableEditableInstalls": true,
   "python.analysis.usePullDiagnostics": true,
   "python.analysis.aiCodeActions": { "convertFormatString": true },
+  "python.analysis.showOnlyDirectDependenciesInAutoImport": true,
+  "python.analysis.supportDocstringTemplate": true,
+  "python.analysis.typeEvaluation.deprecateTypingAliases": true,
   "python.showStartPage": false,
   "python.experiments.optInto": ["pythonTerminalEnvVarActivation"],
   "python.REPL.enableREPLSmartSend": true,
@@ -1120,5 +1123,9 @@
   "cursor.general.enableShadowWorkspace": true,
   "geminicodeassist.enableTelemetry": false,
   "geminicodeassist.updateChannel": "Default",
-  "geminicodeassist.inlineSuggestions.enableAuto": false
+  "geminicodeassist.inlineSuggestions.enableAuto": false,
+  "containers.contexts.showInStatusBar": true,
+  "containers.images.label": "Tag",
+  "containers.networks.showBuiltInNetworks": true,
+  "containers.showRemoteWorkspaceWarning": true
 }
