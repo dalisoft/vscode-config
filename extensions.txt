@@ -56,7 +56,7 @@ mikestead.dotenv
 mongodb.mongodb-vscode
 mrmlnc.vscode-apache
 mrmlnc.vscode-scss
-ms-azuretools.vscode-docker
+ms-azuretools.vscode-containers
 ms-ossdata.vscode-pgsql
 ms-python.debugpy
 ms-python.gather
