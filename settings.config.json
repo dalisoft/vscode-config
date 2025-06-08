@@ -244,7 +244,7 @@
   "terminal.integrated.fontFamily": "JetBrains Mono, Fira Code, Monaco, monospace",
   "terminal.integrated.fontWeight": "400",
   "terminal.integrated.fontWeightBold": "600",
-  "terminal.integrated.fontLigatures.enabled": true,
+  "terminal.integrated.fontLigatures.enabled": false,
   "terminal.integrated.fontSize": 13,
   "terminal.integrated.lineHeight": 1,
   "terminal.integrated.gpuAcceleration": "on",
