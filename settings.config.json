@@ -36,10 +36,10 @@
     "editor.defaultFormatter": "kokororin.vscode-phpfmt"
   },
   "[dockerfile]": {
-    "editor.defaultFormatter": "ms-azuretools.vscode-docker"
+    "editor.defaultFormatter": "ms-azuretools.vscode-containers"
   },
   "[dockercompose]": {
-    "editor.defaultFormatter": "ms-azuretools.vscode-docker"
+    "editor.defaultFormatter": "ms-azuretools.vscode-containers"
   },
   "[c]": {
     "editor.defaultFormatter": "ms-vscode.cpptools"
