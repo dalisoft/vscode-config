@@ -1,15 +1,13 @@
-# VSCode
+# VSCode/Cursor AI settings
 
-**NO AI version**. For newbie learning.
-
-Applicable only for last two release of VSCode. If you need older version, please see commit history
+Applicable only for last two release of VSCode and Cursor AI. If you need older version, please see commit history
 
 ## macOS / Linux
 
 Just run
 
 ```sh
-./install-[stable|insider].sh
+./install-[stable|insider|cursor].sh
 ```
 
 ## Tuning
@@ -24,6 +22,7 @@ Disable workspace specific extensions or RAM-hungry extensions
 | CodeSpell + All langs      | -      | -         | CPU/RAM              |
 | Deno                       | -      | +         | RAM                  |
 | i18n ally                  | -      | -         | RAM                  |
+| IntelliCode API Usage      | -      | -         | CPU/RAM              |
 | Stylelint                  | -      | +         | CPU/RAM              |
 | `vscode-styled-components` | -      | +         | CPU/RAM              |
 | Pretty TS Errors           | -      | -         | CPU/RAM              |
@@ -44,12 +43,20 @@ Disable workspace specific extensions or RAM-hungry extensions
 | quick-lint-js              | -      | +         | CPU                  |
 | Thunder Client             | -      | +         |                      |
 | Shellcheck                 | -      | -         | **Bash IDE** or this |
+| Cody AI                    | -      | -         | CPU/RAM              |
+| Tabnine AI                 | -      | -         | CPU/RAM              |
+| Codeium AI                 | -      | -         | CPU/RAM              |
+| Continue AI                | -      | +         | CPU?                 |
+| Cline AI                   | -      | +         |                      |
+| GitHub Copilot             | -      | +         |                      |
 
 ## Post-installation
 
 Just reboot VSCode
 
 ## Supported versions
+
+Due of M$ does not support old VSCode versions, old `legacy.patch` not working anymore
 
 Latest **1 versions** at best and **2 versions** at support of VSCode (Insiders) are supported
 
