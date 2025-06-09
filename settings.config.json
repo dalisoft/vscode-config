@@ -886,6 +886,7 @@
   "python.analysis.diagnosticMode": "workspace",
   "python.analysis.autoImportCompletions": true,
   "python.analysis.addImport.heuristics": true,
+  "python.analysis.indexing": true,
   "python.analysis.userFileIndexingLimit": 3000,
   "python.analysis.supportRestructuredText": true,
   "python.analysis.includeAliasesFromUserFiles": true,
