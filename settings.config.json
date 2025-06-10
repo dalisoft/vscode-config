@@ -988,7 +988,6 @@
   "github.copilot.enable": {
     "*": false
   },
-  "github.copilot.editor.enableAutoCompletions": false,
   "github.copilot.editor.enableCodeActions": true,
   "github.copilot.advanced": {
     "useLanguageServer": true,
@@ -1005,7 +1004,6 @@
   "github.copilot.chat.codeGeneration.useInstructionFiles": true,
   "github.copilot.chat.editor.temporalContext.enabled": true,
   "github.copilot.chat.edits.temporalContext.enabled": true,
-  "github.copilot.chat.edits.codesearch.enabled": true,
   "github.copilot.chat.codesearch.enabled": true,
   "github.copilot.chat.languageContext.typescript.enabled": true,
   "github.copilot.chat.agent.thinkingTool": true,
