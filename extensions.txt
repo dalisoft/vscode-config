@@ -24,6 +24,7 @@ davidanson.vscode-markdownlint
 dbaeumer.vscode-eslint
 denoland.vscode-deno
 docker.docker
+dorianmassoulier.repomix-runner
 dprint.dprint
 eamodio.gitlens
 editorconfig.editorconfig
