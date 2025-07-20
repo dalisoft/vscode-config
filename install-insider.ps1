@@ -25,7 +25,7 @@ if (Get-Command code-insiders -errorAction SilentlyContinue) {
     }
   }
 
-  if ($args eq "--ai") {
+  if ($args[0] eq "--ai") {
     foreach ($ext in Get-Content .\ai.txt) {
       if ($INSTALLED_EXTENSIONS -match $ext) {
         Write-Output "Already exists extension: $ext";
