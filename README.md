@@ -8,6 +8,16 @@ Just run
 
 ```sh
 ./install-[stable|insider|cursor].sh
+# or with AI extensions
+./install-[stable|insider].sh --ai
+```
+
+## Windows
+
+```powershell
+./install-[stable|insider].ps1
+# or with AI extensions
+./install-[stable|insider].ps1 --ai
 ```
 
 ## Tuning
@@ -55,8 +65,6 @@ Disable workspace specific extensions or RAM-hungry extensions
 Just reboot VSCode
 
 ## Supported versions
-
-Due of M$ does not support old VSCode versions, old `legacy.patch` not working anymore
 
 Latest **1 versions** at best and **2 versions** at support of VSCode (Insiders) are supported
 
