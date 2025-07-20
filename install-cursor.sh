@@ -19,6 +19,7 @@ fi
 mkdir -p "$APPS_PATH/Cursor/User"
 cp settings.config.json "$APPS_PATH/Cursor/User/settings.json"
 cp keybindings.json "$APPS_PATH/Cursor/User/keybindings.json"
+sh "$PWD/marketplace.sh" "cursor"
 
 if [ -n "$(type cursor)" ]; then
   echo "Found Cursor, installing configs..."
@@ -30,7 +31,7 @@ if [ -n "$(type cursor)" ]; then
     else
       cursor --install-extension "$ext" || echo "Failed to install: $ext"
     fi
-  done < "$PWD/extensions.txt"
+  done <"$PWD/extensions.txt"
 
   echo "Done for Cursor"
 fi
