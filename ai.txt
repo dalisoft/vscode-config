@@ -1,0 +1,15 @@
+augment.vscode-augment
+codeium.codeium
+continue.continue
+dorianmassoulier.repomix-runner
+github.copilot
+github.copilot-chat
+google.geminicodeassist
+kilocode.kilo-code
+openai.chatgpt
+rooveterinaryinc.roo-cline
+saoudrizwan.claude-dev
+sourcegraph.cody-ai
+tabnine.tabnine-vscode
+visualstudioexptteam.intellicode-api-usage-examples
+visualstudioexptteam.vscodeintellicode-completions
