@@ -1,5 +1,5 @@
 #!/bin/sh
-set -e
+set -eu
 
 APPS_PATH=""
 INSTALLED_EXTENSIONS=""
@@ -24,7 +24,6 @@ if [ -n "$(type code)" ]; then
   echo "Found VSCode, installing configs..."
 
   INSTALLED_EXTENSIONS=$(code --list-extensions)
-
   while read -r ext; do
     if [ "$(echo "$INSTALLED_EXTENSIONS" | grep -o "$ext")" = "$ext" ]; then
       echo "Already exists extension: $ext"
