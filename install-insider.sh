@@ -1,5 +1,5 @@
 #!/bin/sh
-set -e
+set -eu
 
 APPS_PATH=""
 INSTALLED_EXTENSIONS=""
@@ -24,13 +24,23 @@ if [ -n "$(type code-insiders)" ]; then
   echo "Found VSCode Insiders, installation..."
 
   INSTALLED_EXTENSIONS=$(code-insiders --list-extensions)
-  cat extensions.txt | while read -r ext; do
+  while read -r ext; do
     if [ "$(echo "$INSTALLED_EXTENSIONS" | grep -o "$ext")" = "$ext" ]; then
       echo "Already exists extension: $ext"
     else
       code-insiders --install-extension "$ext" || echo "Failed to install: $ext"
     fi
-  done
+  done < "$PWD/extensions.txt"
+
+  if [ "${1-}" = "--ai" ]; then
+    while read -r ext; do
+    if [ "$(echo "$INSTALLED_EXTENSIONS" | grep -o "$ext")" = "$ext" ]; then
+      echo "Already exists extension: $ext"
+    else
+      code-insiders --install-extension "$ext" || echo "Failed to install: $ext"
+    fi
+  done < "$PWD/ai.txt"
+  fi
 
   echo "Done for VSCode Insiders"
 fi
