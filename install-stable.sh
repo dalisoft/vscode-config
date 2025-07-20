@@ -1,5 +1,5 @@
 #!/bin/sh
-set -e
+set -eu
 
 APPS_PATH=""
 INSTALLED_EXTENSIONS=""
@@ -17,20 +17,31 @@ elif [ "$(uname)" = "*NT*" ]; then
 fi
 
 mkdir -p "$APPS_PATH/Code/User"
-cp settings.config.jsonc "$APPS_PATH/Code/User/settings.json"
+cp settings.config.json "$APPS_PATH/Code/User/settings.json"
 cp keybindings.json "$APPS_PATH/Code/User/keybindings.json"
 
 if [ -n "$(type code)" ]; then
   echo "Found VSCode, installing configs..."
 
   INSTALLED_EXTENSIONS=$(code --list-extensions)
-  cat extensions.txt | while read -r ext; do
+  while read -r ext; do
     if [ "$(echo "$INSTALLED_EXTENSIONS" | grep -o "$ext")" = "$ext" ]; then
       echo "Already exists extension: $ext"
     else
       code --install-extension "$ext" || echo "Failed to install: $ext"
     fi
-  done
+  done < "$PWD/extensions.txt"
+
+  if [ "${1-}" = "--ai" ]; then
+    while read -r ext; do
+    if [ "$(echo "$INSTALLED_EXTENSIONS" | grep -o "$ext")" = "$ext" ]; then
+      echo "Already exists extension: $ext"
+    else
+      code --install-extension "$ext" || echo "Failed to install: $ext"
+    fi
+  done < "$PWD/ai.txt"
+  fi
+
 
   echo "Done for VSCode"
 fi
