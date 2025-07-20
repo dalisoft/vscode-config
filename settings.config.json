@@ -24,7 +24,7 @@
     "editor.defaultFormatter": "redhat.vscode-yaml"
   },
   "[shellscript]": {
-    "editor.defaultFormatter": "foxundermoon.shell-format"
+    "editor.defaultFormatter": "mads-hartmann.bash-ide-vscode"
   },
   "[ignore]": {
     "editor.defaultFormatter": "foxundermoon.shell-format"
