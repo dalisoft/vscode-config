@@ -597,10 +597,11 @@
   "explorer.fileNesting.expand": true,
   "explorer.expandSingleFolderWorkspaces": true,
   "explorer.excludeGitIgnore": false,
+  "explorer.autoReveal": true,
   "explorer.autoRevealExclude": {
-    "**/node_modules": true,
+    "**/.idea": true,
     "**/bower_components": true,
-    "**/.idea": true
+    "**/node_modules": false
   },
   "explorer.autoOpenDroppedFile": false,
   "explorer.sortOrder": "default",
