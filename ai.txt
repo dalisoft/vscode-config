@@ -1,3 +1,4 @@
+anthropic.claude-code
 augment.vscode-augment
 codeium.codeium
 continue.continue
