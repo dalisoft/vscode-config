@@ -78,6 +78,7 @@ ms-vscode.cpptools
 ms-vscode.powershell
 ms-vscode.remote-explorer
 ms-vscode.remote-repositories
+ms-vscode.vscode-js-profile-flame
 mtxr.sqltools
 mtxr.sqltools-driver-mysql
 mtxr.sqltools-driver-pg
