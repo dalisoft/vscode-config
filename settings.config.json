@@ -6,7 +6,7 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "[markdown]": {
-    "editor.defaultFormatter": "dprint.dprint"
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "[json]": {
     "editor.defaultFormatter": "biomejs.biome"
@@ -474,7 +474,7 @@
   "intellicodeCompletions.runAlongsideCopilot": true,
   "tabnine.experimentalAutoImports": true,
   "window.title": "${rootName}",
-  "window.nativeTabs": false,
+  "window.nativeTabs": true,
   "window.dialogStyle": "native",
   "window.titleBarStyle": "native",
   "window.controlStyle": "native",
