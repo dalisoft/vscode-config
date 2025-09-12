@@ -32,6 +32,7 @@ formulahendry.platformio
 foxundermoon.shell-format
 github.remotehub
 github.vscode-github-actions
+github.vscode-pull-request-github
 goessner.mdmath
 golang.go
 grapecity.gc-excelviewer
