@@ -336,8 +336,8 @@
   "redhat.telemetry.enabled": false,
   "intelephense.telemetry.enabled": false,
   "editor.experimental.treeSitterTelemetry": false,
-  "editor.experimental.preferTreeSitter": ["typescript", "css", "regex"],
   "gitlens.telemetry.enabled": false,
+  "editor.experimental.preferTreeSitter": ["typescript", "css", "regex"],
   "update.mode": "none",
   "update.showReleaseNotes": false,
   "comments.openView": "firstFileUnresolved",
@@ -784,6 +784,8 @@
   "gitlens.advanced.messages": {
     "suppressIntegrationDisconnectedTooManyFailedRequestsWarning": true
   },
+  "gitlens.ai.enabled": false,
+  "gitlens.home.preview.enabled": false,
   "git-graph.repository.commits.showSignatureStatus": true,
   "git-graph.repository.sign.tags": true,
   "git-graph.repository.sign.commits": true,
