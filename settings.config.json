@@ -584,7 +584,6 @@
   "stylelint.enable": true,
   "oxc.enable": true,
   "oxc.requireConfig": true,
-  "oxc.configPath": "oxlintrc.json",
   "oxc.typeAware": false,
   "oxc.lint.run": "onSave",
   "oxc.trace.server": "off",
