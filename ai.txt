@@ -3,6 +3,7 @@ augment.vscode-augment
 codeium.codeium
 continue.continue
 dorianmassoulier.repomix-runner
+factory.factory-vscode-extension
 github.copilot
 github.copilot-chat
 google.gemini-cli-vscode-ide-companion
