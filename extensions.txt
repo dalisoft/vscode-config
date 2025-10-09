@@ -1,5 +1,6 @@
 1000ch.svgo
 ahmadalli.vscode-nginx-conf
+aykutsarac.jsoncrack-vscode
 bedirt.gpt-token-counter-live
 bierner.markdown-checkbox
 bierner.markdown-emoji
