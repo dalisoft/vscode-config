@@ -826,7 +826,6 @@
   "scm.countBadge": "all",
   "scm.defaultViewSortKey": "name",
   "scm.repositories.sortOrder": "discovery time",
-  "scm.experimental.showSyncView": false,
   "scm.showInputActionButton": true,
   "scm.showIncomingChanges": "auto",
   "scm.showOutgoingChanges": "auto",
