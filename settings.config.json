@@ -742,7 +742,8 @@
   "git.decorations.enabled": true,
   "git.blame.editorDecoration.enabled": false,
   "git.blame.editorDecoration.template": "${subject}, ${authorName} (${authorDateAgo})",
-  "git.blame.statusBarItem.enabled": false,
+  "git.blame.statusBarItem.enabled": true,
+  "git.blame.statusBarItem.template": "${hashShort}, ${authorEmail} (${authorDateAgo})",
   "git.discardUntrackedChangesToTrash": true,
   "git.diagnosticsCommitHook.Enabled": true,
   "git.diagnosticsCommitHook.Sources": {
