@@ -291,6 +291,7 @@
   "terminal.integrated.tabs.enabled": false,
   "terminal.integrated.tabs.location": "right",
   "terminal.integrated.tabs.showActiveTerminal": "singleTerminalOrNarrow",
+  "terminal.integrated.tabs.title": "${process}",
   "terminal.integrated.titleMode": "sequence",
   "terminal.integrated.defaultProfile.osx": "fish",
   "terminal.integrated.defaultProfile.linux": "fish",
@@ -471,6 +472,7 @@
   "accessibility.replEditor.autoFocusReplExecution": "lastExecution",
   "accessibility.verbosity.emptyEditorHint": false,
   "accessibility.openChatEditedFiles": true,
+  "accessibility.verboseChatProgressUpdates": true,
   "material-icon-theme.showWelcomeMessage": false,
   "diffEditor.codeLens": true,
   "diffEditor.wordWrap": "on",
@@ -883,6 +885,7 @@
   "task.quickOpen.detail": true,
   "task.allowAutomaticTasks": "off",
   "task.reconnection": true,
+  "task.notifyWindowOnTaskCompletion": 0,
   "interactiveWindow.restore": true,
   "npm.autoDetect": "on",
   "npm.packageManager": "auto",
@@ -1049,6 +1052,7 @@
   },
   "github.copilot.nextEditSuggestions.enabled": false,
   "github.copilot.nextEditSuggestions.fixes": false,
+  "github.copilot.nextEditSuggestions.allowWhitespaceOnlyChanges": false,
   "github.copilot.chat.terminalChatLocation": "chatView",
   "github.copilot.chat.completionContext.typescript.mode": "sidecar",
   "github.copilot.chat.search.semanticTextResults": true,
@@ -1067,12 +1071,14 @@
   "github.copilot.chat.notebook.followCellExecution.enabled": false,
   "github.copilot.chat.notebook.enhancedNextEditSuggestions.enabled": false,
   "github.copilot.chat.virtualTools.threshold": 128,
+  "github.copilot.chat.executePrompt.enabled": true,
   "chat.experimental.quickQuestion.enable": true,
   "chat.experimental.statusIndicator.enabled": true,
   "chat.editor.wordWrap": "on",
   "chat.fontFamily": "default",
   "chat.fontSize": 14,
   "chat.agent.enabled": false,
+  "chat.agent.thinkingStyle": "collapsed",
   "chat.commandCenter.enabled": false,
   "chat.mcp.discovery.enabled": {
     "claude-desktop": false,
@@ -1082,6 +1088,7 @@
   },
   "chat.mcp.access": "all",
   "chat.mcp.autostart": "onlyNew",
+  "chat.mcp.gallery.enabled": true,
   "chat.promptFiles": true,
   "chat.promptFilesRecommendations": {
     "plan": true,
@@ -1091,6 +1098,7 @@
   },
   "chat.disableAIFeatures": true,
   "chat.useAgentsMdFile": true,
+  "chat.useNestedAgentsMdFiles": true,
   "chat.renderRelatedFiles": true,
   "chat.languageContext.typescript.enabled": true,
   "chat.tools.global.autoApprove": false,
@@ -1098,6 +1106,7 @@
   "chat.tools.terminal.enableAutoApprove": false,
   "chat.tools.terminal.shellIntegrationTimeout": 10000,
   "chat.tools.terminal.autoApprove": {},
+  "chat.tools.terminal.autoReplyToPrompts": false,
   "chat.promptFilesLocations": {
     ".github/prompts": true
   },
@@ -1115,6 +1124,8 @@
   "chat.todoListTool.enabled": true,
   "chat.math.enabled": true,
   "chat.agentSessionsViewLocation": "disabled",
+  "chat.emptyState.history.enabled": true,
+  "chat.notifyWindowOnResponseReceived": true,
   "inlineChat.mode": "preview",
   "inlineChat.experimental.textButtons": true,
   "inlineChat.accessibleDiffView": "auto",
@@ -1216,5 +1227,6 @@
   "cursor.general.enableShadowWorkspace": true,
   "geminicodeassist.enableTelemetry": false,
   "geminicodeassist.updateChannel": "Default",
-  "geminicodeassist.inlineSuggestions.enableAuto": false
+  "geminicodeassist.inlineSuggestions.enableAuto": false,
+  "microsoft-authentication.implementation": "msal-no-broker"
 }
