@@ -687,7 +687,6 @@
   "git.autoRepositoryDetection": true,
   "git.untrackedChanges": "separate",
   "git.detectSubmodulesLimit": 20,
-  "git.showUnpublishedCommitsButton": "whenEmpty",
   "git.repositoryScanMaxDepth": -1,
   "git.repositoryScanIgnoredFolders": ["node_modules"],
   "git.openRepositoryInParentFolders": "prompt",
