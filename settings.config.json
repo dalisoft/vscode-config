@@ -65,7 +65,6 @@
   "biome.enabled": true,
   "biome.requireConfiguration": true,
   "biome.configurationPath": "biome.json",
-  "biome.rename": true,
   "biome.suggestInstallingGlobally": false,
   "biome.lsp.trace.server": "off",
   "dprint.verbose": false,
