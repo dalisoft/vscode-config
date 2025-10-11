@@ -832,7 +832,7 @@
   "scm.showOutgoingChanges": "auto",
   "scm.showChangesSummary": true,
   "scm.inputMaxLineCount": 8,
-  "scm.workingSets.enabled": false,
+  "scm.workingSets.enabled": true,
   "scm.workingSets.default": "current",
   "scm.graph.badges": "all",
   "scm.graph.pageOnScroll": false,
