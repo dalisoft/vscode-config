@@ -188,6 +188,7 @@
   "editor.suggest.snippetsPreventQuickSuggestions": false,
   "editor.suggest.selectionMode": "whenQuickSuggestion",
   "editor.suggest.preview": true,
+  "editor.wordBasedSuggestions": "matchingDocuments",
   "editor.wordBasedSuggestionsMode": "allDocuments",
   "editor.snippetSuggestions": "bottom",
   "editor.inlineSuggest.enabled": true,
@@ -336,7 +337,7 @@
   "extensions.ignoreRecommendations": true,
   "extensions.autoCheckUpdates": true,
   "extensions.verifySignature": true,
-  "extensions.autoUpdate": "onlyEnabledExtensions",
+  "extensions.autoUpdate": true,
   "telemetry.telemetryLevel": "off",
   "telemetry.feedback.enabled": false,
   "telemetry.editStats.enabled": false,
@@ -1224,5 +1225,7 @@
   "geminicodeassist.enableTelemetry": false,
   "geminicodeassist.updateChannel": "Default",
   "geminicodeassist.inlineSuggestions.enableAuto": false,
+  "amp.url": "https://ampcode.com/",
+  "amp.tab.enabled": false,
   "microsoft-authentication.implementation": "msal-no-broker"
 }
