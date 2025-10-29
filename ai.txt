@@ -12,6 +12,7 @@ kilocode.kilo-code
 openai.chatgpt
 rooveterinaryinc.roo-cline
 saoudrizwan.claude-dev
+sourcegraph.amp
 sourcegraph.cody-ai
 tabnine.tabnine-vscode
 visualstudioexptteam.intellicode-api-usage-examples
