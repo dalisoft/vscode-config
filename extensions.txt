@@ -128,7 +128,6 @@ timonwong.shellcheck
 typescriptteam.native-preview
 unifiedjs.vscode-mdx
 vadimcn.vscode-lldb
-visualstudioexptteam.vscodeintellicode
 vitest.explorer
 xadillax.viml
 yoavbls.pretty-ts-errors
