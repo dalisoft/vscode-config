@@ -77,6 +77,7 @@ ms-vscode-remote.remote-ssh-edit
 ms-vscode-remote.remote-wsl
 ms-vscode.azure-repos
 ms-vscode.cpptools
+ms-vscode.live-server
 ms-vscode.powershell
 ms-vscode.remote-explorer
 ms-vscode.remote-repositories
