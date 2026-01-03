@@ -1,4 +1,5 @@
 {
+  "$schema": "vscode://schemas/settings/user",
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
