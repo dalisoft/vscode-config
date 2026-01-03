@@ -258,7 +258,7 @@
   "editor.selectionClipboard": false,
   "editor.aiStats.enabled": true,
   "zenMode.restore": true,
-  "terminal.integrated.minimumContrastRatio": 4.5,
+  "terminal.integrated.minimumContrastRatio": 1,
   "terminal.integrated.smoothScrolling": false,
   "terminal.integrated.stickyScroll.enabled": true,
   "terminal.integrated.fontFamily": "JetBrains Mono, Fira Code, Monaco",
