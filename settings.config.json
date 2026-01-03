@@ -261,7 +261,7 @@
   "terminal.integrated.minimumContrastRatio": 4.5,
   "terminal.integrated.smoothScrolling": false,
   "terminal.integrated.stickyScroll.enabled": true,
-  "terminal.integrated.fontFamily": "JetBrains Mono, Fira Code, Monaco, monospace",
+  "terminal.integrated.fontFamily": "JetBrains Mono, Fira Code, Monaco",
   "terminal.integrated.fontWeight": "400",
   "terminal.integrated.fontWeightBold": "700",
   "terminal.integrated.fontLigatures.enabled": false,
