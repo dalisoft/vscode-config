@@ -1,6 +1,7 @@
 .DS_Store
 
 settings.json
+!.vscode/*
 
 Code
 Code - Insiders

@@ -1,0 +1,23 @@
+{
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "prettier.enable": true,
+  "prettier.requireConfig": false,
+  "json.schemas": [
+    {
+      "fileMatch": ["keybindings.json"],
+      "url": "vscode://schemas/keybindings"
+    },
+    {
+      "fileMatch": ["settings.config.json"],
+      "url": "vscode://schemas/settings/user"
+    }
+  ]
+}
