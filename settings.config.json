@@ -1248,6 +1248,7 @@
   "hediet.vscode-drawio.codeLinkActivated": true,
   "excalidraw.language": "en",
   "excalidraw.theme": "auto",
+  "microsoft-authentication.implementation": "msal-no-broker",
   "cursor.general.gitGraphIndexing": "enabled",
   "cursor.terminal.usePreviewBox": true,
   "cursor.general.enableShadowWorkspace": true,
@@ -1259,5 +1260,15 @@
   "amp.tab.enabled": false,
   "kilo-code.enableCodeActions": false,
   "roo-cline.enableCodeActions": false,
-  "microsoft-authentication.implementation": "msal-no-broker"
+  "claudeCode.selectedModel": "default",
+  "claudeCode.useTerminal": false,
+  "claudeCode.initialPermissionMode": "plan",
+  "claudeCode.preferredLocation": "sidebar",
+  "claudeCode.autosave": true,
+  "claudeCode.useCtrlEnterToSend": false,
+  "claudeCode.enableNewConversationShortcut": true,
+  "claudeCode.respectGitIgnore": true,
+  "claudeCode.environmentVariables": [],
+  "claudeCode.disableLoginPrompt": false,
+  "claudeCode.allowDangerouslySkipPermissions": false
 }
