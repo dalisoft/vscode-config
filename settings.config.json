@@ -313,6 +313,7 @@
   "terminal.integrated.suggest.enableExtensionCompletions": false,
   "terminal.integrated.suggest.showStatusBar": true,
   "terminal.integrated.suggest.selectionMode": "partial",
+  "terminal.integrated.initialHint": false,
   "terminal.integrated.experimentalImageSupport": true,
   "terminal.integrated.enableImages": true,
   "terminal.integrated.hideOnStartup": "whenEmpty",
