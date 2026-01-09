@@ -106,6 +106,7 @@
   "debug.flameGraph.realtimePollInterval": 1,
   "debug.flameGraph.realtimeViewDuration": 30,
   "debug.flameGraph.realtimeEasing": true,
+  "debug.breakpointsView.presentation": "tree",
   "debugpy.showPythonInlineValues": true,
   "outline.collapseItems": "alwaysCollapse",
   "vscode-edge-devtools.mirrorEdits": true,
@@ -337,6 +338,7 @@
   "testing.automaticallyOpenTestResults": "neverOpen",
   "timeline.showView": false,
   "breadcrumbs.enabled": false,
+  "breadcrumbs.symbolPathSeparator": ".",
   "extensions.ignoreRecommendations": true,
   "extensions.autoCheckUpdates": true,
   "extensions.verifySignature": true,
@@ -750,6 +752,8 @@
   "git.blame.editorDecoration.template": "${subject}, ${authorName} (${authorDateAgo})",
   "git.blame.statusBarItem.enabled": true,
   "git.blame.statusBarItem.template": "${hashShort}, ${authorEmail} (${authorDateAgo})",
+  "git.blame.ignoreWhitespace": false,
+  "git.blame.editorDecoration.disableHover": true,
   "git.discardUntrackedChangesToTrash": true,
   "git.diagnosticsCommitHook.Enabled": true,
   "git.diagnosticsCommitHook.Sources": {
@@ -1093,10 +1097,10 @@
   "chat.fontFamily": "default",
   "chat.fontSize": 14,
   "chat.agent.enabled": false,
+  "chat.useAgentSkills": true,
   "chat.agent.thinkingStyle": "collapsedPreview",
   "chat.agent.thinking.collapsedTools": "withThinking",
   "chat.customAgentInSubagent.enabled": true,
-  "chat.useClaudeSkills": true,
   "chat.commandCenter.enabled": false,
   "chat.mcp.discovery.enabled": {
     "claude-desktop": false,
@@ -1122,13 +1126,11 @@
   "chat.tools.global.autoApprove": false,
   "chat.tools.edits.autoApprove": {},
   "chat.tools.terminal.enableAutoApprove": false,
-  "chat.tools.terminal.shellIntegrationTimeout": 10000,
   "chat.tools.terminal.autoApprove": {},
   "chat.tools.terminal.autoReplyToPrompts": false,
-  "chat.tools.eligibleForAutoApproval": {
-    "fetch": false,
-    "runTests": false
-  },
+  "chat.tools.terminal.autoApproveWorkspaceNpmScripts": true,
+  "chat.tools.terminal.preventShellHistory": true,
+  "chat.tools.eligibleForAutoApproval": {},
   "chat.promptFilesLocations": {
     ".github/prompts": true
   },
