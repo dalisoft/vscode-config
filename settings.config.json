@@ -575,7 +575,7 @@
   "typescript.experimental.updateImportsOnPaste": true,
   "typescript.experimental.expandableHover": true,
   "typescript.tsserver.useSyntaxServer": "never",
-  "typescript.experimental.useTsgo": false,
+  "typescript.experimental.useTsgo": true,
   "typescript.native-preview.trace.server": "off",
   "typescript.native-preview.goMemLimit": "4GiB",
   "typescript.tsserver.experimental.enableProjectDiagnostics": false,
