@@ -737,7 +737,7 @@
     "publish": true,
     "sync": true
   },
-  "git.useEditorAsCommitInput": true,
+  "git.useEditorAsCommitInput": false,
   "git.verboseCommit": true,
   "git.terminalGitEditor": true,
   "git.branchProtection": ["master", "release"],
