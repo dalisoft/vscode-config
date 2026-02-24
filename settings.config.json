@@ -938,6 +938,7 @@
   "rust-analyzer.semanticHighlighting.punctuation.enable": true,
   "rust-analyzer.semanticHighlighting.punctuation.separate.macro.bang": true,
   "rust-analyzer.semanticHighlighting.punctuation.specialization.enable": true,
+  "zig.zls.enabled": "on",
   "lldb.suppressUpdateNotifications": true,
   "containers.showRemoteWorkspaceWarning": true,
   "containers.images.label": "Tag",
