@@ -1311,5 +1311,13 @@
   "claudeCode.respectGitIgnore": true,
   "claudeCode.environmentVariables": [],
   "claudeCode.disableLoginPrompt": false,
-  "claudeCode.allowDangerouslySkipPermissions": false
+  "claudeCode.allowDangerouslySkipPermissions": false,
+  "json.schemaDownload.trustedDomains": {
+    "https://schemastore.azurewebsites.net/": true,
+    "https://raw.githubusercontent.com/": false,
+    "https://www.schemastore.org/": true,
+    "https://json.schemastore.org/": true,
+    "https://json-schema.org/": true,
+    "https://biomejs.dev": true
+  }
 }
