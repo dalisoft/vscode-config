@@ -132,3 +132,4 @@ vadimcn.vscode-lldb
 vitest.explorer
 xadillax.viml
 yoavbls.pretty-ts-errors
+ziglang.vscode-zig
