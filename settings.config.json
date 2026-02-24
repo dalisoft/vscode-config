@@ -328,7 +328,7 @@
     "vscode-insiders"
   ],
   "terminal.integrated.allowInUntrustedWorkspace": true,
-  "terminal.integrated.enableKittyKeyboardProtocol": true,
+  "terminal.integrated.enableKittyKeyboardProtocol": false,
   "terminal.integrated.enableWin32InputMode": true,
   "terminal.external.osxExec": "Terminal.app",
   "terminal.external.linuxExec": "xterm",
