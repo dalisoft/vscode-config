@@ -284,6 +284,7 @@
   "terminal.integrated.experimentalRefreshOnResume": false,
   "terminal.integrated.experimentalUseTitleEvent": false,
   "terminal.integrated.experimentalLinkProvider": false,
+  "terminal.integrated.experimental.aiProfileGrouping": false,
   "terminal.integrated.enableMultiLinePasteWarning": "auto",
   "terminal.integrated.enablePersistentSessions": false,
   "terminal.integrated.enableVisualBell": true,
@@ -1136,6 +1137,7 @@
   "chat.agent.thinkingStyle": "collapsedPreview",
   "chat.agent.thinking.collapsedTools": "withThinking",
   "chat.agent.thinking.terminalTools": true,
+  "chat.autopilot.enabled": false,
   "chat.useAgentSkills": true,
   "chat.agentSkillsLocations": {
     ".github/skills": true,
@@ -1144,6 +1146,7 @@
     "~/.agents/skills": true
   },
   "chat.customAgentInSubagent.enabled": true,
+  "chat.useCustomAgentHooks": true,
   "chat.agentsControl.enabled": true,
   "chat.agentsControl.clickBehavior": "default",
   "chat.exploreAgent.defaultModel": "Auto (copilot)",
