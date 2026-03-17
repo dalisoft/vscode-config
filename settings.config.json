@@ -132,6 +132,7 @@
   "editor.guides.highlightActiveIndentation": true,
   "editor.unicodeHighlight.invisibleCharacters": false,
   "editor.unicodeHighlight.includeStrings": true,
+  "editor.unicodeHighlight.nonBasicASCII": false,
   "editor.overtypeOnPaste": false,
   "editor.overtypeCursorStyle": "line",
   "editor.cursorBlinking": "phase",
@@ -1218,6 +1219,7 @@
     "github/awesome-copilot"
   ],
   "chat.plugins.paths": {},
+  "chat.pluginLocations": {},
   "chat.tips.enabled": false,
   "inlineChat.mode": "preview",
   "inlineChat.experimental.textButtons": true,
