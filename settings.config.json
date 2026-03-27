@@ -246,6 +246,7 @@
   "editor.find.history": "workspace",
   "editor.find.replaceHistory": "workspace",
   "editor.find.findOnType": true,
+  "editor.find.closeOnResult": false,
   "editor.experimental.useCustomCodeActionMenu": true,
   "editor.experimental.asyncTokenization": true,
   "editor.experimental.asyncTokenizationLogging": false,
