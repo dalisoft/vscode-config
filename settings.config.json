@@ -1189,11 +1189,9 @@
   "chat.tools.autoExpandFailures": true,
   "chat.tools.terminal.enableAutoApprove": false,
   "chat.tools.terminal.sandbox.enabled": true,
-  "chat.tools.terminal.sandbox.network": {
-    "allowedDomains": [],
-    "deniedDomains": [],
-    "allowTrustedDomains": false
-  },
+  "chat.tools.terminal.sandbox.network.allowedDomains": [],
+  "chat.tools.terminal.sandbox.network.deniedDomains": [],
+  "chat.tools.terminal.sandbox.network.allowTrustedDomains": false,
   "chat.tools.terminal.autoApprove": {},
   "chat.tools.terminal.autoReplyToPrompts": false,
   "chat.tools.terminal.autoApproveWorkspaceNpmScripts": true,
