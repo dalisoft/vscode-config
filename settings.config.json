@@ -1134,6 +1134,7 @@
   "github.copilot.chat.anthropic.toolSearchTool.mode": "server",
   "github.copilot.chat.anthropic.contextEditing.enabled": true,
   "github.copilot.chat.anthropic.thinking.forceExtendedThinking": true,
+  "github.copilot.chat.claudeAgent.enabled": true,
   "github.copilot.chat.agentDebugLog.enabled": true,
   "github.copilot.chat.agentDebugLog.fileLogging.enabled": true,
   "github.copilot.chat.agentDebugLog.fileLogging.flushIntervalMs": 4000,
