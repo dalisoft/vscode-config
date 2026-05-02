@@ -1220,7 +1220,6 @@
     "github/copilot-plugins",
     "github/awesome-copilot"
   ],
-  "chat.plugins.paths": {},
   "chat.pluginLocations": {},
   "chat.tips.enabled": false,
   "chat.useCustomizationsInParentRepositories": true,
