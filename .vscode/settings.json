@@ -10,6 +10,7 @@
   },
   "prettier.enable": true,
   "prettier.requireConfig": false,
+  "chat.disableAIFeatures": false,
   "json.schemas": [
     {
       "fileMatch": ["keybindings.json"],
