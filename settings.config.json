@@ -437,6 +437,9 @@
   "workbench.editorAssociations": {
     "*.ipynb": "jupyter-notebook"
   },
+  "workbench.diffEditorAssociations": {
+    "*.md": "vscode.markdown.preview.editor"
+  },
   "workbench.cloudChanges.continueOn": "prompt",
   "workbench.cloudChanges.autoResume": "onReload",
   "workbench.activityBar.location": "default",
@@ -1032,6 +1035,8 @@
   ],
   "yaml.customTags": ["!encrypted/pkcs1-oaep scalar", "!vault scalar"],
   "markdown.preview.breaks": true,
+  "markdown.preview.doubleClickToSwitchToEditor": false,
+  "markdown.preview.markEditorSelection": true,
   "markdown.validate.enabled": true,
   "markdown.validate.fileLinks.enabled": "error",
   "markdown.validate.fragmentLinks.enabled": "error",
@@ -1195,6 +1200,8 @@
   "chat.tools.terminal.simpleCollapsible": true,
   "chat.tools.terminal.blockDetectedFileWrites": "outsideWorkspace",
   "chat.tools.eligibleForAutoApproval": {},
+  "chat.tools.compressOutput.enabled": true,
+  "chat.tools.riskAssessment.enabled": true,
   "chat.subagents.allowInvocationsFromSubagents": false,
   "chat.promptFilesLocations": {
     ".github/prompts": true
@@ -1228,6 +1235,7 @@
   "chat.pluginLocations": {},
   "chat.tips.enabled": false,
   "chat.useCustomizationsInParentRepositories": true,
+  "chat.planReview.inlineEditor.enabled": true,
   "inlineChat.mode": "preview",
   "inlineChat.experimental.textButtons": true,
   "inlineChat.accessibleDiffView": "auto",
