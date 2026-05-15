@@ -848,7 +848,7 @@
     "modified": true
   },
   "scm.diffDecorationsGutterAction": "diff",
-  "scm.diffDecorationsIgnoreTrimWhitespace": "false",
+  "scm.diffDecorationsIgnoreTrimWhitespace": "inherit",
   "scm.showActionButton": true,
   "scm.countBadge": "all",
   "scm.defaultViewSortKey": "name",
