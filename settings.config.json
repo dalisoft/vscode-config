@@ -438,7 +438,7 @@
     "*.ipynb": "jupyter-notebook"
   },
   "workbench.diffEditorAssociations": {
-    "*.md": "vscode.markdown.preview.editor"
+    // "*.md": "vscode.markdown.preview.editor",
   },
   "workbench.cloudChanges.continueOn": "prompt",
   "workbench.cloudChanges.autoResume": "onReload",
