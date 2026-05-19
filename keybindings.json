@@ -16,5 +16,15 @@
   {
     "key": "alt+cmd+f",
     "command": "-editor.action.startFindReplaceAction"
+  },
+  {
+    "key": "cmd+s",
+    "command": "-geminicodeassist.saveKeysClicked",
+    "when": "inGeminiDiffView || isInDiffEditor"
+  },
+  {
+    "key": "cmd+s",
+    "command": "-gemini.diff.accept",
+    "when": "gemini.diff.isVisible"
   }
 ]
