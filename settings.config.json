@@ -1318,8 +1318,8 @@
     "**/dist/**",
     "**/Code/User/**"
   ],
-  "todo-tree.general.statusBar": "total",
-  "todo-tree.general.automaticGitRefreshInterval": 0,
+  "better-todo-tree.general.statusBar": "total",
+  "better-todo-tree.general.automaticGitRefreshInterval": 0,
   "vscodeGoogleTranslate.preferredLanguage": "German",
   "vscodeGoogleTranslate.HoverTranslations": false,
   "i18n-ally.dirStructure": "auto",
