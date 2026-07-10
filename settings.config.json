@@ -1375,6 +1375,8 @@
   "amp.tab.enabled": false,
   "kilo-code.enableCodeActions": false,
   "kilo-code.debug": false,
+  "kilo-code.new.agentWorkStyle": "skipped",
+  "kilo-code.new.showTaskTimeline": true,
   "roo-cline.enableCodeActions": false,
   "claudeCode.selectedModel": "opusplan",
   "claudeCode.useTerminal": false,
