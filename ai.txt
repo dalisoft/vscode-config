@@ -1,6 +1,7 @@
 anthropic.claude-code
 augment.vscode-augment
 codeium.codeium
+commandcode.commandcode-vscode
 continue.continue
 dorianmassoulier.repomix-runner
 factory.factory-vscode-extension
