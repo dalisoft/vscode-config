@@ -27,6 +27,7 @@ eamodio.gitlens
 editorconfig.editorconfig
 emilast.logfilehighlighter
 esbenp.prettier-vscode
+fanaticpythoner.better-todo-tree
 figma.figma-vscode-extension
 formulahendry.code-runner
 formulahendry.platformio
@@ -37,7 +38,6 @@ github.vscode-pull-request-github
 goessner.mdmath
 golang.go
 grapecity.gc-excelviewer
-gruntfuggly.todo-tree
 hashicorp.terraform
 hediet.vscode-drawio
 htmlhint.vscode-htmlhint
