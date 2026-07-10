@@ -458,6 +458,8 @@
   "workbench.browser.showInTitleBar": "whenOpen",
   "workbench.browser.dataStorage": "global",
   "workbench.browser.maxHistoryEntries": 200,
+  "workbench.browser.searchEngine": "google",
+  "workbench.browser.enableRemoteProxy": true,
   "workbench.browser.sendElementsToChat.attachImages": true,
   "workbench.browser.experimentalUserTools.enabled": true,
   "issueReporter.wizard.enabled": true,
