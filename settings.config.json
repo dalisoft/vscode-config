@@ -376,6 +376,7 @@
   "workbench.enableExperiments": false,
   "workbench.experimental.useCustomHover": true,
   "workbench.experimental.enableNewProfilesUI": true,
+  "workbench.experimental.modernUI": false,
   "workbench.useCustomHover": true,
   "editor.dragAndDrop": true,
   "workbench.layoutControl.enabled": true,
@@ -1177,6 +1178,7 @@
     "~/.agents/skills": true
   },
   "chat.customAgentInSubagent.enabled": true,
+  "chat.customizations.promptMigration.enabled": true,
   "chat.useCustomAgentHooks": true,
   "chat.agentsControl.enabled": "compact",
   "chat.agentsControl.clickBehavior": "default",
@@ -1186,6 +1188,7 @@
   "chat.agentHost.byokModels.enabled": true,
   "chat.byokUtilityModelDefault": "mainAgent",
   "chat.exploreAgent.defaultModel": "",
+  "chat.agents.claude.preferAgentHost": true,
   "chat.commandCenter.enabled": false,
   "chat.utilityModel": "",
   "chat.utilitySmallModel": "",
