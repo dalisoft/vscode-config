@@ -335,6 +335,8 @@
   "terminal.integrated.allowInUntrustedWorkspace": true,
   "terminal.integrated.enableKittyKeyboardProtocol": true,
   "terminal.integrated.enableWin32InputMode": true,
+  "terminal.integrated.resizeDimensionsOverlay.enabled": true,
+  "terminal.integrated.accessibleViewPreserveCursorPosition": true,
   "terminal.external.osxExec": "Alacritty.app",
   "terminal.external.linuxExec": "xterm",
   "terminal.external.windowsExec": "C:\\Program Files\\Git\\bin\\bash.exe",
