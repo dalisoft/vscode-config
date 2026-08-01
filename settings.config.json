@@ -425,6 +425,7 @@
   "workbench.editor.alwaysShowEditorActions": true,
   "workbench.editor.swipeToNavigate": false,
   "workbench.editor.useModal": "off",
+  "workbench.editor.markdownDefaultEditorInAgentsWindow": true,
   "workbench.reduceTransparency": "on",
   "workbench.localHistory.enabled": false,
   "workbench.localHistory.maxFileSize": 256,
