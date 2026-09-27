@@ -13,3 +13,14 @@ History
 syncLocalSettings.json
 sync
 .syncthing*
+
+.agents
+AGENTS.md
+CLAUDE.md
+
+zed
+sublime
+vim
+nvim
+tools
+EDITOR_*.md
