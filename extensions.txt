@@ -111,6 +111,7 @@ remisa.shellman
 ricard.postcss
 rogalmic.bash-debug
 rust-lang.rust-analyzer
+rvben.rumdl
 semanticdiff.semanticdiff
 shopify.ruby-extensions-pack
 shopify.ruby-lsp
@@ -126,7 +127,6 @@ tamasfe.even-better-toml
 tekumara.typos-vscode
 timgjones.hlsltools
 timonwong.shellcheck
-typescriptteam.native-preview
 unifiedjs.vscode-mdx
 vadimcn.vscode-lldb
 vitest.explorer
