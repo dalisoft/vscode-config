@@ -1289,6 +1289,7 @@
   "sessions.chat.localAgent.enabled": true,
   "sessions.changes.openSingleFileDiff": true,
   "sessions.list.showEmptyDefaultGroups": true,
+  "sessions.chatTimeline.display": "ruler",
   "inlineChat.mode": "preview",
   "inlineChat.experimental.textButtons": true,
   "inlineChat.accessibleDiffView": "auto",
