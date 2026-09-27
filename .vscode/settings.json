@@ -11,6 +11,8 @@
   "prettier.enable": true,
   "prettier.requireConfig": false,
   "chat.disableAIFeatures": false,
+  "github.copilot.chat.localIndex.enabled": true,
+  "chat.sessionSync.enabled": true,
   "json.schemas": [
     {
       "fileMatch": ["keybindings.json"],
