@@ -8,7 +8,6 @@ factory.factory-vscode-extension
 github.copilot
 github.copilot-chat
 kilocode.kilo-code
-rooveterinaryinc.roo-cline
 saoudrizwan.claude-dev
 sourcegraph.cody-ai
 tabnine.tabnine-vscode
