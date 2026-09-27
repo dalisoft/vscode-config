@@ -1308,6 +1308,7 @@
   "sessions.chatTimeline.display": "ruler",
   "sessions.markAsDoneConfetti": true,
   "sessions.showApplicationBadge": true,
+  "sessions.showChatTabs": true,
   "inlineChat.mode": "preview",
   "inlineChat.experimental.textButtons": true,
   "inlineChat.accessibleDiffView": "auto",
