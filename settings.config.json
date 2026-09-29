@@ -445,7 +445,7 @@
   "workbench.settings.showAISearchToggle": true,
   "workbench.iconTheme": "material-icon-theme",
   "workbench.colorTheme": "Quiet Light",
-  "workbench.preferredLightColorTheme": "Spinel",
+  "workbench.preferredLightColorTheme": "Quiet Light",
   "workbench.preferredDarkColorTheme": "Monokai",
   "workbench.editorAssociations": {
     "*.ipynb": "jupyter-notebook"
