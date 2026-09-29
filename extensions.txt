@@ -116,7 +116,6 @@ semanticdiff.semanticdiff
 shopify.ruby-extensions-pack
 shopify.ruby-lsp
 sidneys1.gitconfig
-sigoden.vscode-jsona
 sorbet.sorbet-vscode-extension
 streetsidesoftware.code-spell-checker
 streetsidesoftware.code-spell-checker-russian
