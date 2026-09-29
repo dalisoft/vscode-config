@@ -320,7 +320,7 @@
   "terminal.integrated.suggest.selectionMode": "partial",
   "terminal.integrated.initialHint": false,
   "terminal.integrated.experimentalImageSupport": true,
-  "terminal.integrated.enableImages": false,
+  "terminal.integrated.enableImages": true,
   "terminal.integrated.hideOnStartup": "whenEmpty",
   "terminal.integrated.experimentalInlineChat": false,
   "terminal.integrated.middleClickBehavior": "paste",
