@@ -442,7 +442,7 @@
   "workbench.settings.useWeightedKeySearch": true,
   "workbench.settings.showAISearchToggle": true,
   "workbench.iconTheme": "material-icon-theme",
-  "workbench.colorTheme": "Spinel",
+  "workbench.colorTheme": "Quiet Light",
   "workbench.preferredLightColorTheme": "Quiet Light",
   "workbench.preferredDarkColorTheme": "Monokai",
   "workbench.editorAssociations": {
