@@ -271,6 +271,7 @@
   "terminal.integrated.fontWeightBold": "700",
   "terminal.integrated.fontLigatures.enabled": false,
   "terminal.integrated.fontSize": 14,
+  "terminal.integrated.fontRendering": "grayscale",
   "terminal.integrated.lineHeight": 1,
   "terminal.integrated.gpuAcceleration": "on",
   "terminal.integrated.customGlyphs": true,
@@ -383,6 +384,7 @@
   "workbench.experimental.useCustomHover": true,
   "workbench.experimental.enableNewProfilesUI": true,
   "workbench.experimental.modernUI": false,
+  "workbench.experimental.modernUIUppercaseViewHeaders": true,
   "workbench.useCustomHover": true,
   "editor.dragAndDrop": true,
   "workbench.layoutControl.enabled": true,
@@ -442,7 +444,7 @@
   "workbench.settings.showAISearchToggle": true,
   "workbench.iconTheme": "material-icon-theme",
   "workbench.colorTheme": "Quiet Light",
-  "workbench.preferredLightColorTheme": "Quiet Light",
+  "workbench.preferredLightColorTheme": "Spinel",
   "workbench.preferredDarkColorTheme": "Monokai",
   "workbench.editorAssociations": {
     "*.ipynb": "jupyter-notebook"
