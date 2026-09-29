@@ -444,7 +444,7 @@
   "workbench.settings.useWeightedKeySearch": true,
   "workbench.settings.showAISearchToggle": true,
   "workbench.iconTheme": "material-icon-theme",
-  "workbench.colorTheme": "Quiet Light",
+  "workbench.colorTheme": "Spinel",
   "workbench.preferredLightColorTheme": "Quiet Light",
   "workbench.preferredDarkColorTheme": "Monokai",
   "workbench.editorAssociations": {
@@ -572,7 +572,7 @@
   "window.restoreFullscreen": true,
   "window.restoreWindows": "all",
   "window.newWindowDimensions": "offset",
-  "window.autoDetectColorScheme": true,
+  "window.autoDetectColorScheme": false,
   "window.confirmBeforeClose": "keyboardOnly",
   "window.confirmSaveUntitledWorkspace": true,
   "window.commandCenter": true,
