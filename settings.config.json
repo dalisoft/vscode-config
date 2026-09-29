@@ -385,6 +385,7 @@
   "workbench.experimental.enableNewProfilesUI": true,
   "workbench.experimental.modernUI": false,
   "workbench.experimental.modernUIUppercaseViewHeaders": true,
+  "workbench.experimental.modernUIEditorTabStyle": "connected",
   "workbench.useCustomHover": true,
   "editor.dragAndDrop": true,
   "workbench.layoutControl.enabled": true,
