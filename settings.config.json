@@ -250,7 +250,7 @@
   "editor.experimental.asyncTokenization": true,
   "editor.experimental.asyncTokenizationLogging": false,
   "editor.experimental.asyncTokenizationVerification": false,
-  "editor.experimentalGpuAcceleration": "on",
+  "editor.experimentalGpuAcceleration": "off",
   "editor.experimentalWhitespaceRendering": "font",
   "editor.experimentalEditContextEnabled": true,
   "editor.showFoldingControls": "always",
