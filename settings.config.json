@@ -20,9 +20,6 @@
   "[jsonc]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "[jsona]": {
-    "editor.defaultFormatter": "sigoden.vscode-jsona"
-  },
   "[yaml]": {
     "editor.defaultFormatter": "redhat.vscode-yaml"
   },
