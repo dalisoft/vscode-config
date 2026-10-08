@@ -1199,7 +1199,7 @@
   "chat.editor.wordWrap": "on",
   "chat.fontFamily": "default",
   "chat.fontSize": 14,
-  "chat.agent.enabled": true,
+  "chat.agent.enabled": false,
   "chat.verbose": true,
   "chat.agent.thinkingStyle": "collapsedPreview",
   "chat.agent.thinking.collapsedTools": "withThinking",
@@ -1255,7 +1255,7 @@
     "document": "resourceLangId == markdown",
     "debug": true
   },
-  "chat.disableAIFeatures": false,
+  "chat.disableAIFeatures": true,
   "chat.useAgentsMdFile": true,
   "chat.useNestedAgentsMdFiles": true,
   "chat.renderRelatedFiles": true,
