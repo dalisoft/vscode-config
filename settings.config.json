@@ -1,24 +1,24 @@
 {
   "[javascript]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "biomejs.biome"
   },
   "[javascriptreact]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "biomejs.biome"
   },
   "[typescript]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "biomejs.biome"
   },
   "[typescriptreact]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "biomejs.biome"
   },
   "[markdown]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "rvben.rumdl"
   },
   "[json]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "biomejs.biome"
   },
   "[jsonc]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "biomejs.biome"
   },
   "[yaml]": {
     "editor.defaultFormatter": "redhat.vscode-yaml"
@@ -453,7 +453,7 @@
     "*.ipynb": "jupyter-notebook"
   },
   "workbench.diffEditorAssociations": {
-    // "*.md": "vscode.markdown.preview.editor",
+    "*.md": "vscode.markdown.preview.editor"
   },
   "workbench.cloudChanges.continueOn": "prompt",
   "workbench.cloudChanges.autoResume": "onReload",
@@ -1830,7 +1830,10 @@
   "chat.editRequests": "inline",
   "chat.notifyWindowOnConfirmation": "windowNotFocused",
   "chat.notifyWindowOnResponseReceived": "windowNotFocused",
-  "chat.checkpoints.enabled": true,
+  "chat.checkpoints.enabled": false,
+  "chat.checkpoints.showFileChanges": true,
+  "chat.restoreLastPanelSession": true,
+  "chat.viewProgressBadge.enabled": true,
   "chat.todoListTool.enabled": true,
   "chat.math.enabled": true,
   "chat.agentSessionsViewLocation": "view",
