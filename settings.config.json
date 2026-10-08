@@ -450,9 +450,7 @@
   "workbench.editorAssociations": {
     "*.ipynb": "jupyter-notebook"
   },
-  "workbench.diffEditorAssociations": {
-    "*.md": "vscode.markdown.preview.editor"
-  },
+  "workbench.diffEditorAssociations": {},
   "workbench.cloudChanges.continueOn": "prompt",
   "workbench.cloudChanges.autoResume": "onReload",
   "workbench.activityBar.location": "default",
@@ -638,11 +636,6 @@
   "css.validate": false,
   "less.validate": false,
   "scss.validate": false,
-  "eslint.alwaysShowStatus": true,
-  "eslint.useFlatConfig": true,
-  "eslint.useESLintClass": true,
-  "eslint.lintTask.enable": true,
-  "eslint.codeActionsOnSave.mode": "problems",
   "stylelint.enable": true,
   "oxc.enable": true,
   "oxc.requireConfig": true,

@@ -19,7 +19,6 @@ cweijan.dbclient-jdbc
 cweijan.vscode-database-client2
 damms005.devdb
 davidanson.vscode-markdownlint
-dbaeumer.vscode-eslint
 denoland.vscode-deno
 docker.docker
 dprint.dprint
