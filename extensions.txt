@@ -23,7 +23,6 @@ dbaeumer.vscode-eslint
 denoland.vscode-deno
 docker.docker
 dprint.dprint
-eamodio.gitlens
 editorconfig.editorconfig
 emilast.logfilehighlighter
 esbenp.prettier-vscode
