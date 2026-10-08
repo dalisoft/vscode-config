@@ -24,3 +24,7 @@ vim
 nvim
 tools
 EDITOR_*.md
+
+package.json
+node_modules
+bun.lock

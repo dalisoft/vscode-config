@@ -1,17 +1,18 @@
 {
   "[json]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "biomejs.biome"
   },
   "[jsonc]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "biomejs.biome"
   },
   "[markdown]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "rvben.rumdl"
   },
   "prettier.enable": true,
   "prettier.requireConfig": false,
   "chat.disableAIFeatures": false,
   "github.copilot.chat.localIndex.enabled": true,
+  "biome.enabled": true,
   "chat.sessionSync.enabled": true,
   "json.schemas": [
     {
