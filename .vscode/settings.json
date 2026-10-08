@@ -8,12 +8,12 @@
   "[markdown]": {
     "editor.defaultFormatter": "rvben.rumdl"
   },
-  "prettier.enable": true,
-  "prettier.requireConfig": false,
-  "chat.disableAIFeatures": false,
-  "github.copilot.chat.localIndex.enabled": true,
   "biome.enabled": true,
+  "chat.disableAIFeatures": true,
   "chat.sessionSync.enabled": true,
+  "github.copilot.chat.localIndex.enabled": true,
+  "js/ts.format.enabled": false,
+  "js/ts.validate.enabled": false,
   "json.schemas": [
     {
       "fileMatch": ["keybindings.json"],
