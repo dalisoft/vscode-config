@@ -25,7 +25,6 @@ docker.docker
 dprint.dprint
 editorconfig.editorconfig
 emilast.logfilehighlighter
-esbenp.prettier-vscode
 fanaticpythoner.better-todo-tree
 figma.figma-vscode-extension
 formulahendry.code-runner

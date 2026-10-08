@@ -57,8 +57,6 @@
     "editor.defaultFormatter": "redhat.vscode-yaml"
   },
   "application.experimental.rendererProfiling": false,
-  "prettier.enable": true,
-  "prettier.requireConfig": true,
   "rumdl.fixOnSave": true,
   "rumdl.lint.run": "onSave",
   "biome.enabled": true,
