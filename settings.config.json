@@ -1061,7 +1061,6 @@
   "notebook.diff.experimental.toggleInline": true,
   "java.implementationsCodeLens.enabled": true,
   "java.project.importHint": true,
-  "cSpell.enabled": false,
   "stylelint.packageManager": "yarn",
   "stylelint.validate": [
     "css",
