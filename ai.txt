@@ -1,6 +1,5 @@
 anthropic.claude-code
 augment.vscode-augment
-commandcode.commandcode-vscode
 dorianmassoulier.repomix-runner
 factory.factory-vscode-extension
 github.copilot
