@@ -19,13 +19,11 @@ cweijan.dbclient-jdbc
 cweijan.vscode-database-client2
 damms005.devdb
 davidanson.vscode-markdownlint
-dbaeumer.vscode-eslint
 denoland.vscode-deno
 docker.docker
 dprint.dprint
 editorconfig.editorconfig
 emilast.logfilehighlighter
-esbenp.prettier-vscode
 fanaticpythoner.better-todo-tree
 figma.figma-vscode-extension
 formulahendry.code-runner
@@ -116,8 +114,6 @@ shopify.ruby-extensions-pack
 shopify.ruby-lsp
 sidneys1.gitconfig
 sorbet.sorbet-vscode-extension
-streetsidesoftware.code-spell-checker
-streetsidesoftware.code-spell-checker-russian
 styled-components.vscode-styled-components
 stylelint.vscode-stylelint
 svelte.svelte-vscode

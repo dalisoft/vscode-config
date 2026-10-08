@@ -1,15 +1,11 @@
 anthropic.claude-code
 augment.vscode-augment
-codeium.codeium
-commandcode.commandcode-vscode
-continue.continue
 dorianmassoulier.repomix-runner
 factory.factory-vscode-extension
 github.copilot
 github.copilot-chat
 kilocode.kilo-code
 saoudrizwan.claude-dev
-sourcegraph.cody-ai
 tabnine.tabnine-vscode
 visualstudioexptteam.intellicode-api-usage-examples
 visualstudioexptteam.vscodeintellicode-completions

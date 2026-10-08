@@ -29,7 +29,6 @@ Disable workspace specific extensions or RAM-hungry extensions
 
 | Name                       | Global | Workspace | High resource usage  |
 | -------------------------- | ------ | --------- | -------------------- |
-| CodeSpell + All langs      | -      | -         | CPU/RAM              |
 | Deno                       | -      | +         | RAM                  |
 | i18n ally                  | -      | -         | RAM                  |
 | IntelliCode API Usage      | -      | -         | CPU/RAM              |
@@ -53,12 +52,6 @@ Disable workspace specific extensions or RAM-hungry extensions
 | quick-lint-js              | -      | +         | CPU                  |
 | Thunder Client             | -      | +         |                      |
 | Shellcheck                 | -      | -         | **Bash IDE** or this |
-| Cody AI                    | -      | -         | CPU/RAM              |
-| Tabnine AI                 | -      | -         | CPU/RAM              |
-| Codeium AI                 | -      | -         | CPU/RAM              |
-| Continue AI                | -      | +         | CPU?                 |
-| Cline AI                   | -      | +         |                      |
-| GitHub Copilot             | -      | +         |                      |
 
 ## Post-installation
 
