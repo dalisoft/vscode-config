@@ -1454,8 +1454,6 @@
   "geminicodeassist.inlineSuggestions.enableAuto": false,
   "geminicodeassist.project": "try-gemini-484109",
   "geminicodeassist.enable": false,
-  "amp.url": "https://ampcode.com/",
-  "amp.tab.enabled": false,
   "kilo-code.enableCodeActions": false,
   "kilo-code.debug": false,
   "kilo-code.new.agentWorkStyle": "skipped",
