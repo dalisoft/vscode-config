@@ -69,7 +69,6 @@ ms-vscode-remote.remote-wsl
 ms-vscode.azure-repos
 ms-vscode.cpptools
 ms-vscode.live-server
-ms-vscode.powershell
 ms-vscode.remote-explorer
 ms-vscode.remote-repositories
 ms-vscode.vscode-js-profile-flame
@@ -115,5 +114,4 @@ unifiedjs.vscode-mdx
 vadimcn.vscode-lldb
 vitest.explorer
 xadillax.viml
-yoavbls.pretty-ts-errors
 ziglang.vscode-zig
