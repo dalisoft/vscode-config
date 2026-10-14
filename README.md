@@ -36,8 +36,6 @@ Disable workspace specific extensions or RAM-hungry extensions
 | Bash IDE                   | -      | +         | CPU/RAM              |
 | biome                      | -      | +         | CPU?                 |
 | CodeLLDB                   | -      | +         | CPU/RAM              |
-| dprint                     | -      | +         | CPU?                 |
-| Figma                      | -      | +         | CPU/RAM              |
 | GH Actions                 | -      | +         | CPU/RAM              |
 | GH PR and Issues           | -      | +         | CPU/RAM              |
 | HTMLHint                   | -      | +         | RAM                  |
