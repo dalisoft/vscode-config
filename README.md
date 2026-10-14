@@ -34,21 +34,14 @@ Disable workspace specific extensions or RAM-hungry extensions
 | IntelliCode API Usage      | -      | -         | CPU/RAM              |
 | Stylelint                  | -      | +         | CPU/RAM              |
 | `vscode-styled-components` | -      | +         | CPU/RAM              |
-| Pretty TS Errors           | -      | -         | CPU/RAM              |
 | Bash IDE                   | -      | +         | CPU/RAM              |
 | biome                      | -      | +         | CPU?                 |
 | CodeLLDB                   | -      | +         | CPU/RAM              |
 | dprint                     | -      | +         | CPU?                 |
-| ESLint                     | -      | +         | CPU/RAM              |
 | Figma                      | -      | +         | CPU/RAM              |
 | GH Actions                 | -      | +         | CPU/RAM              |
 | GH PR and Issues           | -      | +         | CPU/RAM              |
 | HTMLHint                   | -      | +         | RAM                  |
-| PowerShell                 | -      | +         |                      |
-| SQLTools                   | -      | +         | RAM                  |
-| Dev DB                     | -      | +         | RAM                  |
-| Database Client            | -      | +         | RAM                  |
-| MongoDB                    | -      | +         | RAM                  |
 | quick-lint-js              | -      | +         | CPU                  |
 | Thunder Client             | -      | +         |                      |
 | Shellcheck                 | -      | -         | **Bash IDE** or this |
