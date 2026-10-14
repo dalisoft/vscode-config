@@ -29,7 +29,6 @@ Disable workspace specific extensions or RAM-hungry extensions
 
 | Name                       | Global | Workspace | High resource usage  |
 | -------------------------- | ------ | --------- | -------------------- |
-| Deno                       | -      | +         | RAM                  |
 | i18n ally                  | -      | -         | RAM                  |
 | IntelliCode API Usage      | -      | -         | CPU/RAM              |
 | Stylelint                  | -      | +         | CPU/RAM              |

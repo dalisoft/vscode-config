@@ -18,7 +18,6 @@ codezombiech.gitignore
 davidanson.vscode-markdownlint
 denoland.vscode-deno
 docker.docker
-dprint.dprint
 editorconfig.editorconfig
 emilast.logfilehighlighter
 fanaticpythoner.better-todo-tree
