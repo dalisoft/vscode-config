@@ -15,9 +15,6 @@ charliermarsh.ruff
 christian-kohler.npm-intellisense
 clinyong.vscode-css-modules
 codezombiech.gitignore
-cweijan.dbclient-jdbc
-cweijan.vscode-database-client2
-damms005.devdb
 davidanson.vscode-markdownlint
 denoland.vscode-deno
 docker.docker
@@ -42,7 +39,6 @@ ibm.output-colorizer
 ikuyadeu.r-pack
 jaredly.reason-vscode
 jock.svg
-khanghua.sqltools-dynamodb-driver
 koichisasada.vscode-rdbg
 kokororin.vscode-phpfmt
 lokalise.i18n-ally
@@ -52,11 +48,9 @@ mermaidchart.vscode-mermaid-chart
 mgmcdermott.vscode-language-babel
 mhutchie.git-graph
 mikestead.dotenv
-mongodb.mongodb-vscode
 mrmlnc.vscode-apache
 mrmlnc.vscode-scss
 ms-azuretools.vscode-containers
-ms-ossdata.vscode-pgsql
 ms-python.debugpy
 ms-python.gather
 ms-python.isort
@@ -79,10 +73,6 @@ ms-vscode.powershell
 ms-vscode.remote-explorer
 ms-vscode.remote-repositories
 ms-vscode.vscode-js-profile-flame
-mtxr.sqltools
-mtxr.sqltools-driver-mysql
-mtxr.sqltools-driver-pg
-mtxr.sqltools-driver-sqlite
 natizyskunk.sftp
 naumovs.color-highlight
 oven.bun-vscode
