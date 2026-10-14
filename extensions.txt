@@ -15,7 +15,6 @@ christian-kohler.npm-intellisense
 clinyong.vscode-css-modules
 codezombiech.gitignore
 davidanson.vscode-markdownlint
-denoland.vscode-deno
 docker.docker
 editorconfig.editorconfig
 emilast.logfilehighlighter
