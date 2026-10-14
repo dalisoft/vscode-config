@@ -69,7 +69,6 @@ ms-vscode.vscode-js-profile-flame
 natizyskunk.sftp
 naumovs.color-highlight
 oven.bun-vscode
-oxc.oxc-vscode
 peterj.proto
 pkief.material-icon-theme
 pnp.polacode
