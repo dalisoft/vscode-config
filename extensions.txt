@@ -39,7 +39,6 @@ koichisasada.vscode-rdbg
 kokororin.vscode-phpfmt
 lokalise.i18n-ally
 mads-hartmann.bash-ide-vscode
-mgmcdermott.vscode-language-babel
 mhutchie.git-graph
 mikestead.dotenv
 mrmlnc.vscode-apache
@@ -76,7 +75,6 @@ pomdtr.excalidraw-editor
 prisma.prisma
 qezhu.gitlink
 qufiwefefwoyn.inline-sql-syntax
-quick-lint.quick-lint-js
 quicktype.quicktype
 raynigon.nginx-formatter
 redhat.java
