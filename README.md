@@ -39,8 +39,6 @@ Disable workspace specific extensions or RAM-hungry extensions
 | GH Actions                 | -      | +         | CPU/RAM              |
 | GH PR and Issues           | -      | +         | CPU/RAM              |
 | HTMLHint                   | -      | +         | RAM                  |
-| quick-lint-js              | -      | +         | CPU                  |
-| Thunder Client             | -      | +         |                      |
 | Shellcheck                 | -      | -         | **Bash IDE** or this |
 
 ## Post-installation
