@@ -27,7 +27,6 @@ github.vscode-github-actions
 github.vscode-pull-request-github
 goessner.mdmath
 golang.go
-grapecity.gc-excelviewer
 hashicorp.terraform
 hediet.vscode-drawio
 htmlhint.vscode-htmlhint
