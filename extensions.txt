@@ -78,7 +78,6 @@ qezhu.gitlink
 qufiwefefwoyn.inline-sql-syntax
 quick-lint.quick-lint-js
 quicktype.quicktype
-rangav.vscode-thunder-client
 raynigon.nginx-formatter
 redhat.java
 redhat.vscode-commons
