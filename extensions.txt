@@ -19,7 +19,6 @@ docker.docker
 editorconfig.editorconfig
 emilast.logfilehighlighter
 fanaticpythoner.better-todo-tree
-figma.figma-vscode-extension
 formulahendry.code-runner
 formulahendry.platformio
 foxundermoon.shell-format
