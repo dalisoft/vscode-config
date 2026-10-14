@@ -5,7 +5,6 @@ bedirt.gpt-token-counter-live
 bierner.markdown-checkbox
 bierner.markdown-emoji
 bierner.markdown-footnotes
-bierner.markdown-mermaid
 bierner.markdown-yaml-preamble
 biomejs.biome
 bmalehorn.vscode-fish
@@ -42,8 +41,6 @@ koichisasada.vscode-rdbg
 kokororin.vscode-phpfmt
 lokalise.i18n-ally
 mads-hartmann.bash-ide-vscode
-mechatroner.rainbow-csv
-mermaidchart.vscode-mermaid-chart
 mgmcdermott.vscode-language-babel
 mhutchie.git-graph
 mikestead.dotenv
