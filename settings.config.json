@@ -920,7 +920,9 @@
   "js/ts.validate.enable": true,
   "js/ts.workspaceSymbols.excludeLibrarySymbols": true,
   "json.format.enable": false,
+  "json.format.keepLines": false,
   "json.maxItemsComputed": 500,
+  "json.schemaDownload.enable": true,
   "json.schemaDownload.trustedDomains": {
     "https://biomejs.dev": true,
     "https://developer.microsoft.com/json-schemas/": true,
@@ -934,7 +936,10 @@
     "https://schemastore.azurewebsites.net/": true,
     "https://www.schemastore.org/": true
   },
+  "json.schemas": [],
   "json.sortOnSave.enable": false,
+  "json.trace.server": "off",
+  "json.validate.enable": true,
   "jsona.executable.bundled": true,
   "jsona.formatter.indentString": "  ",
   "jsona.formatter.trailingComma": false,
