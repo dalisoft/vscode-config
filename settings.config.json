@@ -229,6 +229,8 @@
   "chat.notifyWindowOnConfirmation": "windowNotFocused",
   "chat.notifyWindowOnResponseReceived": "windowNotFocused",
   "chat.permissions.default": "autoApprove",
+  "chat.persistentProgress": "drawMonochrome",
+  "chat.persistentProgressVerbosity": "compact",
   "chat.planReview.inlineEditor.enabled": true,
   "chat.pluginLocations": {},
   "chat.plugins.enabled": true,
