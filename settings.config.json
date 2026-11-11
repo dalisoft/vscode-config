@@ -1474,7 +1474,7 @@
   "workbench.editorLargeFileConfirmation": 2048,
   "workbench.enableExperiments": false,
   "workbench.experimental.enableNewProfilesUI": true,
-  "workbench.experimental.modernUI": true,
+  "workbench.experimental.modernUI": false,
   "workbench.experimental.modernUIEditorTabStyle": "connected",
   "workbench.experimental.modernUIUppercaseViewHeaders": true,
   "workbench.experimental.settingsProfiles.enabled": false,
