@@ -1357,7 +1357,7 @@
   "terminal.integrated.suggest.showStatusBar": true,
   "terminal.integrated.suggest.suggestOnTriggerCharacters": false,
   "terminal.integrated.tabs.allowAgentCliTitle": true,
-  "terminal.integrated.tabs.enabled": true,
+  "terminal.integrated.tabs.enabled": false,
   "terminal.integrated.tabs.location": "right",
   "terminal.integrated.tabs.showActiveTerminal": "singleTerminalOrNarrow",
   "terminal.integrated.tabs.title": "${process}",
