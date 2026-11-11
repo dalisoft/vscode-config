@@ -1395,7 +1395,7 @@
   "window.confirmSaveUntitledWorkspace": true,
   "window.controlStyle": "native",
   "window.customTitleBarVisibility": "windowed",
-  "window.density.layout": "default",
+  "window.density.layout": "compact",
   "window.dialogStyle": "native",
   "window.experimental.useSandbox": false,
   "window.menuBarVisibility": "compact",
