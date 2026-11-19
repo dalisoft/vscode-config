@@ -160,6 +160,7 @@
   "chat.agentHost.devContainer.samples.enabled": true,
   "chat.agentHost.enabled": true,
   "chat.agentHost.moveChats.enabled": false,
+  "chat.agentHost.multipleChatProviders.enabled": true,
   "chat.agentMerge.enabled": true,
   "chat.agentMerge.fixCI": true,
   "chat.agentMerge.resolveConflicts": true,
@@ -222,6 +223,7 @@
   "chat.fontFamily": "default",
   "chat.fontSize": 14,
   "chat.imageCarousel.enabled": true,
+  "chat.inlineAttachments.enabled": true,
   "chat.instructionsFilesLocations": {
     ".github/instructions": true
   },
@@ -248,6 +250,7 @@
     "github/copilot-plugins",
     "github/awesome-copilot"
   ],
+  "chat.progressBorder.enabled": true,
   "chat.promptFiles": true,
   "chat.promptFilesLocations": {
     ".github/prompts": true
