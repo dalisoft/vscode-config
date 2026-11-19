@@ -1,0 +1,15 @@
+[global]
+# Docs keep one paragraph per line.
+disable = [ "MD013" ]
+# Agent worktrees are separate checkouts, not library files.
+exclude = [ ".claude/worktrees" ]
+
+
+[MD060]
+enabled = true
+style = "aligned-no-space"
+
+[MD096]
+enabled = true
+column = "Name"
+order = "asc"
