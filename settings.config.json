@@ -90,15 +90,19 @@
     "sound": "auto"
   },
   "accessibility.signals.taskCompleted": {
+    "announcement": "auto",
     "sound": "auto"
   },
   "accessibility.signals.taskFailed": {
+    "announcement": "auto",
     "sound": "auto"
   },
   "accessibility.signals.terminalBell": {
+    "announcement": "off",
     "sound": "on"
   },
   "accessibility.signals.terminalQuickFix": {
+    "announcement": "auto",
     "sound": "auto"
   },
   "accessibility.verboseChatProgressUpdates": true,
