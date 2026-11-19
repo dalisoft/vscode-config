@@ -28,7 +28,7 @@ Disable workspace specific extensions or RAM-hungry extensions
 - Disable these extensions to save CPU and memory when not needed
 
 | Name                       | Global | Workspace | High resource usage  |
-| -------------------------- | ------ | --------- | -------------------- |
+|----------------------------|--------|-----------|----------------------|
 | i18n ally                  | -      | -         | RAM                  |
 | IntelliCode API Usage      | -      | -         | CPU/RAM              |
 | Stylelint                  | -      | +         | CPU/RAM              |
